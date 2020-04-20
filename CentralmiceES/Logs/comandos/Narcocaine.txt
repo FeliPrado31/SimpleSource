@@ -1,0 +1,570 @@
+==================================================
+Fecha: [18/04/2020 - 05:24:05]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['mjj 1']
+==================================================
+Fecha: [18/04/2020 - 05:24:23]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['commands']
+==================================================
+Fecha: [18/04/2020 - 05:24:25]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['help']
+==================================================
+Fecha: [18/04/2020 - 14:12:12]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['mjj 1']
+==================================================
+Fecha: [18/04/2020 - 14:12:16]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:12:27]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['stat']
+==================================================
+Fecha: [18/04/2020 - 14:12:30]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['toyon']
+==================================================
+Fecha: [18/04/2020 - 14:13:24]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:13:32]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:14:14]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['colornick chaat 15446766']
+==================================================
+Fecha: [18/04/2020 - 14:14:18]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['chatcolor']
+==================================================
+Fecha: [18/04/2020 - 14:16:38]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['colornick chat 14584290']
+==================================================
+Fecha: [18/04/2020 - 14:16:58]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['mod a']
+==================================================
+Fecha: [18/04/2020 - 14:17:33]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['mjj 1']
+==================================================
+Fecha: [18/04/2020 - 14:17:46]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:18:45]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['titre 449']
+==================================================
+Fecha: [18/04/2020 - 14:18:55]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['titre 452']
+==================================================
+Fecha: [18/04/2020 - 14:19:00]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:19:26]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['vip Hola']
+==================================================
+Fecha: [18/04/2020 - 14:19:33]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['profil Truenolaser']
+==================================================
+Fecha: [18/04/2020 - 14:20:12]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:20:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-survivor1] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 14:25:54]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:30:17]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:30:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:31:48]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*abril diosa perrrrrrisima] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 14:33:05]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*abril diosa perrrrrrisima] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:33:48]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*abril diosa perrrrrrisima] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 14:36:29]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*abril diosa perrrrrrisima] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 14:40:19]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*abril diosa perrrrrrisima] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 14:40:52]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*DEAD] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:42:43]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*DEAD] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:45:48]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:01:26]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['mod Hola']
+==================================================
+Fecha: [18/04/2020 - 15:02:00]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['mod ola']
+==================================================
+Fecha: [18/04/2020 - 15:03:27]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Hola']
+==================================================
+Fecha: [18/04/2020 - 15:03:38]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador']
+==================================================
+Fecha: [18/04/2020 - 15:03:44]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Joder al fin']
+==================================================
+Fecha: [18/04/2020 - 15:03:47]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Tengo hambre']
+==================================================
+Fecha: [18/04/2020 - 15:03:52]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 15:03:57]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:04:19]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Como se le agrega tiempo a una sala?']
+==================================================
+Fecha: [18/04/2020 - 15:04:47]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['time 10']
+==================================================
+Fecha: [18/04/2020 - 15:05:13]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 15:05:18]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['np @58577']
+==================================================
+Fecha: [18/04/2020 - 15:05:50]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador SI me funcionan los comandos de helper xd']
+==================================================
+Fecha: [18/04/2020 - 15:05:58]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador S\xc3\x8d']
+==================================================
+Fecha: [18/04/2020 - 15:06:14]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Que']
+==================================================
+Fecha: [18/04/2020 - 15:06:18]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Bueno de lo que sea']
+==================================================
+Fecha: [18/04/2020 - 15:06:45]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Modo Funcorp?']
+==================================================
+Fecha: [18/04/2020 - 15:08:41]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Veo']
+==================================================
+Fecha: [18/04/2020 - 15:08:57]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Solo tengo 3 comandos?']
+==================================================
+Fecha: [18/04/2020 - 15:09:23]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Mute, adv, ban']
+==================================================
+Fecha: [18/04/2020 - 15:09:25]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador ...']
+==================================================
+Fecha: [18/04/2020 - 15:09:32]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Esos comandos no son mios xd']
+==================================================
+Fecha: [18/04/2020 - 15:09:35]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Ah ya']
+==================================================
+Fecha: [18/04/2020 - 15:09:59]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Dale']
+==================================================
+Fecha: [18/04/2020 - 15:10:36]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['die']
+==================================================
+Fecha: [18/04/2020 - 15:11:33]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Ya veo']
+==================================================
+Fecha: [18/04/2020 - 15:13:20]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Nno entendi esto']
+==================================================
+Fecha: [18/04/2020 - 15:13:24]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderadorBueno cuando llega a una linea y media se da Advertencia, pasando la linea y media es mute directo.']
+==================================================
+Fecha: [18/04/2020 - 15:13:36]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Tipos asiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii']
+==================================================
+Fecha: [18/04/2020 - 15:13:48]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador xd']
+==================================================
+Fecha: [18/04/2020 - 15:15:16]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Ok']
+==================================================
+Fecha: [18/04/2020 - 15:15:43]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Voy por el an']
+==================================================
+Fecha: [18/04/2020 - 15:15:46]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Ban']
+==================================================
+Fecha: [18/04/2020 - 15:16:24]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['find Abril']
+==================================================
+Fecha: [18/04/2020 - 15:16:40]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['ipnom Abri\xc3\xb1']
+==================================================
+Fecha: [18/04/2020 - 15:16:47]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['ipnom Abril']
+==================================================
+Fecha: [18/04/2020 - 15:16:56]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['ip Abri\xc3\xb1']
+==================================================
+Fecha: [18/04/2020 - 15:16:59]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['ip Abril']
+==================================================
+Fecha: [18/04/2020 - 15:17:28]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Estaba probando comandos']
+==================================================
+Fecha: [18/04/2020 - 15:17:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Kycn']
+==================================================
+Fecha: [18/04/2020 - 15:18:29]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Porque soy la unica que no puede hablar']
+==================================================
+Fecha: [18/04/2020 - 15:20:10]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['hide']
+==================================================
+Fecha: [18/04/2020 - 15:20:15]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['unhide']
+==================================================
+Fecha: [18/04/2020 - 15:20:17]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:20:53]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:21:06]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador No']
+==================================================
+Fecha: [18/04/2020 - 15:21:59]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Tienes los comandos de los rangos inferiores al mio?']
+==================================================
+Fecha: [18/04/2020 - 15:23:02]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Nada (?']
+==================================================
+Fecha: [18/04/2020 - 15:23:14]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador np']
+==================================================
+Fecha: [18/04/2020 - 15:23:22]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['vip a']
+==================================================
+Fecha: [18/04/2020 - 15:26:17]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Abril que rango es que tenes']
+==================================================
+Fecha: [18/04/2020 - 15:27:00]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Ah xd']
+==================================================
+Fecha: [18/04/2020 - 15:28:42]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['settime 50']
+==================================================
+Fecha: [18/04/2020 - 15:29:09]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador']
+==================================================
+Fecha: [18/04/2020 - 15:30:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:33:15]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Abril tengo otra duda']
+==================================================
+Fecha: [18/04/2020 - 15:33:38]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador No recuerdo en que mice los moderadores no pueden estar en una sala m\xc3\xa1s de 10 minutos seguidos']
+==================================================
+Fecha: [18/04/2020 - 15:34:33]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Mira dc']
+==================================================
+Fecha: [18/04/2020 - 15:34:45]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Ah estas en primera fila xd']
+==================================================
+Fecha: [18/04/2020 - 15:35:55]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:44:42]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 15:45:49]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador &lt;3']
+==================================================
+Fecha: [18/04/2020 - 15:46:35]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Algo lag me dio']
+==================================================
+Fecha: [18/04/2020 - 15:52:30]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['startsnow']
+==================================================
+Fecha: [18/04/2020 - 15:52:46]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['Startsnow']
+==================================================
+Fecha: [18/04/2020 - 15:53:20]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['lsmodo']
+==================================================
+Fecha: [18/04/2020 - 15:54:39]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador Duh']
+==================================================
+Fecha: [18/04/2020 - 15:54:42]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['Startsnow QUE']
+==================================================
+Fecha: [18/04/2020 - 15:54:52]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador']
+==================================================
+Fecha: [18/04/2020 - 15:54:56]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador QUE']
+==================================================
+Fecha: [18/04/2020 - 15:55:01]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador a']
+==================================================
+Fecha: [18/04/2020 - 15:58:12]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['size big']
+==================================================
+Fecha: [18/04/2020 - 15:58:17]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador A']
+==================================================
+Fecha: [18/04/2020 - 15:58:21]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['moderador YO TAMPOCOOOOOOO']
+==================================================
+Fecha: [18/04/2020 - 15:59:38]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:01:31]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador N0']
+==================================================
+Fecha: [18/04/2020 - 16:01:54]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador No F']
+==================================================
+Fecha: [18/04/2020 - 16:03:10]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['die']
+==================================================
+Fecha: [18/04/2020 - 16:03:26]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador Pq sos asi :C']
+==================================================
+Fecha: [18/04/2020 - 16:03:27]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:03:59]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:04:49]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador QUE']
+==================================================
+Fecha: [18/04/2020 - 16:05:06]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador no']
+==================================================
+Fecha: [18/04/2020 - 16:05:09]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador tengo']
+==================================================
+Fecha: [18/04/2020 - 16:05:10]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador mouse']
+==================================================
+Fecha: [18/04/2020 - 16:06:26]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador NO SOY HOMBRE']
+==================================================
+Fecha: [18/04/2020 - 16:06:48]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador Soy amigo? Ok']
+==================================================
+Fecha: [18/04/2020 - 16:07:12]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['moderador Dame vip gold']
+==================================================
+Fecha: [18/04/2020 - 16:07:18]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:07:49]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['moderador .-.']
+==================================================
+Fecha: [18/04/2020 - 16:10:13]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:10:50]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:10:57]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['profil Lovs']
+==================================================
+Fecha: [18/04/2020 - 16:11:37]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['chatcolor']
+==================================================
+Fecha: [18/04/2020 - 16:11:44]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['colorchat']
+==================================================
+Fecha: [18/04/2020 - 16:14:13]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:17:35]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:19:49]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:20:31]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:59:36]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['mjj 1']
+==================================================
+Fecha: [18/04/2020 - 16:59:50]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-1] Comando: ['mjj #reversedeath']
+==================================================
+Fecha: [18/04/2020 - 17:01:57]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-#reversedeath1] Comando: ['profil Less']
+==================================================
+Fecha: [18/04/2020 - 17:02:02]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-#reversedeath1] Comando: ['profil Less']
+==================================================
+Fecha: [18/04/2020 - 17:02:11]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-#reversedeath1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 17:02:16]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-#reversedeath1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 17:03:02]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:03:14]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-#reversedeath1] Comando: ['nickcolor']
+==================================================
+Fecha: [18/04/2020 - 17:03:55]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-bootcamp1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 17:07:35]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-bootcamp1] Comando: ['die']
+==================================================
+Fecha: [18/04/2020 - 17:09:25]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-bootcamp1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 17:09:45]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-bootcamp1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 17:10:27]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-bootcamp1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 17:12:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['nickcolor sirve?']
+==================================================
+Fecha: [18/04/2020 - 17:13:00]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:13:30]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['colornick']
+==================================================
+Fecha: [18/04/2020 - 17:16:32]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:21:31]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:24:11]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:29:57]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:32:21]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['kill Abril']
+==================================================
+Fecha: [18/04/2020 - 17:32:25]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:33:03]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:36:26]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:37:08]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['np @39877']
+==================================================
+Fecha: [18/04/2020 - 17:42:10]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:46:26]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:51:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:58:44]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:59:00]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:00:18]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:01:33]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:06:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 18:06:37]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['pn']
+==================================================
+Fecha: [18/04/2020 - 18:06:39]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 18:09:08]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['miid']
+==================================================
+Fecha: [18/04/2020 - 18:14:41]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:22:01]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:22:13]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['npp @57497']
+==================================================
+Fecha: [18/04/2020 - 18:22:44]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:26:29]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['colornick name 16777215']
+==================================================
+Fecha: [18/04/2020 - 18:26:43]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['colornick chat 15329969']
+==================================================
+Fecha: [18/04/2020 - 18:26:50]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:27:15]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:27:56]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:34:33]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['profil Hath']
+==================================================
+Fecha: [18/04/2020 - 18:35:52]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['profil Gnn']
+==================================================
+Fecha: [18/04/2020 - 18:36:24]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:40:24]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:41:41]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:42:35]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:45:56]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['profil Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 18:46:23]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:50:34]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:52:31]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:59:13]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 20:40:26]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-bootcamp1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 20:40:43]
+Usuario: [Narcocaine] IP: (191.102.196.146) Sala: [es-bootcamp1] Comando: ['np']

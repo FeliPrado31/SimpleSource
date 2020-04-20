@@ -1,0 +1,257 @@
+		if this.changeMapTimer != None:
+			try:this.changeMapTimer.cancel()
+			except:this.changeMapTimer = None
+
+		for room in this.server.rooms.values():
+			for playerCode, client in room.clients.items():
+				if this.isDeathmatch or this.isReverseDeath or this.isSurviMatch:
+					if not this.contagemDeath is None:
+						try:this.contagemDeath.cancel()
+						except:this.contagemDeath = None
+
+		if not this.canChangeMap:
+			this.changeMapAttemps += 1
+			if this.changeMapAttemps < 5:
+				this.changeMapTimer = reactor.callLater(1, this.mapChange)
+				pass # return
+
+		for timer in this.roomTimers:
+			try:timer.cancel()
+			except:timer = None
+
+		this.roomTimers = []
+
+		for timer in [this.voteCloseTimer, this.killAfkTimer, this.autoRespawnTimer, this.startTimerLeft]:
+			if timer != None:
+				try:timer.cancel()
+				except:timer = None
+
+		if this.initVotingMode:
+			if not this.isVotingBox and (this.mapPerma == 0 and this.mapCode != -1) and this.getPlayerCount() >= 2:
+				this.isVotingMode = True
+				this.isVotingBox = True
+				this.voteCloseTimer = reactor.callLater(8, this.closeVoting)
+				for player in this.clients.values():
+					player.sendPacket(Identifiers.old.send.Vote_Box, [this.mapName, this.mapYesVotes, this.mapNoVotes])
+			else:
+				this.votingMode = False
+				this.closeVoting()
+
+		elif this.isTribeHouse and this.isTribeHouseMap:
+			pass
+		else:
+			if this.isVotingMode:
+				TotalYes = this.mapYesVotes + this.receivedYes
+				TotalNo = this.mapNoVotes + this.receivedNo
+				isDel = False
+
+				if TotalYes + TotalNo >= 100:
+					TotalVotes = TotalYes + TotalNo
+					Rating = (1.0 * TotalYes / TotalNo) * 100
+					rate = str(Rating).split(".")
+					if int(rate[0]) < 50:
+						isDel = True
+				Cursor.execute("update mapeditor set YesVotes = %s, NoVotes = %s, Perma = 44 where Code = %s" if isDel else "update mapeditor set YesVotes = %s, NoVotes = %s where Code = %s", [TotalYes, TotalNo, this.mapCode])
+				this.isVotingMode = False
+				this.receivedNo = 0
+				this.receivedYes = 0
+				for player in this.clients.values():
+					player.qualifiedVoted = False
+					player.isVoted = False
+
+			this.initVotingMode = True
+			this.lastRoundCode = (this.lastRoundCode + 1) % 127
+
+			if this.isSurvivor:
+				for player in this.clients.values():
+					if not player.isDead and not player.isVampire and not player.isShaman:
+						if not this.noAutoScore: player.playerScore += 10
+
+			if this.catchTheCheeseMap:
+				this.catchTheCheeseMap = False
+			else:
+				numCom = this.FSnumCompleted - 1 if this.isDoubleMap else this.numCompleted - 1
+				numCom2 = this.SSnumCompleted - 1 if this.isDoubleMap else 0
+				if numCom < 0: numCom = 0
+				if numCom2 < 0: numCom2 = 0
+				player = this.clients.get(this.currentShamanName)
+				if player != None:
+					this.sendAll(Identifiers.old.send.Shaman_Perfomance, [this.currentShamanName, numCom])
+					if not this.noAutoScore: player.playerScore = numCom
+					if numCom > 0:
+						player.parseSkill.earnExp(True, numCom)
+					# if not this.noAutoScore: player.playerScore = 0
+
+				player2 = this.clients.get(this.currentSecondShamanName)
+				if player2 != None:
+					this.sendAll(Identifiers.old.send.Shaman_Perfomance, [this.currentSecondShamanName, numCom2])
+					if not this.noAutoScore: player2.playerScore = numCom2
+					if numCom2 > 0:
+						player2.parseSkill.earnExp(True, numCom2)
+					# if not this.noAutoScore: player2.playerScore = 0
+
+			if this.getPlayerCount() >= this.server.needToFirst:
+				this.giveSurvivorStats() if this.isSurvivor else this.giveRacingStats() if this.isRacing else None
+
+			this.currentSyncCode = -1
+			this.currentShamanCode = -1
+			this.currentShamanType = -1
+			this.currentSecondShamanCode = -1
+			this.currentSecondShamanType = -1
+
+			this.currentSyncName = ""
+			this.currentShamanName = ""
+			this.currentSecondShamanName = ""
+			
+			this.currentShamanSkills = {}
+			this.currentSecondShamanSkills = {}
+			
+			this.changed20secTimer = False
+			this.isDoubleMap = False
+			this.isNoShamanMap = False
+			this.FSnumCompleted = 0
+			this.SSnumCompleted = 0
+			this.objectID = 0
+			this.numGetCheese = 0
+			this.addTime = 0
+			this.cloudID = -1
+			this.companionBox = -1
+			this.lastHandymouse = [-1, -1]
+			this.isTribeHouseMap = False
+			this.canChangeMusic = True
+			this.canChangeMap = True
+			this.changeMapAttemps = 0
+			
+			this.getSyncCode()
+			this.anchors = []
+			this.mapStatus = (this.mapStatus + 1) % 10
+
+			this.numCompleted = 0
+			
+			if this.isTribeHouse and not this.forceNextMap == '-1':
+				this.autoRespawn = False
+				this.never20secTimer = False
+				this.noShaman = False
+				this.disableAfkKill = False
+				this.isFixedMap = False
+				this.roundTime = 120
+			elif this.isTribeHouse:
+				this.autoRespawn = True
+				this.never20secTimer = True
+				this.noShaman = True
+				this.disableAfkKill = True
+				this.isFixedMap = True
+				this.roundTime = 0
+			this.currentMap = this.selectMap()
+			this.checkMapXML()
+
+			if this.currentMap in range(43, 54)+range(138, 144) or this.mapPerma in [8,10] and this.getPlayerCount() >= 3:
+				this.isDoubleMap = True
+
+			if this.mapPerma in [7, 17, 42] or (this.isSurvivor and this.mapStatus == 0):
+				this.isNoShamanMap = True
+
+			if this.currentMap in range(108, 114):
+				this.catchTheCheeseMap = True
+
+			this.gameStartTime = Utils.getTime()
+			this.gameStartTimeMillis = time.time()
+			
+			if this.survivorTimer != None:
+				try: this.survivorTimer.cancel()
+				except: this.survivorTimer = None
+
+			for player in this.clients.values():
+				player.resetPlay()
+
+
+			for player in this.clients.values():
+				player.startPlay()
+
+				if player.isHidden:
+					player.sendPlayerDisconnect()
+					
+					
+			if this.getPlayerCount() >= 999999999999999999:
+					anyone = 1
+					itemID = random.choice([7462,
+					 7463,
+					 7464,
+					 7466,
+					 7467])
+					positionY = random.randint(0, 30)
+					if itemID == 7462:
+						idI = 1
+					elif itemID == 7463:
+						idI = 2
+					elif itemID == 7464:
+						idI = 3
+					elif itemID == 7466:
+						idI = 4
+					elif itemID == 7467:
+						idI = 5
+					for player in this.clients.values():
+						if anyone == 1:
+							p = ByteArray()
+							p.writeByte(24)
+							p.writeByte(idI)
+							p.writeShort(itemID)
+							p.writeShort(positionY)
+							p.writeShort(-100)
+							player.sendPacket([5, 51], p.toByteArray())
+						player.sendPacket([100, 101], '\x01\x01') 
+
+			for player in this.clients.values():
+				if player.pet != 0:
+					if Utils.getSecondsDiff(player.petEnd) >= 0:
+						player.pet = 0
+						player.petEnd = 0
+					else:
+						this.sendAll(Identifiers.send.Pet, ByteArray().writeInt(player.playerCode).writeUnsignedByte(player.pet).toByteArray())
+
+
+			if this.isMulodrome:
+				this.mulodromeRoundCount += 1
+				this.sendMulodromeRound()
+
+				if this.mulodromeRoundCount <= 10:
+					for player in this.clients.values():
+						if player.playerName in this.blueTeam:
+							this.setNameColor(player.playerName, 0x979EFF)
+						elif player.playerName in this.redTeam:
+							this.setNameColor(player.playerName, 0xFF9396)
+				else:
+					this.sendAll(Identifiers.send.Mulodrome_End)
+
+			if this.isSurvivor and this.mapStatus == 0:
+				this.survivorTimer = reactor.callLater(5, this.sendVampireMode)
+				
+				
+			if this.isDeathmatch or this.isReverseDeath or this.isSurviMatch:
+			   this.canCannon = False
+			   for client in this.clients.values():
+				  reactor.callLater(3, client.sendContagem)
+
+			if (this.isRacing or this.isDefilante or this.isSpeedRace or this.isDeathracing) and not this.isMulodrome:
+				this.roundsCount = (this.roundsCount + 1) % 10
+				if not this.mapPerma == -1 and not this.mapPerma == 41 and not this.mapPerma == 45 and not this.isVillage and not this.is801Room and not this.mapCode == -1 and not this.isTribeHouse:
+					Cursor.execute("select Time from mapeditor where Code = %s", [this.mapCode])
+					rrf = eval(Cursor.fetchone()["Time"])
+					namePlayer = rrf.keys()[0]
+					timePlayer = rrf[rrf.keys()[0]]
+					if timePlayer != 0:
+						text = '<j>'+str(this.mapName)+' <n>- <bl>@'+str(this.mapCode)+'<g> | <n>Récord: <j>'+str(namePlayer)+' <n>- <v>'+str(timePlayer)+''
+						this.sendAll(Identifiers.send.Set_UI_Map_Name, ByteArray().writeUTF(text).toByteArray())
+				player = this.clients.get(this.getHighestScore())
+				this.sendAll(Identifiers.send.Rounds_Count, ByteArray().writeByte(this.roundsCount).writeInt(player.playerCode if player != None else 0).toByteArray())
+				if this.roundsCount == 9:
+					for client in this.clients.values():
+						client.playerScore = 0
+						
+			this.startTimerLeft = reactor.callLater(3, this.startTimer)
+			if not this.isFixedMap and not this.isTribeHouse and not this.isTribeHouseMap:
+				this.changeMapTimer = reactor.callLater(this.roundTime + this.addTime, this.mapChange)
+			
+			this.killAfkTimer = reactor.callLater(30, this.killAfk)
+			if this.autoRespawn or this.isTribeHouseMap:
+				this.autoRespawnTimer = reactor.callLater(2, this.respawnMice)

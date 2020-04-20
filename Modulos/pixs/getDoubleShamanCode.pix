@@ -1,0 +1,23 @@
+if this.currentShamanCode == -1 and this.currentSecondShamanCode == -1:
+	if this.forceNextShaman > 0:
+		this.currentShamanCode = this.forceNextShaman
+		this.forceNextShaman = 0
+	else:
+		this.currentShamanCode = this.getHighestScore()
+
+	if this.currentSecondShamanCode == -1:
+		this.currentSecondShamanCode = this.getSecondHighestScore()
+
+	while ( this.currentSecondShamanCode == this.currentShamanCode ):
+		tempClient = random.choice(this.clients.values())
+		this.currentSecondShamanCode = tempClient.playerCode
+
+	for player in this.clients.values():
+		if player.playerCode == this.currentShamanCode:
+			this.currentShamanName = player.playerName
+			this.currentShamanType = player.shamanType
+			this.currentShamanSkills = player.playerSkills
+		elif player.playerCode == this.currentSecondShamanCode:
+			this.currentSecondShamanName = player.playerName
+			this.currentSecondShamanType = player.shamanType
+			this.currentSecondShamanSkills = player.playerSkills		

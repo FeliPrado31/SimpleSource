@@ -1,0 +1,67 @@
+# print "OPEN"
+this.client.sendMessage("ModoPwet Bug")
+
+# if len(this.server.reports['names']) <= 0:
+	# this.client.sendPacket(Identifiers.send.Modopwet_Open, 0)
+# else:
+	# reports, reporters, count, bannedList, deletedList, disconnectList = (0,
+	 # 0,
+	 # 0,
+	 # {},
+	 # {},
+	 # [])
+	# totalReports = len(this.server.reports['names'])
+	# modname = []
+	# packet = ByteArray()
+	# while reports < totalReports:
+		# playerName = this.server.reports['names'][reports]
+		####### player = this.server.players.get(playerName)
+		# totalReporters = len(this.server.reports[playerName]['types'])
+		# reports += 1
+		# if this.client.modoPwetLangue == 'ALL' or this.server.reports[playerName]['langue'] == this.client.modoPwetLangue.upper():
+			# count += 1
+			# if count >= 255:
+				# break
+			# packet.writeByte(count).writeShort(0).writeUTF(this.server.reports[playerName]['langue'].upper()).writeUTF("XD").writeUTF(this.getPlayerRoomName(playerName))
+			# packet.writeByte(1)
+			# modname.append(this.client.playerName.lower())
+			# packet.writeUTF('No Mods' if len(modname)<1 else modname)
+			# packet.writeInt(4)
+			# packet.writeByte(totalReporters)
+			# while reporters < totalReporters:
+				# packet.writeUTF(this.server.reports[playerName]['reporters'][reporters])
+				# packet.writeShort(min(this.getProfileCheeseCount(this.server.reports[playerName]["reporters"][reporters]), 32767))
+				# packet.writeUTF(this.server.reports[playerName]['comments'][reporters])
+				# packet.writeByte(this.server.reports[playerName]['types'][reporters])
+				# packet.writeShort(reporters)
+				# reporters += 1
+
+
+			######## Si el user fue muteado
+			# packet.writeBoolean(False)
+			# if this.client.isMute and 1==2:
+				######## Moderador - Tiempo - Razon
+				# packet.writeUTF("Moderador").writeShort(0).writeUTF('Sexo')
+
+			# if this.server.reports[playerName]['status'] == 'banned':
+				# x = {}
+				# x['banhours'] = this.server.reports[playerName]['banhours']
+				# x['banreason'] = this.server.reports[playerName]['banreason']
+				# x['bannedby'] = this.server.reports[playerName]['bannedby']
+				# bannedList[playerName] = x
+			# if this.server.reports[playerName]['status'] == 'deleted':
+				# x = {}
+				# x['deletedby'] = this.server.reports[playerName]['deletedby']
+				# deletedList[playerName] = x
+			# if this.server.reports[playerName]['status'] == 'disconnected':
+				# disconnectList.append(playerName)
+
+	# this.client.sendPacket(Identifiers.send.Modopwet_Open, ByteArray().writeUnsignedByte(count).writeBytes(packet.toByteArray()).toByteArray())
+	# for user in disconnectList:
+		# this.changeReportStatusDisconnect(user)
+
+	# for user in deletedList.keys():
+		# this.changeReportStatusDeleted(user, deletedList[user]['deletedby'])
+
+	# for user in bannedList.keys():
+		# this.changeReportStatusBanned(user, bannedList[user]['banhours'], bannedList[user]['banreason'], bannedList[user]['bannedby'])

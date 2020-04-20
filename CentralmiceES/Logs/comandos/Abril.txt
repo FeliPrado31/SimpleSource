@@ -1,0 +1,687 @@
+==================================================
+Fecha: [17/04/2020 - 14:56:25]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['size abril 0.5']
+==================================================
+Fecha: [17/04/2020 - 14:56:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:03:45]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:04:43]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:05:40]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['funcorp']
+==================================================
+Fecha: [17/04/2020 - 15:10:33]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:11:47]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 15:11:54]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['staffes']
+==================================================
+Fecha: [17/04/2020 - 15:12:46]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:16:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:17:49]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:18:14]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:18:21]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:18:25]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:18:56]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:19:07]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:19:20]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:19:36]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:20:11]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:26:13]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 15:26:14]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:28:58]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['size abril 0.5']
+==================================================
+Fecha: [17/04/2020 - 15:34:45]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 15:34:57]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:35:56]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:36:00]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [17/04/2020 - 15:37:46]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['npp @26629']
+==================================================
+Fecha: [17/04/2020 - 15:38:15]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [17/04/2020 - 15:39:37]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['kick motto']
+==================================================
+Fecha: [17/04/2020 - 15:39:43]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['kick motto']
+==================================================
+Fecha: [17/04/2020 - 15:41:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:41:48]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['npp @55582']
+==================================================
+Fecha: [17/04/2020 - 15:43:07]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:43:16]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:43:19]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:43:37]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:45:10]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:45:44]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [17/04/2020 - 15:46:00]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:46:49]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['color']
+==================================================
+Fecha: [17/04/2020 - 15:46:58]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:47:30]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 15:47:36]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 15:47:50]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['colornick chat -1']
+==================================================
+Fecha: [17/04/2020 - 15:48:06]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['colornick #ffff 16777215']
+==================================================
+Fecha: [17/04/2020 - 15:48:22]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['color']
+==================================================
+Fecha: [17/04/2020 - 15:48:30]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['colornick chat 16711872']
+==================================================
+Fecha: [17/04/2020 - 15:48:44]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['nickcolor #ffff']
+==================================================
+Fecha: [17/04/2020 - 15:48:48]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 15:48:50]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:50:31]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:50:47]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['colornick chat 16777215']
+==================================================
+Fecha: [17/04/2020 - 15:50:57]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['nickcolor #ffffffff']
+==================================================
+Fecha: [17/04/2020 - 15:51:05]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:51:25]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:51:29]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:54:55]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:56:18]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:56:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:56:28]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:57:11]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:57:17]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [17/04/2020 - 15:57:47]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:57:49]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:58:54]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [17/04/2020 - 15:59:12]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 15:59:14]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [17/04/2020 - 15:59:16]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re motto']
+==================================================
+Fecha: [17/04/2020 - 15:59:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 15:59:48]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [17/04/2020 - 16:01:38]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 16:04:40]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 16:04:47]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 16:05:13]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [17/04/2020 - 16:06:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [17/04/2020 - 16:07:31]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 16:08:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 16:08:34]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 16:08:43]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [17/04/2020 - 16:09:15]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 16:09:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 16:11:27]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re motto']
+==================================================
+Fecha: [17/04/2020 - 16:12:28]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [17/04/2020 - 16:16:42]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['move #deathmatch']
+==================================================
+Fecha: [17/04/2020 - 16:18:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-#deathmatch] Comando: ['move survivor1']
+==================================================
+Fecha: [17/04/2020 - 16:19:00]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 16:19:08]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re abril']
+==================================================
+Fecha: [17/04/2020 - 16:19:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['np']
+==================================================
+Fecha: [17/04/2020 - 16:19:49]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 16:21:07]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['np']
+==================================================
+Fecha: [17/04/2020 - 16:21:42]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re motto']
+==================================================
+Fecha: [17/04/2020 - 17:50:27]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['pw 1234']
+==================================================
+Fecha: [17/04/2020 - 17:51:02]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 17:51:14]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['titre 449']
+==================================================
+Fecha: [17/04/2020 - 17:51:20]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 17:51:47]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['titre 452']
+==================================================
+Fecha: [17/04/2020 - 17:52:46]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 17:53:04]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [17/04/2020 - 17:53:09]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['titre 448']
+==================================================
+Fecha: [17/04/2020 - 17:53:34]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['size abril 0.5']
+==================================================
+Fecha: [18/04/2020 - 14:13:14]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 14:13:57]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re mtg']
+==================================================
+Fecha: [18/04/2020 - 14:14:13]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:14:19]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re truenolaser']
+==================================================
+Fecha: [18/04/2020 - 14:14:30]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['unmute Narcocaine']
+==================================================
+Fecha: [18/04/2020 - 14:15:04]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['unmute truenolaser']
+==================================================
+Fecha: [18/04/2020 - 14:15:09]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['unmute mtg']
+==================================================
+Fecha: [18/04/2020 - 14:15:29]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 14:16:42]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:16:59]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['unmute mtg']
+==================================================
+Fecha: [18/04/2020 - 14:17:07]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['unmute truenolaser']
+==================================================
+Fecha: [18/04/2020 - 14:17:47]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['kick mtg']
+==================================================
+Fecha: [18/04/2020 - 14:18:29]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:20:25]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 14:21:01]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['profil Mtg']
+==================================================
+Fecha: [18/04/2020 - 14:23:59]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-survivor1] Comando: ['move racing1']
+==================================================
+Fecha: [18/04/2020 - 14:33:22]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*abril diosa perrrrrrisima] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:34:06]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*abril diosa perrrrrrisima] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:34:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*abril diosa perrrrrrisima] Comando: ['re abril']
+==================================================
+Fecha: [18/04/2020 - 14:35:55]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*abril diosa perrrrrrisima] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 14:43:29]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*DEAD] Comando: ['move *racing abril']
+==================================================
+Fecha: [18/04/2020 - 14:43:33]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 14:45:12]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 14:52:18]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['adv narcocaine Flamming 1/2']
+==================================================
+Fecha: [18/04/2020 - 14:52:28]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['advertencia Narcocaine Flamming 1/2']
+==================================================
+Fecha: [18/04/2020 - 15:00:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['RE']
+==================================================
+Fecha: [18/04/2020 - 15:01:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['ccm ola']
+==================================================
+Fecha: [18/04/2020 - 15:02:01]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['mod ola']
+==================================================
+Fecha: [18/04/2020 - 15:02:29]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['ccm ola']
+==================================================
+Fecha: [18/04/2020 - 15:03:18]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['moderador a']
+==================================================
+Fecha: [18/04/2020 - 15:04:41]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['time 48932']
+==================================================
+Fecha: [18/04/2020 - 15:05:33]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['time']
+==================================================
+Fecha: [18/04/2020 - 15:06:27]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['cat']
+==================================================
+Fecha: [18/04/2020 - 15:16:03]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['npp @0']
+==================================================
+Fecha: [18/04/2020 - 15:16:12]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 15:16:20]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['time 99999']
+==================================================
+Fecha: [18/04/2020 - 15:16:29]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 15:16:31]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:16:34]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 15:16:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 15:16:43]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['npp @0']
+==================================================
+Fecha: [18/04/2020 - 15:16:45]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 15:16:52]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 15:16:53]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:17:38]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 15:17:42]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 15:18:39]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['settime 9']
+==================================================
+Fecha: [18/04/2020 - 15:19:00]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['settime 99999']
+==================================================
+Fecha: [18/04/2020 - 15:19:25]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re truenolaser']
+==================================================
+Fecha: [18/04/2020 - 15:23:40]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['give truenolaser vip']
+==================================================
+Fecha: [18/04/2020 - 15:23:47]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['give vip truenolaser']
+==================================================
+Fecha: [18/04/2020 - 15:24:25]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['fly abril']
+==================================================
+Fecha: [18/04/2020 - 15:25:33]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['give truenolaser vip gold']
+==================================================
+Fecha: [18/04/2020 - 15:25:40]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['give vip gold truenolaser']
+==================================================
+Fecha: [18/04/2020 - 15:26:10]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 15:30:12]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['ccm ola']
+==================================================
+Fecha: [18/04/2020 - 15:30:34]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:31:11]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:31:18]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:31:21]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re abril']
+==================================================
+Fecha: [18/04/2020 - 15:44:58]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['colornick piel 16068207']
+==================================================
+Fecha: [18/04/2020 - 15:45:00]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 15:45:10]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['colornick piel 16457317']
+==================================================
+Fecha: [18/04/2020 - 15:45:11]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 15:45:15]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:45:31]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 15:51:38]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:57:17]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:57:27]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 15:57:58]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['size narcocaine 0.5']
+==================================================
+Fecha: [18/04/2020 - 15:58:09]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['re douther']
+==================================================
+Fecha: [18/04/2020 - 15:58:16]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['size readme 0.5']
+==================================================
+Fecha: [18/04/2020 - 15:59:33]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['size narcocaine 0.0']
+==================================================
+Fecha: [18/04/2020 - 16:00:00]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [*racing abril] Comando: ['size abril 0.5']
+==================================================
+Fecha: [18/04/2020 - 16:06:06]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:07:14]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['move racing1']
+==================================================
+Fecha: [18/04/2020 - 16:07:18]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:10:12]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:10:19]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['size abril 5']
+==================================================
+Fecha: [18/04/2020 - 16:11:08]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['size abril 0.5']
+==================================================
+Fecha: [18/04/2020 - 16:11:31]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:11:44]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['size hath 0.5']
+==================================================
+Fecha: [18/04/2020 - 16:12:00]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['fly abril']
+==================================================
+Fecha: [18/04/2020 - 16:13:31]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 16:14:16]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:15:05]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 16:15:07]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:17:25]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:19:49]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:21:23]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 16:58:09]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-1] Comando: ['mjj #reversedeath']
+==================================================
+Fecha: [18/04/2020 - 16:58:59]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 17:07:52]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:09:40]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:09:58]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 17:13:08]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:30:05]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:30:07]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 17:37:38]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 17:38:03]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:42:45]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 17:46:25]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:57:29]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 17:58:54]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:59:02]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 17:59:18]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 18:04:22]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 18:05:26]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['kick hath']
+==================================================
+Fecha: [18/04/2020 - 18:06:34]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 18:07:08]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [18/04/2020 - 18:08:15]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['profil Abril']
+==================================================
+Fecha: [18/04/2020 - 18:10:05]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['perfil less']
+==================================================
+Fecha: [18/04/2020 - 18:12:19]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 18:14:58]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:17:10]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:23:24]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:25:21]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:27:21]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:28:28]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 18:34:38]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:34:56]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 18:35:21]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:36:32]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:43:36]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:44:57]
+Usuario: [Abril] IP: (181.44.241.240) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 19:14:28]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 19:16:51]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re keko']
+==================================================
+Fecha: [18/04/2020 - 19:20:04]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 19:22:54]
+Usuario: [Abril] IP: (190.105.63.84) Sala: [es-racing1] Comando: ['mort']

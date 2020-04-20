@@ -1,0 +1,1497 @@
+==================================================
+Fecha: [12/04/2020 - 22:40:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mod']
+==================================================
+Fecha: [12/04/2020 - 22:45:32]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 22:51:13]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Ale admin']
+==================================================
+Fecha: [12/04/2020 - 22:51:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rangos']
+==================================================
+Fecha: [12/04/2020 - 22:51:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['priv']
+==================================================
+Fecha: [12/04/2020 - 22:51:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rango']
+==================================================
+Fecha: [12/04/2020 - 22:52:48]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Ale 14']
+==================================================
+Fecha: [12/04/2020 - 22:56:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath] Comando: ['reboot']
+==================================================
+Fecha: [12/04/2020 - 22:58:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Omar 13']
+==================================================
+Fecha: [12/04/2020 - 23:00:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Omar 13']
+==================================================
+Fecha: [12/04/2020 - 23:01:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath] Comando: ['re']
+==================================================
+Fecha: [12/04/2020 - 23:02:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 23:04:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor1] Comando: ['mod']
+==================================================
+Fecha: [12/04/2020 - 23:04:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor1] Comando: ['equipo']
+==================================================
+Fecha: [12/04/2020 - 23:04:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor1] Comando: ['staff']
+==================================================
+Fecha: [12/04/2020 - 23:12:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Omar']
+==================================================
+Fecha: [12/04/2020 - 23:13:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['ping']
+==================================================
+Fecha: [12/04/2020 - 23:14:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['rank Ale 13']
+==================================================
+Fecha: [12/04/2020 - 23:17:28]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 23:17:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Omar']
+==================================================
+Fecha: [12/04/2020 - 23:19:54]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:20:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:22:25]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['move 1']
+==================================================
+Fecha: [12/04/2020 - 23:22:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 23:24:36]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:24:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [12/04/2020 - 23:28:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:30:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 23:33:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [12/04/2020 - 23:34:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Ale']
+==================================================
+Fecha: [12/04/2020 - 23:34:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Lordbenja']
+==================================================
+Fecha: [12/04/2020 - 23:35:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [12/04/2020 - 23:36:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:36:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [12/04/2020 - 23:37:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:38:18]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Omar']
+==================================================
+Fecha: [12/04/2020 - 23:38:21]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 23:40:13]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 23:49:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['voteban']
+==================================================
+Fecha: [12/04/2020 - 23:49:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['log']
+==================================================
+Fecha: [12/04/2020 - 23:54:07]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['nickcolor']
+==================================================
+Fecha: [12/04/2020 - 23:54:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [12/04/2020 - 23:55:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [12/04/2020 - 23:55:56]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:55:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [12/04/2020 - 23:56:57]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['tutorial']
+==================================================
+Fecha: [13/04/2020 - 00:02:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['nickcolor #FFFFFF']
+==================================================
+Fecha: [13/04/2020 - 00:02:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['referidos']
+==================================================
+Fecha: [13/04/2020 - 00:02:24]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['referidos']
+==================================================
+Fecha: [13/04/2020 - 00:02:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['mutelog']
+==================================================
+Fecha: [13/04/2020 - 00:02:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['mute Douther 1 .']
+==================================================
+Fecha: [13/04/2020 - 00:03:00]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['unmute Douther 1 .']
+==================================================
+Fecha: [13/04/2020 - 00:03:06]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['mutelog']
+==================================================
+Fecha: [13/04/2020 - 00:03:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['teleport']
+==================================================
+Fecha: [13/04/2020 - 00:03:32]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['teleport']
+==================================================
+Fecha: [13/04/2020 - 00:04:14]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['titleshop']
+==================================================
+Fecha: [13/04/2020 - 00:04:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['playerid Wolkout']
+==================================================
+Fecha: [13/04/2020 - 00:06:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['on']
+==================================================
+Fecha: [13/04/2020 - 00:06:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['killall']
+==================================================
+Fecha: [13/04/2020 - 00:07:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['killall']
+==================================================
+Fecha: [13/04/2020 - 00:07:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [13/04/2020 - 00:08:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['emote 1']
+==================================================
+Fecha: [13/04/2020 - 00:08:14]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 00:08:18]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['emote 3']
+==================================================
+Fecha: [13/04/2020 - 00:08:25]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['emote 2']
+==================================================
+Fecha: [13/04/2020 - 00:08:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 00:08:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['selfie']
+==================================================
+Fecha: [13/04/2020 - 00:08:51]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor 1] Comando: ['selfie']
+==================================================
+Fecha: [13/04/2020 - 00:09:03]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor 1] Comando: ['teleport']
+==================================================
+Fecha: [13/04/2020 - 00:09:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor 1] Comando: ['teleport']
+==================================================
+Fecha: [13/04/2020 - 00:13:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['changenick Asd']
+==================================================
+Fecha: [13/04/2020 - 00:14:29]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [13/04/2020 - 00:17:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor 1] Comando: ['on']
+==================================================
+Fecha: [13/04/2020 - 00:20:06]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-survivor1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 00:27:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing] Comando: ['re']
+==================================================
+Fecha: [13/04/2020 - 00:28:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing] Comando: ['vamp Gio']
+==================================================
+Fecha: [13/04/2020 - 00:28:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing] Comando: ['vamp Gio']
+==================================================
+Fecha: [13/04/2020 - 00:28:28]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing] Comando: ['re']
+==================================================
+Fecha: [13/04/2020 - 00:28:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing] Comando: ['vamp Gio']
+==================================================
+Fecha: [13/04/2020 - 00:36:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['smn Tribu fixed, creo.']
+==================================================
+Fecha: [13/04/2020 - 00:37:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['call Problema con la tribu solucionado despu\xc3\xa9s del reinicio.']
+==================================================
+Fecha: [13/04/2020 - 00:37:54]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['reboot']
+==================================================
+Fecha: [13/04/2020 - 00:40:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Trueford']
+==================================================
+Fecha: [13/04/2020 - 00:40:45]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Trueford']
+==================================================
+Fecha: [13/04/2020 - 00:42:14]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['kick Rama']
+==================================================
+Fecha: [13/04/2020 - 00:42:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['kick Rama']
+==================================================
+Fecha: [13/04/2020 - 00:55:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['whisperlog Nyx']
+==================================================
+Fecha: [13/04/2020 - 00:57:28]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['on']
+==================================================
+Fecha: [13/04/2020 - 00:57:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 01:01:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['lsp 7']
+==================================================
+Fecha: [13/04/2020 - 01:01:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['lsp7']
+==================================================
+Fecha: [13/04/2020 - 01:01:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['lsp17']
+==================================================
+Fecha: [13/04/2020 - 01:03:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 03:23:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['on']
+==================================================
+Fecha: [13/04/2020 - 03:23:24]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 03:23:29]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['reboot']
+==================================================
+Fecha: [13/04/2020 - 03:31:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 03:34:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [13/04/2020 - 03:36:25]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 03:41:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 13:41:43]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 13:43:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [13/04/2020 - 13:43:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['election']
+==================================================
+Fecha: [13/04/2020 - 13:43:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 13:43:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['hide']
+==================================================
+Fecha: [13/04/2020 - 13:44:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 13:44:26]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 13:44:32]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['hide']
+==================================================
+Fecha: [13/04/2020 - 13:44:33]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['log']
+==================================================
+Fecha: [13/04/2020 - 13:44:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['hide']
+==================================================
+Fecha: [13/04/2020 - 13:44:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['unhide']
+==================================================
+Fecha: [13/04/2020 - 13:46:07]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [13/04/2020 - 13:46:18]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [13/04/2020 - 13:46:28]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 13:46:32]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 13:46:48]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 13:46:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 13:49:21]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['FUNCORP']
+==================================================
+Fecha: [13/04/2020 - 13:49:25]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['funcorp on']
+==================================================
+Fecha: [13/04/2020 - 13:49:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['killall']
+==================================================
+Fecha: [13/04/2020 - 13:49:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['funcorp off']
+==================================================
+Fecha: [13/04/2020 - 13:49:51]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['funcorp on']
+==================================================
+Fecha: [13/04/2020 - 13:54:24]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['funcorp off']
+==================================================
+Fecha: [13/04/2020 - 13:55:13]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [14/04/2020 - 02:50:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 02:51:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 02:51:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['join Nyx']
+==================================================
+Fecha: [14/04/2020 - 02:51:21]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Hope']
+==================================================
+Fecha: [14/04/2020 - 02:53:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 02:53:43]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['unhide']
+==================================================
+Fecha: [14/04/2020 - 02:53:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['profil Douther']
+==================================================
+Fecha: [14/04/2020 - 02:54:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['profil Nyx']
+==================================================
+Fecha: [14/04/2020 - 02:54:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['profil Hope']
+==================================================
+Fecha: [14/04/2020 - 02:54:10]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['profil Douther']
+==================================================
+Fecha: [14/04/2020 - 02:55:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 02:55:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['unhide']
+==================================================
+Fecha: [14/04/2020 - 02:56:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['profil Douther']
+==================================================
+Fecha: [14/04/2020 - 02:56:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['staff']
+==================================================
+Fecha: [14/04/2020 - 02:57:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 02:58:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['mjoin Xxxtentacion']
+==================================================
+Fecha: [14/04/2020 - 02:58:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 02:59:28]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['whisper']
+==================================================
+Fecha: [14/04/2020 - 02:59:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['whisperlog Nyx']
+==================================================
+Fecha: [14/04/2020 - 03:05:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['hideranktoview13']
+==================================================
+Fecha: [14/04/2020 - 03:05:45]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['hideranktoview12']
+==================================================
+Fecha: [14/04/2020 - 03:05:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['hideranktoview11']
+==================================================
+Fecha: [14/04/2020 - 03:06:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['unhide']
+==================================================
+Fecha: [14/04/2020 - 03:07:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*Spank] Comando: ['mjoin Nyx']
+==================================================
+Fecha: [14/04/2020 - 03:11:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 03:11:06]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['unhide']
+==================================================
+Fecha: [14/04/2020 - 03:11:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 03:11:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['unhide']
+==================================================
+Fecha: [14/04/2020 - 03:29:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['menustaff']
+==================================================
+Fecha: [14/04/2020 - 03:30:26]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['abrirstaff']
+==================================================
+Fecha: [14/04/2020 - 03:31:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Hope] Comando: ['updatesql']
+==================================================
+Fecha: [14/04/2020 - 03:34:35]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mod']
+==================================================
+Fecha: [14/04/2020 - 03:34:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [14/04/2020 - 03:34:57]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Wexford 5']
+==================================================
+Fecha: [14/04/2020 - 03:36:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Wexford 4']
+==================================================
+Fecha: [14/04/2020 - 03:36:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Wexford 3']
+==================================================
+Fecha: [14/04/2020 - 03:36:35]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Wexford 2']
+==================================================
+Fecha: [14/04/2020 - 03:36:51]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Wexford 5']
+==================================================
+Fecha: [14/04/2020 - 03:39:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [14/04/2020 - 03:41:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Lesslie']
+==================================================
+Fecha: [14/04/2020 - 03:50:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['kill Hope']
+==================================================
+Fecha: [14/04/2020 - 03:53:11]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['re']
+==================================================
+Fecha: [14/04/2020 - 03:53:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['profil Douther']
+==================================================
+Fecha: [14/04/2020 - 03:56:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['profil Douther']
+==================================================
+Fecha: [14/04/2020 - 03:58:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['borrarchat']
+==================================================
+Fecha: [14/04/2020 - 03:58:24]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['clearchat']
+==================================================
+Fecha: [14/04/2020 - 04:00:18]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['teleport']
+==================================================
+Fecha: [14/04/2020 - 04:00:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['re']
+==================================================
+Fecha: [14/04/2020 - 04:00:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['teleport']
+==================================================
+Fecha: [14/04/2020 - 04:04:28]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['re']
+==================================================
+Fecha: [14/04/2020 - 04:04:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['re']
+==================================================
+Fecha: [14/04/2020 - 04:04:32]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['re']
+==================================================
+Fecha: [14/04/2020 - 04:04:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['profil Douther']
+==================================================
+Fecha: [14/04/2020 - 04:07:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['vamp Lesslie']
+==================================================
+Fecha: [14/04/2020 - 04:07:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['vamp Lesslie']
+==================================================
+Fecha: [14/04/2020 - 04:08:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['re']
+==================================================
+Fecha: [14/04/2020 - 04:10:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['vamp Lesslie']
+==================================================
+Fecha: [14/04/2020 - 04:10:21]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['vamp Lesslie']
+==================================================
+Fecha: [14/04/2020 - 04:10:23]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['vamp Lesslie']
+==================================================
+Fecha: [14/04/2020 - 04:11:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#deathracing1] Comando: ['vamp Lesslie']
+==================================================
+Fecha: [14/04/2020 - 05:55:33]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 05:55:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 05:55:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['join']
+==================================================
+Fecha: [14/04/2020 - 05:55:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin']
+==================================================
+Fecha: [14/04/2020 - 05:55:51]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin']
+==================================================
+Fecha: [14/04/2020 - 05:55:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 05:56:03]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['reboot']
+==================================================
+Fecha: [14/04/2020 - 05:57:03]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['log']
+==================================================
+Fecha: [14/04/2020 - 05:57:07]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['commandlog']
+==================================================
+Fecha: [14/04/2020 - 05:57:43]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['find Shaury']
+==================================================
+Fecha: [14/04/2020 - 05:59:54]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['find Shaury']
+==================================================
+Fecha: [14/04/2020 - 05:59:56]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:00:00]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Shaury']
+==================================================
+Fecha: [14/04/2020 - 06:00:03]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:00:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['profil Shaury']
+==================================================
+Fecha: [14/04/2020 - 06:00:29]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['profil Shaury']
+==================================================
+Fecha: [14/04/2020 - 06:00:57]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['unhide']
+==================================================
+Fecha: [14/04/2020 - 06:00:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Shaury']
+==================================================
+Fecha: [14/04/2020 - 06:07:36]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 06:07:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:07:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:07:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:07:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['whisperlog Shaury']
+==================================================
+Fecha: [14/04/2020 - 06:08:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 06:08:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['mjoin Shauny']
+==================================================
+Fecha: [14/04/2020 - 06:08:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['lsa']
+==================================================
+Fecha: [14/04/2020 - 06:08:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:09:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['mjoin Shaury']
+==================================================
+Fecha: [14/04/2020 - 06:09:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:09:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['hide']
+==================================================
+Fecha: [14/04/2020 - 06:09:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['profil Xxxtentacion']
+==================================================
+Fecha: [14/04/2020 - 06:13:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['pingde Shaury']
+==================================================
+Fecha: [14/04/2020 - 06:15:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['unhide']
+==================================================
+Fecha: [14/04/2020 - 06:23:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['ip Xxxtentacion']
+==================================================
+Fecha: [14/04/2020 - 06:23:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['ip Berserkwj']
+==================================================
+Fecha: [14/04/2020 - 06:23:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['ban Xxxtentacion 0 Evita usar multicuentas.']
+==================================================
+Fecha: [14/04/2020 - 06:27:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*unique jump] Comando: ['reboot']
+==================================================
+Fecha: [14/04/2020 - 06:28:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ip Douther']
+==================================================
+Fecha: [14/04/2020 - 06:28:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['nomip 181.51.32.203']
+==================================================
+Fecha: [14/04/2020 - 06:28:23]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ipnom 181.51.32.203']
+==================================================
+Fecha: [14/04/2020 - 12:34:25]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 12:34:33]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ip Asdasdasd']
+==================================================
+Fecha: [14/04/2020 - 12:34:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 12:34:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['lsip']
+==================================================
+Fecha: [14/04/2020 - 12:35:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['perfil Fabri']
+==================================================
+Fecha: [14/04/2020 - 12:35:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 12:35:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ip Fabri']
+==================================================
+Fecha: [14/04/2020 - 12:36:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ipnom 107.178.44.21']
+==================================================
+Fecha: [14/04/2020 - 12:36:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [14/04/2020 - 12:37:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Asdasdasd']
+==================================================
+Fecha: [15/04/2020 - 01:38:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mod']
+==================================================
+Fecha: [15/04/2020 - 01:39:06]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [15/04/2020 - 01:39:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [15/04/2020 - 03:16:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [15/04/2020 - 03:17:00]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['frebot']
+==================================================
+Fecha: [15/04/2020 - 03:17:03]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['freboot']
+==================================================
+Fecha: [16/04/2020 - 00:27:23]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:27:24]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:27:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:29:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Readme 13']
+==================================================
+Fecha: [16/04/2020 - 00:29:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:29:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:31:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['reboot']
+==================================================
+Fecha: [16/04/2020 - 00:31:56]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [16/04/2020 - 00:33:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:33:18]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:33:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:35:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['freboot']
+==================================================
+Fecha: [16/04/2020 - 00:36:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:37:26]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['reboot']
+==================================================
+Fecha: [16/04/2020 - 00:37:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:37:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:38:21]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:38:29]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Readme']
+==================================================
+Fecha: [16/04/2020 - 00:38:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:41:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Nyx 13']
+==================================================
+Fecha: [16/04/2020 - 00:42:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:46:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['kill Nyx']
+==================================================
+Fecha: [16/04/2020 - 00:47:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [16/04/2020 - 00:51:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [16/04/2020 - 00:51:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [16/04/2020 - 00:58:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['freboot']
+==================================================
+Fecha: [16/04/2020 - 00:58:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 00:58:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Nyx']
+==================================================
+Fecha: [16/04/2020 - 00:59:45]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Nyx 13']
+==================================================
+Fecha: [16/04/2020 - 01:02:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['fly']
+==================================================
+Fecha: [16/04/2020 - 01:02:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [16/04/2020 - 01:02:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['speed']
+==================================================
+Fecha: [16/04/2020 - 01:04:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['log']
+==================================================
+Fecha: [16/04/2020 - 01:07:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['speed']
+==================================================
+Fecha: [16/04/2020 - 01:07:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['fly']
+==================================================
+Fecha: [16/04/2020 - 01:07:56]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['speed']
+==================================================
+Fecha: [16/04/2020 - 01:08:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['speed']
+==================================================
+Fecha: [16/04/2020 - 01:09:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['re']
+==================================================
+Fecha: [16/04/2020 - 01:09:10]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [16/04/2020 - 01:10:36]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['kill Nyx']
+==================================================
+Fecha: [16/04/2020 - 13:02:35]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 13:11:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 13:12:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjj #hacks']
+==================================================
+Fecha: [16/04/2020 - 13:12:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#hacks1] Comando: ['fly']
+==================================================
+Fecha: [16/04/2020 - 13:20:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 13:30:32]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [16/04/2020 - 13:32:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 13:37:18]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 14:14:43]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [16/04/2020 - 14:14:48]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['freboot']
+==================================================
+Fecha: [16/04/2020 - 14:18:54]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [16/04/2020 - 14:19:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['freboot']
+==================================================
+Fecha: [16/04/2020 - 14:21:32]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 16:36:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['tekashi']
+==================================================
+Fecha: [16/04/2020 - 16:37:00]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 16:37:03]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['titre 2056']
+==================================================
+Fecha: [16/04/2020 - 16:37:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['miid']
+==================================================
+Fecha: [16/04/2020 - 16:40:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [16/04/2020 - 16:40:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [16/04/2020 - 16:45:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['np']
+==================================================
+Fecha: [16/04/2020 - 16:56:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [16/04/2020 - 18:27:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 18:28:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['setconfig']
+==================================================
+Fecha: [16/04/2020 - 18:28:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['setconfig *']
+==================================================
+Fecha: [16/04/2020 - 18:34:07]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 18:41:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-village1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 18:43:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-village1] Comando: ['teleport']
+==================================================
+Fecha: [16/04/2020 - 19:14:00]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-village1] Comando: ['ls']
+==================================================
+Fecha: [16/04/2020 - 19:17:06]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-village1] Comando: ['ls']
+==================================================
+Fecha: [16/04/2020 - 19:17:10]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-village1] Comando: ['teleport']
+==================================================
+Fecha: [16/04/2020 - 19:17:11]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-village1] Comando: ['sala1']
+==================================================
+Fecha: [16/04/2020 - 19:27:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 19:30:10]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Readme']
+==================================================
+Fecha: [16/04/2020 - 20:02:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 20:02:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [16/04/2020 - 20:02:07]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Readme']
+==================================================
+Fecha: [16/04/2020 - 20:33:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [16/04/2020 - 20:33:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [17/04/2020 - 03:26:43]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['s']
+==================================================
+Fecha: [17/04/2020 - 03:26:45]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [17/04/2020 - 03:27:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 03:27:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 04:24:23]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Less']
+==================================================
+Fecha: [17/04/2020 - 04:24:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [17/04/2020 - 04:32:48]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 04:34:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 04:38:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [17/04/2020 - 04:47:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['teleport']
+==================================================
+Fecha: [17/04/2020 - 04:47:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['teleport']
+==================================================
+Fecha: [17/04/2020 - 04:47:25]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:47:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:47:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['teleport']
+==================================================
+Fecha: [17/04/2020 - 04:48:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['teleport']
+==================================================
+Fecha: [17/04/2020 - 04:48:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:48:45]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:48:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:49:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:49:24]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:49:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:49:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:49:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['mort']
+==================================================
+Fecha: [17/04/2020 - 04:51:33]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-bootcamp1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 04:52:29]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 04:54:45]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Less']
+==================================================
+Fecha: [17/04/2020 - 04:55:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Less']
+==================================================
+Fecha: [17/04/2020 - 04:55:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#survimatch1] Comando: ['mjoin Less']
+==================================================
+Fecha: [17/04/2020 - 04:55:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 04:57:14]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Less']
+==================================================
+Fecha: [17/04/2020 - 05:01:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 05:03:11]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['miid']
+==================================================
+Fecha: [17/04/2020 - 05:07:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 05:12:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['RE']
+==================================================
+Fecha: [17/04/2020 - 05:23:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['whisperlog Douther']
+==================================================
+Fecha: [17/04/2020 - 05:30:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 05:32:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 05:33:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re NYX']
+==================================================
+Fecha: [17/04/2020 - 05:33:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 05:33:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Douther']
+==================================================
+Fecha: [17/04/2020 - 05:34:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 05:39:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 05:48:56]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 05:48:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 05:49:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Douther']
+==================================================
+Fecha: [17/04/2020 - 05:49:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Douther']
+==================================================
+Fecha: [17/04/2020 - 05:58:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Less']
+==================================================
+Fecha: [17/04/2020 - 06:02:54]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['miid']
+==================================================
+Fecha: [17/04/2020 - 06:07:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [17/04/2020 - 06:08:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 20:34:13]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['rank Less 10']
+==================================================
+Fecha: [17/04/2020 - 20:34:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [17/04/2020 - 20:37:47]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['kick Less']
+==================================================
+Fecha: [17/04/2020 - 20:45:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['equipo']
+==================================================
+Fecha: [17/04/2020 - 20:45:23]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [17/04/2020 - 20:45:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [17/04/2020 - 21:06:18]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 00:56:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 00:57:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjj #reversedeath']
+==================================================
+Fecha: [18/04/2020 - 00:57:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 00:57:25]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['staff']
+==================================================
+Fecha: [18/04/2020 - 00:57:31]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['rank Less 10']
+==================================================
+Fecha: [18/04/2020 - 01:00:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 01:01:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 01:08:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 01:11:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:11:45]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:12:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:15:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:17:26]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:20:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 01:22:21]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 01:27:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['killall']
+==================================================
+Fecha: [18/04/2020 - 01:29:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['hidetorank13']
+==================================================
+Fecha: [18/04/2020 - 01:29:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['hideranktoview13']
+==================================================
+Fecha: [18/04/2020 - 01:29:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['hideranktoview12']
+==================================================
+Fecha: [18/04/2020 - 01:29:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['staff']
+==================================================
+Fecha: [18/04/2020 - 01:30:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:30:48]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Douther']
+==================================================
+Fecha: [18/04/2020 - 01:31:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Douther']
+==================================================
+Fecha: [18/04/2020 - 01:32:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['comandosfundadorestodoslos']
+==================================================
+Fecha: [18/04/2020 - 01:32:29]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['hideranktoview5']
+==================================================
+Fecha: [18/04/2020 - 01:37:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:41:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['rank Less 10']
+==================================================
+Fecha: [18/04/2020 - 01:42:10]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:43:10]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['killall']
+==================================================
+Fecha: [18/04/2020 - 01:43:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:43:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Douther']
+==================================================
+Fecha: [18/04/2020 - 01:44:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 01:44:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:45:23]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 01:47:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 01:48:21]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['log']
+==================================================
+Fecha: [18/04/2020 - 01:51:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['staff']
+==================================================
+Fecha: [18/04/2020 - 01:51:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 02:04:23]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['gtitle Less 1002']
+==================================================
+Fecha: [18/04/2020 - 02:04:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['gtitle Nyx 1001']
+==================================================
+Fecha: [18/04/2020 - 02:05:17]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-2] Comando: ['mjj #reversedeath']
+==================================================
+Fecha: [18/04/2020 - 02:05:24]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 02:05:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 02:05:28]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Less']
+==================================================
+Fecha: [18/04/2020 - 02:08:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Nyx']
+==================================================
+Fecha: [18/04/2020 - 02:11:22]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Less']
+==================================================
+Fecha: [18/04/2020 - 02:11:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 02:15:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['perfil Less']
+==================================================
+Fecha: [18/04/2020 - 02:16:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Nyx']
+==================================================
+Fecha: [18/04/2020 - 02:18:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 02:20:58]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjj #reversedeath']
+==================================================
+Fecha: [18/04/2020 - 02:23:05]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 02:25:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['reboot']
+==================================================
+Fecha: [18/04/2020 - 02:25:13]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-2] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 02:26:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 02:27:33]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 11:56:53]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 11:56:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['Ls']
+==================================================
+Fecha: [18/04/2020 - 11:57:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['log']
+==================================================
+Fecha: [18/04/2020 - 15:57:56]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 15:58:03]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Abril']
+==================================================
+Fecha: [18/04/2020 - 15:59:51]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*racing abril] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 16:00:06]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [*racing abril] Comando: ['reboot']
+==================================================
+Fecha: [18/04/2020 - 16:01:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 16:07:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['reboot']
+==================================================
+Fecha: [18/04/2020 - 16:09:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 16:11:04]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['funcorp on']
+==================================================
+Fecha: [18/04/2020 - 16:12:06]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['killall']
+==================================================
+Fecha: [18/04/2020 - 16:14:33]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['funcorp off']
+==================================================
+Fecha: [18/04/2020 - 16:15:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 16:24:11]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 16:25:07]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [18/04/2020 - 16:25:13]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['whisperlog Abril']
+==================================================
+Fecha: [18/04/2020 - 16:25:46]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['whisperlog Ale']
+==================================================
+Fecha: [18/04/2020 - 16:28:27]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['teleport']
+==================================================
+Fecha: [18/04/2020 - 16:30:30]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [18/04/2020 - 16:31:13]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 16:43:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['vtitle 1000']
+==================================================
+Fecha: [18/04/2020 - 16:43:59]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['vtitle 1001']
+==================================================
+Fecha: [18/04/2020 - 16:44:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['vtitle 1002']
+==================================================
+Fecha: [18/04/2020 - 17:01:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:01:44]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re Douther']
+==================================================
+Fecha: [18/04/2020 - 17:01:48]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 17:05:51]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 17:29:11]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-#reversedeath1] Comando: ['mjoin Less']
+==================================================
+Fecha: [18/04/2020 - 17:36:02]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Less] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 17:45:57]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Less] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 17:48:09]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:04:01]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['mjoin Less']
+==================================================
+Fecha: [18/04/2020 - 18:08:34]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Less] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 18:10:11]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Less] Comando: ['reboot']
+==================================================
+Fecha: [18/04/2020 - 18:10:16]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Less] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 18:13:49]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['tutorial']
+==================================================
+Fecha: [18/04/2020 - 19:02:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['tutorial']
+==================================================
+Fecha: [18/04/2020 - 19:04:08]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['tutorial']
+==================================================
+Fecha: [18/04/2020 - 19:04:12]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Douther] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 19:05:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Douther] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 19:19:55]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-[Tutorial] Douther] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 19:48:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['ls']
+==================================================
+Fecha: [18/04/2020 - 20:04:15]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['log']
+==================================================
+Fecha: [18/04/2020 - 20:04:20]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['ban']
+==================================================
+Fecha: [18/04/2020 - 20:04:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Nyx']
+==================================================
+Fecha: [18/04/2020 - 20:04:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Nyx']
+==================================================
+Fecha: [18/04/2020 - 20:06:19]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Nyx']
+==================================================
+Fecha: [18/04/2020 - 20:06:26]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['perfil']
+==================================================
+Fecha: [18/04/2020 - 20:06:37]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:06:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:06:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:06:42]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:38]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:39]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:10:40]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:11:41]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:11:50]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-1] Comando: ['move racing1']
+==================================================
+Fecha: [18/04/2020 - 20:28:48]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:29:10]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['profil Douther']
+==================================================
+Fecha: [18/04/2020 - 20:30:33]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 20:32:52]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['killall']
+==================================================
+Fecha: [18/04/2020 - 20:32:57]
+Usuario: [Douther] IP: (181.51.32.203) Sala: [es-racing1] Comando: ['np']

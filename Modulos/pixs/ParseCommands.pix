@@ -1,0 +1,2534 @@
+if command in ["profil", "perfil", "profile"]:
+    if this.client.privLevel >= 1:
+        this.client.sendProfile(Utils.parsePlayerName(args[0]) if len(args) >= 1 else this.client.playerName)
+    
+elif command in ["bootcamp", "vanilla", "survivor", "racing", "defilante", "tutorial"]:
+    this.client.startBulle("bootcamp1" if command == "bootcamp" else "vanilla1" if command == "vanilla" else "survivor1" if command == "survivor" else "racing1" if command == "racing" else "defilante1" if command == "defilante" else (chr(3) + "[Tutorial] " + this.client.playerName) if command == "tutorial" else "Treinamento " + this.client.playerName)
+
+#Agregado by Bryan ↓↓
+
+elif command in ["novedadesmtf"]:
+    if this.client.privLevel >= 1:
+		this.client.sendLogMessage("<font size='20'><R>                  Centro de Novedades - MiniTF v0.173</R></font>\n\n- Menu actualizado\n- Desarrollando compra de TFCoins\n\n<font size='20'>[↓ ↓ ÉSTA TEMPORADA ↓ ↓]</font>\n- 50% de descuento en toda la tienda.\n- Por entrar de primer@: 300 Quesos/300 Fresas\n- Por entrar de segund@: 200 Quesos/200 Fresas\n- Por entrar de tercer@: 100 Quesos/100 Fresas\n- Por entrar cuart@ u otros puestos: 50 Quesos/50 Fresas\n\n<font size='20'>Información Adicional:</font>\n- Las MCoins valen 5 TFCOINS\n- Para ver los VIPS usa <b>/vips</b>\n- Para ver los COMANDOS VIP usa <b>/comandos-vip</b>")
+			
+elif command in ["cerrarbuyvipmenu"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":				
+			this.client.room.removeTextArea(300024, this.client.playerName)
+			this.client.room.removeTextArea(300025, this.client.playerName)
+			this.client.room.removeTextArea(300026, this.client.playerName)
+			this.client.room.removeTextArea(300027, this.client.playerName)
+			this.client.room.removeTextArea(300028, this.client.playerName)
+			this.client.room.removeTextArea(300029, this.client.playerName)
+			this.client.room.removeTextArea(300030, this.client.playerName)
+			this.client.room.removeTextArea(300031, this.client.playerName)
+			
+elif command in ["cerrarbuycheesemenu"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":				
+			this.client.room.removeTextArea(300032, this.client.playerName)
+			this.client.room.removeTextArea(300033, this.client.playerName)
+			this.client.room.removeTextArea(300034, this.client.playerName)
+			this.client.room.removeTextArea(300035, this.client.playerName)
+			this.client.room.removeTextArea(300036, this.client.playerName)
+			this.client.room.removeTextArea(300037, this.client.playerName)
+			this.client.room.removeTextArea(300038, this.client.playerName)
+			this.client.room.removeTextArea(300039, this.client.playerName)
+            
+elif command in ["cerrarbuyfraisemenu"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":				
+			this.client.room.removeTextArea(300040, this.client.playerName)
+			this.client.room.removeTextArea(300041, this.client.playerName)
+			this.client.room.removeTextArea(300042, this.client.playerName)
+			this.client.room.removeTextArea(300043, this.client.playerName)
+			this.client.room.removeTextArea(300044, this.client.playerName)
+			this.client.room.removeTextArea(300045, this.client.playerName)
+			this.client.room.removeTextArea(300046, this.client.playerName)
+			this.client.room.removeTextArea(300047, this.client.playerName)
+            
+elif command in ["cerrarbuytfcoinsmenu"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":				
+			this.client.room.removeTextArea(300048, this.client.playerName)
+			this.client.room.removeTextArea(300049, this.client.playerName)
+			this.client.room.removeTextArea(300050, this.client.playerName)
+			this.client.room.removeTextArea(300051, this.client.playerName)
+			this.client.room.removeTextArea(300052, this.client.playerName)
+			this.client.room.removeTextArea(300053, this.client.playerName)
+			this.client.room.removeTextArea(300054, this.client.playerName)
+			this.client.room.removeTextArea(300055, this.client.playerName)
+            
+elif command in ["tdmantenimiento"]:
+    if this.client.privLevel >= 1:
+		this.client.sendMessage("Woooow, ¡Alto ahi!, eso está en desarrollo, ten paciencia.")
+		
+elif command in ["buyfraise3500"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 3:
+            this.client.nowCoins -=3
+            this.client.sendMessage("Acabas de comprar 3500 FRESAS por 3 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopFraises += 3500
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+        
+elif command in ["buyfraise6500"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 7:
+            this.client.nowCoins -=7
+            this.client.sendMessage("Acabas de comprar 6500 FRESAS por 7 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopFraises += 6500
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+            
+elif command in ["buyfraise15500"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 15:
+            this.client.nowCoins -=15
+            this.client.sendMessage("Acabas de comprar 15500 FRESAS por 15 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopFraises += 15500
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+            
+elif command in ["buyfraise35000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 30:
+            this.client.nowCoins -=30
+            this.client.sendMessage("Acabas de comprar 35000 FRESAS por 30 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopFraises += 35000
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+            
+elif command in ["buyfraise75000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowTokens >= 10:
+            this.client.nowTokens -=10
+            this.client.sendMessage("Acabas de comprar 75000 FRESAS por 10 MCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowTokens)+" MCOINS")
+            this.client.shopFraises += 75000
+        else:
+            this.client.sendMessage("No tienes suficientes MCOINS.")
+            
+elif command in ["buyfraise105000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowTokens >= 15:
+            this.client.nowTokens -=15
+            this.client.sendMessage("Acabas de comprar 105000 FRESAS por 15 MCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowTokens)+" MCOINS")
+            this.client.shopFraises += 105000
+        else:
+            this.client.sendMessage("No tienes suficientes MCOINS.")
+            
+elif command in ["buycheese4500"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 3:
+            this.client.nowCoins -=3
+            this.client.sendMessage("Acabas de comprar 4500 QUESOS por 3 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopCheeses += 4500
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+        
+elif command in ["buycheese10000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 7:
+            this.client.nowCoins -=7
+            this.client.sendMessage("Acabas de comprar 10000 QUESOS por 7 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopCheeses += 10000
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+            
+elif command in ["buycheese25000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 15:
+            this.client.nowCoins -=15
+            this.client.sendMessage("Acabas de comprar 25000 QUESOS por 15 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopCheeses += 25000
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+            
+elif command in ["buycheese55000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowCoins >= 30:
+            this.client.nowCoins -=30
+            this.client.sendMessage("Acabas de comprar 55000 QUESOS por 30 TFCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.client.shopCheeses += 55000
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+            
+elif command in ["buycheese120000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowTokens >= 10:
+            this.client.nowTokens -=10
+            this.client.sendMessage("Acabas de comprar 120000 QUESOS por 10 MCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowTokens)+" MCOINS")
+            this.client.shopCheeses += 120000
+        else:
+            this.client.sendMessage("No tienes suficientes MCOINS.")
+            
+elif command in ["buycheese200000"]:
+    if this.client.privLevel >= 1:
+        if this.client.nowTokens >= 15:
+            this.client.nowTokens -=15
+            this.client.sendMessage("Acabas de comprar 200000 QUESOS por 15 MCOINS.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowTokens)+" MCOINS")
+            this.client.shopCheeses += 200000
+        else:
+            this.client.sendMessage("No tienes suficientes MCOINS.")
+            
+elif command in ["buycvip15"]:
+    if this.client.privLevel == 1:
+        if this.client.nowCoins >= 15:
+            this.client.nowCoins -=15
+            this.client.sendMessage("Acabas de comprar VIP durante 15 DÍAS por 15 TFCOINS, usa <b>/comandos-vip</b> para ver algunos de tus beneficios.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.server.setVip(this.client.playerName, 15)
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+    else:
+        this.client.sendMessage("Ya tienes VIP o un rango superior.")
+			
+elif command in ["buycvip30"]:
+    if this.client.privLevel == 1:
+        if this.client.nowCoins >= 25:
+            this.client.nowCoins -=25
+            this.client.sendMessage("Acabas de comprar VIP durante 30 DÍAS por 25 TFCOINS, usa <b>/comandos-vip</b> para ver algunos de tus beneficios.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.server.setVip(this.client.playerName, 30)
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+    else:
+        this.client.sendMessage("Ya tienes VIP o un rango superior.")
+		
+elif command in ["buypvip10"]:
+    if this.client.privLevel == 1:
+        if this.client.nowCoins >= 20:
+            this.client.nowCoins -=20
+            this.client.sendMessage("Acabas de comprar VIP PRO durante 10 DÍAS por 20 TFCOINS, usa <b>/comandos-vip</b> para ver algunos de tus beneficios.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.server.setVPro(this.client.playerName, 10)
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+    else:
+        this.client.sendMessage("Ya tienes VIP PRO o un rango superior.")
+		
+elif command in ["buypvip20"]:
+    if this.client.privLevel == 1:
+        if this.client.nowCoins >= 30:
+            this.client.nowCoins -=30
+            this.client.sendMessage("Acabas de comprar VIP PRO durante 20 DÍAS por 30 TFCOINS, usa <b>/comandos-vip</b> para ver algunos de tus beneficios.")
+            this.client.sendMessage("Ahora te quedan: "+str(this.client.nowCoins)+" TFCOINS")
+            this.server.setVPro(this.client.playerName, 20)
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+    else:
+        this.client.sendMessage("Ya tienes VIP PRO o un rango superior.")
+		
+elif command in ["buygvip10"]:
+    if this.client.privLevel == 1:
+        if this.client.nowCoins >= 30:
+            this.client.nowCoins -=30
+            this.client.sendMessage("Actualmente tienes: "+str(this.client.nowCoins)+" TFCOINS.")
+            this.client.sendMessage("Acabas de comprar VIP GOLD durante 10 DÍAS por 30 TFCOINS, usa <b>/comandos-vip</b> para ver algunos de tus beneficios.")
+            this.server.setVGold(this.client.playerName, 10)
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+    else:
+        this.client.sendMessage("Ya tienes VIP GOLD o un rango superior.")
+		
+elif command in ["buygvip20"]:
+    if this.client.privLevel == 1:
+        if this.client.nowCoins >= 50:
+            this.client.nowCoins -=50
+            this.client.sendMessage("Actualmente tienes: "+str(this.client.nowCoins)+" TFCOINS.")
+            this.client.sendMessage("Acabas de comprar VIP GOLD durante 20 DÍAS por 50 TFCOINS, usa <b>/comandos-vip</b> para ver algunos de tus beneficios.")
+            this.server.setVGold(this.client.playerName, 20)
+        else:
+            this.client.sendMessage("No tienes suficientes TFCOINS.")
+    else:
+        this.client.sendMessage("Ya tienes VIP GOLD o un rango superior.")
+		
+elif command in ["buyvipnewmenu"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":
+			this.client.sendBuyVipNewMenu()
+			
+elif command in ["abrirmenupart2"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":
+			this.client.sendPart2NewMenu()
+			
+elif command in ["menuopen"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":
+			this.client.sendNewMenu()
+			this.client.room.removeTextArea(300000, this.client.playerName)
+			this.client.room.removeTextArea(300001, this.client.playerName)
+			this.client.room.removeTextArea(300002, this.client.playerName)
+			this.client.room.removeTextArea(300003, this.client.playerName)
+			this.client.room.removeTextArea(300004, this.client.playerName)
+			this.client.room.removeTextArea(300005, this.client.playerName)
+			this.client.room.removeTextArea(300006, this.client.playerName)
+			this.client.room.removeTextArea(300007, this.client.playerName)
+			this.client.room.removeTextArea(300008, this.client.playerName)
+			this.client.room.removeTextArea(300009, this.client.playerName)
+			this.client.room.removeTextArea(300010, this.client.playerName)
+			this.client.room.removeTextArea(300011, this.client.playerName)
+			this.client.room.removeTextArea(300012, this.client.playerName)
+			this.client.room.removeTextArea(300013, this.client.playerName)
+			this.client.room.removeTextArea(300014, this.client.playerName)
+			this.client.room.removeTextArea(300015, this.client.playerName)
+			this.client.room.removeTextArea(300016, this.client.playerName)
+			this.client.room.removeTextArea(300017, this.client.playerName)
+			this.client.room.removeTextArea(300018, this.client.playerName)
+			this.client.room.removeTextArea(300019, this.client.playerName)
+			this.client.room.removeTextArea(300020, this.client.playerName)
+			this.client.room.removeTextArea(300021, this.client.playerName)
+			this.client.room.removeTextArea(300022, this.client.playerName)
+			this.client.room.removeTextArea(300023, this.client.playerName)
+			this.client.room.removeTextArea(300024, this.client.playerName)
+			this.client.room.removeTextArea(300025, this.client.playerName)
+
+elif command in ["cerrarmenuopen"]:
+    if this.client.privLevel >= 1:
+		if this.client.langue == "es":				
+			this.client.room.removeTextArea(299999, this.client.playerName)
+			this.client.room.removeTextArea(300000, this.client.playerName)
+			this.client.room.removeTextArea(300001, this.client.playerName)
+			this.client.room.removeTextArea(300002, this.client.playerName)
+			this.client.room.removeTextArea(300003, this.client.playerName)
+			this.client.room.removeTextArea(300004, this.client.playerName)
+			this.client.room.removeTextArea(300005, this.client.playerName)
+			this.client.room.removeTextArea(300006, this.client.playerName)
+			this.client.room.removeTextArea(300007, this.client.playerName)
+			this.client.room.removeTextArea(300008, this.client.playerName)
+			this.client.room.removeTextArea(300009, this.client.playerName)
+			this.client.room.removeTextArea(300010, this.client.playerName)
+			this.client.room.removeTextArea(300011, this.client.playerName)
+			this.client.room.removeTextArea(300012, this.client.playerName)
+			this.client.room.removeTextArea(300013, this.client.playerName)
+			this.client.room.removeTextArea(300014, this.client.playerName)
+			this.client.room.removeTextArea(300015, this.client.playerName)
+			this.client.room.removeTextArea(300016, this.client.playerName)
+			this.client.room.removeTextArea(300017, this.client.playerName)
+			this.client.room.removeTextArea(300018, this.client.playerName)
+			this.client.room.removeTextArea(300019, this.client.playerName)
+			this.client.room.removeTextArea(300020, this.client.playerName)
+			this.client.room.removeTextArea(300021, this.client.playerName)
+			this.client.room.removeTextArea(300022, this.client.playerName)
+			this.client.room.removeTextArea(300023, this.client.playerName)
+			this.client.room.removeTextArea(300024, this.client.playerName)
+			this.client.room.removeTextArea(300025, this.client.playerName)
+			this.client.sendMessage("• El menú se cerró para que puedas jugar mejor, para abrirlo escribe: <J>/menuopen")
+
+elif command in ["abrirstaff"]:
+    if this.client.privLevel >= 7:
+		if this.client.langue == "es":
+			this.client.sendStaff()
+			this.client.sendMessage("• Ha abierto el menú del STAFF para cerrarlo escribe: <J>/cerrarmenustaff")					
+
+elif command in ["cerrarmenustaff"]:
+    if this.client.privLevel >= 7:
+		if this.client.langue == "es":				
+			this.client.room.removeTextArea(199999, this.client.playerName)
+			this.client.sendMessage("• El menú del STAFF se cerró para una mejor jugabilidad, para abrirlo escriba : <J>/abrirstaff")   						
+
+elif command in ["reglas"]:	
+    if this.client.privLevel >= 4:		
+		inicio = "<p align='center'><b>Equipo Administrativo MiniTF</b></p>"
+		mensaje1 = "\n\n<J>1 <R>- <N>No pelear por rango."
+		mensaje2 = "\n\n<J>2 <R>- <N>No pedir rango, ya te tocara el ascender correctamente."
+		mensaje3 = "\n\n<J>3 <R>- <N>Alguna queja o algo, diganle a Tric."
+		mensaje4 = "\n\n<J>4 <R>- <N>No habràn discusiones en el chat Modo, Arbitre, MapCrew, ni FunCorp o se le darà 1 advertencia a aquellas personas que discutan, a la 2 advertencia se le quitara el rango, o serà bajado a otro rango."		
+		mensaje5 = "\n\n<J>5 <R>- <N>Los Coordinadores deberan acatar todas las ordenes de los Administradores."
+		mensaje6 = "\n\n<J>6 <R>- <N>Los MapCrews deberan hacer 5 mapas al dìa, o se les quitara el rango."
+		mensaje7 = "\n\n<J>7 <R>- <N>El ayudante debera invitar como minìmo 2 Horas al dìa"
+		inicio2 = "\n\n<p align='center'><b>Horas que deben estar conectados el Equipo Administrativo</b></p>"
+		mensajehora1 = "\n\n<J>1 <R>- <N>El Administradores debe estàr màs de <J>7 horas</J> conectado. (Si no esta las 7 horas conectado, se le quitara el rango, o se le bajara a Coordinador)"
+		mensajehora2 = "\n\n<J>2 <R>- <N>El Coordinador debe estàr màs de <J>7 horas</J> conectado. (Si no esta conectado las 7 horas conectado, se le quitara el rango, o se le bajara a SuperModerador)"
+		mensajehora3 = "\n\n<J>3 <R>- <N>El Super Moderador debe estàr màs de <J>6 horas</J> conectado. (Si no esta conectado las 6 horas conectado, se le quita el rango, o se le bajara a Moderador)"
+		mensajehora4 = "\n\n<J>4 <R>- <N>El Moderador debe estàr màs de <J>6 horas</J> conectado. (Si no esta conectado las 6 horas conectado, se le quitara el rango, o se le bajara a 	Ayudante)"
+		mensajehora5 = "\n\n<J>5 <R>- <N>El MapCrew debe estàr màs de <J>5 horas</J> conectado. (Si no esta conectado las 5 horas conectado, se le quitara el rango)"
+		mensajehora6 = "\n\n<J>6 <R>- <N>El Ayudante debe estàr màs de <J>6 horas</J> conectado. (Si no esta conectado las 6 horas conectado, se le quitara el rango)"
+		inicio3 = "\n\n<p align='center'><b>REGLAS / HORAS PARA MUTE</b></p>"	
+		mensajemute1 = "\n\n<J>1 <R>- <N>Insultos / Lenguaje Obsceno / Lenguaje Inapropiado: [<R>2 advertencias</R>] a la 2/2 le daràs mute por <J>1 hora</J>"		
+		mensajemute2 = "\n\n<J>2 <R>- <N>Backseat Modding / Hacerse pasar por un moderador: Si ven a un usuario diciendole a otro Usuario modérate 1/2 es hacerse pasar por moderador, al igual que decir que es uno, (también cuenta como información falsa, pueden elegir cualquiera de las dos razones). Mute 1 hora (No tiene advertencia)"	
+		mensajemute3 = "\n\n<J>3 <R>- <N>Información falsa: Engañar a los jugadores, cosas como vengan a esta sala, dan first, soy mod oculto, soy ayudante de mod, entre otras cosas. Mute 1 hora. (No tiene advertencia)."
+		mensajemute4 = "\n\n<J>4 <R>- <N>Preguntar por hacks/otros servidores piratas/cuentas/contraseñas e intercambio de cuentas: No necesita explicación, mute 1 hora 2 advertencias (excepto por preguntar por otros servidores, es mute inmediato)."	
+		mensajemute5 = "\n\n<J>5 <R>- <N>Mencionar otro servidor: Mute 1 hora, dos advertencias"
+		mensajemute6 = "\n\n<J>6 <R>- <N>Spam / Flood: Debeís dar 2 advertencias, Mute 1 hora."
+		inicio4 = "\n\n<p align='center'><b>REGLAS / HORAS PARA BAN</b></p>"	
+		mensajeban1 = "\n\n<J>1 <R>- <N>Hack: No necesita explicación. 24 horas."		
+		mensajeban2 = "\n\n<J>2 <R>- <N>Servidor pirata: No necesita explicación. 999 horas."	
+		mensajeban3 = "\n\n<J>3 <R>- <N>Compartir links de hack: Pasar a otros usuarios links de hacks. 2 horas.</J>"
+		mensajeban4 = "\n\n<J>4 <R>- <N>Pornografía: Pasar links de videos/páginas inapropiadas. Ban 1 horas."
+		mensajeban5 = "\n\n<J>5 <R>- <N>Evasión de mute: Evadir mute en otra cuenta. Ban 1 hora, si el usuario sigue evadiendo las horas aumentaran (1, 2, 5, 8, 10,15,20,25,30,50,70 y por último si se considera que evade mucho, tendrá IPBAN)"
+		mensajeban6 = "\n\n<J>6 <R>- <N>Racismo / Xenofobia / Homofobia: No necesita explicación. Ban 1 hora."
+		mensajeban7 = "\n\n<J>7 <R>- <N>Tribu / Nombre de usuario inapropiado: No necesita explicación. Ban 0 horas, si vuelve con la cuenta o sigue en la tribu ban 1 hora."
+		mensajeban8 = "\n\n<J>8 <R>- <N>Glitch: Abusar de bug, como el bug time (empezar la ronda antes que todos), ban 0 horas para que deje de abusar, si sigue ban 1 hora."
+		this.client.sendLogMessage(inicio+mensaje1+mensaje2+mensaje3+mensaje4+mensaje5+mensaje6+mensaje7+inicio2+mensajehora1+mensajehora2+mensajehora3+mensajehora4+mensajehora5+mensajehora6+inicio3+mensajemute1+mensajemute2+mensajemute3+mensajemute4+mensajemute5+mensajemute6+inicio3+mensajeban1+mensajeban2+mensajeban3+mensajeban4+mensajeban5+mensajeban6+mensajeban7+mensajeban8)
+
+#Bryan Menu Sistem End
+
+# elif command in ["try"]:
+    # perm = int(args[0])
+    # msg = "Tu permiso numero %s de la tribu es %s." % (perm, this.client.tribulle.getTribePermissions(perm, False))
+    # this.client.sendMessage(msg)
+
+# elif command in ["xispa"]:
+#     if this.client.privLevel >= 9:
+#         this.client.isExplosion = not this.client.isExplosion
+#         this.client.room.bindKeyBoard(this.client.playerName, 32, False, this.client.isExplosion)
+#         this.client.sendMessage("Chispas: " + ("<VP>Activado" if this.client.isExplosion else "<R>Desactivado") + " !")
+
+elif command == "chatlog":
+    if this.client.privLevel >= 12:
+        logFile = open("./CentralmiceES/Logs/Tribulle/Chat.log", "r")
+        logData = logFile.read()
+        logFile.close()
+        this.client.sendLogMessage(logData.replace("<", "&amp;lt;").replace("\x0D\x0A", "\x0A"))
+
+# elif command == "clearchatlog":
+#     if this.client.privLevel >= 12:
+#         oFile = open('./CentralmiceES/Logs/comandos/'+this.client.playerName+'.txt', 'a')
+#         oFile.write(message)
+#         oFile.close()
+		
+elif command == "commandslog":
+    if this.client.privLevel >= 12:
+        logFile = open("./CentralmiceES/Logs/Tribulle/Commands.log", "r")
+        logData = logFile.read()
+        logFile.close()
+        this.client.sendLogMessage(logData.replace("<", "&amp;lt;").replace("\x0D\x0A", "\x0A"))
+		
+elif command == "whisperlog":
+    if this.client.privLevel >= 12:
+        logFile = open("./CentralmiceES/Logs/Tribulle/Susurros/"+str(argsNotSplited)+".log", "r")
+        logData = logFile.read()
+        logFile.close()
+        this.client.sendLogMessage(logData.replace("<", "&amp;lt;").replace("\x0D\x0A", "\x0A"))
+		
+elif command in ["maxplayers"]:
+    if this.client.privLevel >= 8:
+        maxPlayers = int(args[0])
+        if maxPlayers < 1: maxPlayers = 1
+        this.client.room.maxPlayers = maxPlayers
+        this.client.sendMessage("Alteráste el máximo de jugadores en ésta sala en: <V>" +str(maxPlayers))
+
+elif command in ["canjear"]:
+    key = argsNotSplited
+    if key == "mtf_code#FREE-C_h#00011":
+        this.client.sendMessage("Recibiste 20 quesos!")
+        this.client.shopCheeses += 20
+    if key == "mtf_code#FREE-F_r#00022":
+        this.client.sendMessage("Recibiste 20 fresas!")
+        this.client.shopFraises += 20
+    if key == "mtf_code#FREE-B_o#00033":
+        this.client.sendMessage("Recibiste 1 bootcamp!")
+        this.client.bootcampCount += 1
+    if key == "mtf_code#FREE-F_i#00044":
+        this.client.sendMessage("Recibiste 1 first!")
+        this.client.firstCount += 1
+        this.client.cheeseCount += 1
+    if key == "mtf_code#FREE-T_f#00055":
+        this.client.sendMessage("Recibiste 1 TFCoin!")
+        this.client.nowCoins += 1
+    if not key in ["mtf_code#FREE-C_h#00011", "mtf_code#FREE-F_r#00022", "mtf_code#FREE-B_o#00033", "mtf_code#FREE-F_i#00044", "mtf_code#FREE-T_f#00055"]:
+        this.client.sendMessage("Código: "+str(key)+" no existe o dejo de existir, obtén códigos comprando o en eventos!")
+					
+elif command in ["eventodisco"]:
+    if this.client.privLevel >= 11:
+        for client in this.client.room.clients.values():
+            client.discoReady()
+            client.discoMessage()
+
+elif command in ["disco"]:
+    if this.client.privLevel >= 3:
+        this.client.discoUserReady()
+        this.client.discoUserMessage()
+	
+elif command in ["setreferido"] and this.client.playerName in ["Elnas","Youtuberonum"]:
+        if argsCount == 2 and this.server.checkExistingUser(this.client.TFMUtils.parsePlayerName(args[0])) and this.server.checkExistingUser(this.client.TFMUtils.parsePlayerName(args[1])):
+            playerName1 = this.client.TFMUtils.parsePlayerName(args[0])
+            playerName2 = this.client.TFMUtils.parsePlayerName(args[1])
+            # this.client.sendMessage(playerName1+"=>"+playerName2)
+            player2 = this.server.players.get(playerName2)
+            if player2 == None:
+                this.client.sendLangueMessage("", "$erreur.tribulle2.joueurNonConnecte", playerName2)
+            elif player2.referidor == "":
+                player2.referidor = playerName1
+                player2.fresasreferidos(playerName1)
+            else:
+                this.client.sendLangueMessage("", playerName2+" ya tiene referidor.")
+                # player2.referidor = playerName1
+                # player2.fresasreferidos(playerName1, True)
+        else:
+            this.client.sendMessage("Error")
+elif command in ["new_shop"]:
+    if this.client.playerName in ["Douther","Readme"]:
+        this.server.shopList = []
+        this.server.shopListCheck = {}
+        this.server.shopList = "10,1,0,1,0,0,99999999;9,1,0,1,0,0,99999999;8,14,0,1,0,7800,5600;8,13,0,1,0,10000,8900;8,12,0,1,0,1,1;8,11,0,1,0,45000,33333;8,10,0,1,0,45000,45000;8,9,0,1,0,25000,20000;8,8,0,1,0,25000,22500;8,7,0,1,0,25000,22500;8,6,0,1,0,22500,20000;22,122,0,1,0,25000,20000;22,123,0,1,0,16000,14000;22,124,0,1,0,16000,14000;22,125,0,1,0,13000,11000;22,126,0,1,0,16000,14500;22,127,0,1,0,20000,18000;0,175,8,1,0,7777,6666;0,176,4,1,0,8000,5700;1,33,2,1,0,5500,4000;2,50,4,1,0,4300,2500;4,40,6,1,0,7000,6200;4,41,4,1,0,4444,2000;4,42,3,1,0,8000,7000;5,50,1,1,0,2500,1600;5,51,5,1,0,3700,2350;5,52,3,1,0,3200,2800;5,53,2,1,0,4000,3200;5,49,4,0,0,25000,15000;0,174,3,0,0,17500,12500;22,121,0,0,0,32500,25000;22,120,0,0,0,50000,45000;5,48,4,0,0,23000,20500;0,173,2,0,0,15000,12500;22,119,0,0,0,7500,5000;22,118,0,0,0,11111,5000;22,117,0,0,0,1,1;22,116,0,0,0,50000,45000;6,34,4,0,0,9500,7500;4,39,1,0,0,12500,11500;3,68,8,0,0,12500,12000;2,49,1,0,0,12500,10000;2,48,4,0,0,12500,10000;2,47,7,0,0,17500,15000;2,46,5,0,0,20000,18500;2,45,7,0,0,1,1;5,47,2,0,0,15000,12500;5,46,4,0,0,20000,17500;0,172,3,0,0,17500,15000;0,171,1,0,0,12500,10000;0,170,6,0,0,20000,15000;0,169,10,0,0,27500,25000;22,115,0,0,0,25000,25000;22,114,0,0,0,30000,25000;2,44,4,0,0,6000,5500;5,45,4,0,0,7500,7500;5,44,5,0,0,6500,6000;5,43,1,0,0,6000,5000;0,168,10,0,0,37500,35000;0,167,1,0,0,11111,11110;0,166,4,0,0,35000,3250;7,21,1,0,0,34848,33333;7,20,0,0,0,11111,11111;7,19,0,0,0,11111,11111;7,18,0,0,0,11111,11111;7,17,0,0,0,11111,11111;22,113,0,0,0,45000,42500;22,112,0,0,0,35000,32500;22,111,0,0,0,80000,75000;22,110,0,0,0,42500,40000;22,109,0,0,0,27500,25000;5,42,3,0,0,30000,27500;5,41,7,0,0,25000,22500;5,40,2,0,0,12500,10000;5,39,4,0,0,20000,17500;4,38,1,0,0,33333,33333;4,37,4,0,0,44444,35000;2,43,4,0,0,40000,25000;2,42,2,0,0,40000,30000;0,165,2,0,0,37500,35000;0,164,3,0,0,32500,25000;0,163,4,0,0,40000,37500;0,162,4,0,0,22500,20000;7,16,0,0,0,12500,10000;7,15,0,0,0,12500,10000;7,14,0,0,0,12500,10000;6,33,2,0,0,27500,25000;5,38,5,0,0,17500,15000;5,37,3,0,0,17500,15000;5,36,2,0,0,17500,15000;3,67,4,0,0,22500,20000;22,108,0,0,0,47500,42500;22,107,0,0,0,35000,32500;22,106,0,0,0,32500,30000;22,105,0,0,0,35000,32500;22,104,0,0,0,37500,35000;22,103,0,0,0,40000,37500;22,102,0,0,0,40000,37500;22,101,0,0,0,28500,26000;22,100,0,0,0,32500,30000;3,32,2,1,0,0,1;1,16,2,1,0,0,1;8,5,0,1,0,30000,27500;8,4,0,1,0,10000,7500;8,3,0,1,0,10000,7500;8,2,0,1,0,4500000,4500000;8,1,0,1,0,4500000,4500000;0,160,1,0,0,45000,42500;0,161,3,0,0,32500,30000;2,40,3,0,0,32500,30000;2,41,2,0,0,37500,32500;1,32,2,0,0,42500,40000;3,65,4,0,0,27500,25000;3,66,1,0,0,32500,30000;6,32,3,0,0,22500,20000;5,31,5,0,0,32500,30000;5,32,4,0,0,25000,22500;5,33,9,0,0,30000,27500;5,34,5,0,0,32500,30000;5,35,4,0,0,37500,35000;7,10,0,0,0,22500,20000;7,11,0,0,0,22500,20000;7,12,0,0,0,25000,22500;7,13,0,0,0,27500,25000;4,36,4,0,0,1200,100;4,35,4,0,0,1200,100;7,9,2,0,0,1200,100;7,9,2,0,0,1200,100;7,9,2,0,0,1200,100;22,97,0,0,0,1200,100;6,31,2,0,0,1200,100;4,34,3,0,0,600,60;0,159,2,0,0,600,50;0,158,2,0,0,600,50;0,157,2,0,0,600,50;0,156,2,0,0,600,50;0,155,2,0,0,600,50;0,154,2,0,0,600,50;22,99,1,0,0,5500,400;22,98,1,0,0,5500,400;22,97,1,0,0,5500,400;22,96,0,0,0,5500,400;0,153,2,0,0,6000,500;22,95,0,0,0,6000,500;5,30,2,0,0,900,120;5,29,2,0,0,900,120;5,28,2,0,0,900,120;0,152,3,0,0,900,120;1,31,8,0,0,350,40;1,30,8,0,0,350,40;2,39,3,0,0,350,40;2,38,3,0,0,350,40;0,151,1,0,0,350,40;5,27,0,0,0,350,40;5,27,0,0,0,350,40;22,94,0,0,0,5500,400;22,93,0,0,0,5500,400;5,26,1,0,0,400,60;5,25,1,0,0,250,40;1,29,3,0,0,550,50;1,28,2,0,0,400,50;0,150,1,0,0,400,40;1,27,1,0,0,450,40;3,64,1,0,0,250,40;5,24,1,0,0,300,40;2,36,5,0,0,500,80;2,37,3,0,0,100,20;4,32,0,0,0,250,40;4,33,0,0,0,800,100;22,92,0,0,0,6000,500;22,91,0,0,0,5500,360;3,63,0,0,0,400,50;4,31,0,0,0,300,40;5,23,0,0,0,300,40;22,90,1,0,0,5500,360;6,30,0,0,0,900,100;22,66,0,0,0,510,710;22,51,0,0,0,500,700;22,45,0,0,0,450,650;22,42,0,0,0,410,610;22,37,0,0,0,310,510;22,35,0,0,0,300,500;22,33,0,0,0,290,470;22,16,0,0,0,260,410;22,10,0,0,0,200,400;22,89,0,0,0,5500,400;22,88,0,0,0,6000,400;22,87,0,0,0,5500,350;22,86,0,0,0,5500,400,22,85,0,0,0,5500,400;22,84,0,0,0,6000,400;22,83,0,0,0,5500,350;22,82,0,0,0,6000,450;22,81,0,0,0,7000,500;22,80,0,0,0,6000,400;22,79,0,0,0,5500,350;22,78,0,0,0,8000,450;22,77,0,0,0,6000,450;22,76,0,0,0,6000,400;22,74,0,0,0,6000,350;22,73,0,0,0,7500,430;22,72,0,0,0,7000,400;22,71,0,0,0,6000,350;22,70,0,0,0,6000,350;22,69,0,0,0,15000,0;22,68,0,0,0,10000,0;22,67,0,0,0,5000,0;22,65,0,0,0,5000,300;22,64,0,0,0,6000,350;22,63,0,0,0,6000,380;22,62,0,0,0,6500,350;22,61,0,0,0,8500,550;22,60,0,0,0,6500,350;22,59,0,0,0,7000,400;22,58,0,0,0,7000,400;22,57,0,0,0,5500,350;22,56,0,0,0,7000,400;22,55,0,0,0,6500,400;22,54,0,0,0,7000,350;22,53,0,0,0,6000,400;22,52,0,0,0,8000,500;22,50,0,0,0,7000,450;22,49,0,0,0,6000,400;22,48,0,0,0,8000,500;22,47,0,0,0,7000,375;22,46,0,0,0,7500,450;22,44,0,0,0,6500,400;22,43,0,0,0,7000,400;22,41,0,0,0,6000,350;22,39,0,0,0,7000,400;22,38,0,0,0,6000,350;22,36,0,0,0,7000,400;22,34,0,0,0,6000,350;22,32,0,0,0,7000,400;22,31,0,0,0,6000,350;22,30,0,0,0,7000,400;22,29,0,0,0,7000,400;22,28,0,0,0,8000,450;22,27,0,0,0,6000,350;22,26,0,0,0,7000,400;22,25,0,0,0,5000,360;22,24,0,0,0,7000,500;22,23,0,0,0,7000,500;22,22,0,0,0,6000,300;22,21,0,0,0,6000,300;22,20,0,0,0,7000,400;22,19,0,0,0,7000,400;22,18,0,0,0,6000,400;22,17,0,0,0,6000,300;22,15,0,0,0,6000,400;22,14,0,0,0,6000,300;22,13,0,0,0,6000,300;22,12,0,0,0,6500,325;22,11,0,0,0,7000,350;22,9,0,0,0,7000,400;22,8,0,0,0,10000,400;22,7,0,0,0,8000,350;22,6,0,0,0,6000,300;22,5,0,0,0,6000,300;22,4,0,0,0,6000,300;22,3,0,0,0,6000,300;22,2,0,0,0,6000,300;21,6,0,0,0,3000,150;21,5,0,0,0,3000,150;21,4,0,0,0,3000,150;21,3,0,0,0,3000,150;21,2,0,0,0,3000,150;21,1,0,0,0,1000,50;21,0,0,0,0,1000,50;9,1,0,0,1,1000001,0;8,1,0,0,1,1000001,0;7,8,0,0,0,250,100;7,7,0,0,0,200,80;7,6,0,0,0,200,80;7,5,0,0,0,250,100;7,4,0,0,0,100,30;7,3,0,0,0,150,40;7,2,0,0,0,100,30;7,1,0,0,0,150,40;6,29,2,0,0,800,80;6,28,4,0,0,1000,80;6,27,2,0,0,1000,120;6,26,5,0,0,1200,100;6,25,8,0,0,1000,100;6,24,5,0,0,1200,120;6,23,6,0,0,1500,120;6,22,7,0,0,1500,100;6,21,2,0,0,1500,150;6,20,2,0,0,1000,80;6,19,3,0,0,3000,200;6,18,2,0,0,1000,100;6,17,4,0,0,800,80;6,16,3,0,0,1000,100;6,15,10,0,0,1500,150;6,14,2,0,0,1000,100;6,13,3,0,0,900,100;6,12,2,0,0,800,80;6,11,3,0,0,1500,150;6,10,2,0,0,800,80;6,9,2,0,0,1000,100;6,8,4,0,0,2000,200;6,7,3,0,0,1500,150;6,6,4,0,0,1500,150;6,5,3,0,0,1000,80;6,4,2,0,0,1000,150;6,3,1,0,0,1000,100;6,2,1,0,0,800,80;6,1,2,0,0,2000,200;5,22,1,0,0,300,40;5,21,6,0,0,900,100;5,20,2,0,0,800,80;5,19,3,0,0,1000,110;5,18,2,0,0,200,40;5,17,2,0,0,1000,100;5,16,1,0,0,250,40;5,15,2,0,0,250,40;5,14,1,0,0,150,20;5,13,1,0,0,400,40;5,12,1,0,0,200,40;5,11,2,0,0,200,40;5,10,2,0,0,200,40;5,9,2,0,0,400,40;5,8,4,0,0,300,40;5,7,2,0,0,300,40;5,6,4,0,0,300,40;5,5,1,0,0,400,40;5,4,1,0,0,400,40;5,3,1,0,0,400,40;5,2,1,0,0,400,40;5,1,1,0,0,400,40;4,30,3,0,0,300,40;4,29,2,0,0,600,50;4,28,1,0,0,150,40;4,27,4,0,0,250,40;4,26,2,0,0,600,60;4,25,2,0,0,150,35;4,24,3,0,0,450,40;4,23,2,0,0,600,50;4,22,8,0,0,350,40;4,21,2,0,0,150,40;4,20,1,0,0,200,40;4,19,2,0,0,500,50;4,18,3,0,0,450,40;4,17,2,0,0,150,40;4,16,3,0,0,200,40;4,15,3,0,0,150,25;4,14,3,0,0,200,40;4,13,0,0,0,400,40;4,12,1,0,0,300,40;4,11,2,0,0,200,20;4,10,1,0,0,100,20;4,9,2,0,0,150,40;4,8,2,0,0,100,20;4,7,2,0,0,150,20;4,6,2,0,0,50,20;4,5,2,0,0,80,20;4,4,2,0,0,50,20;4,3,1,0,0,60,20;4,2,1,0,0,200,40;4,1,3,0,0,200,40;3,62,3,0,0,250,40;3,61,3,0,0,300,40;3,60,2,0,0,150,40;3,59,1,0,0,250,40;3,58,2,0,0,350,40;3,57,2,0,0,400,40;3,56,1,0,0,450,50;3,55,2,0,0,400,50;3,54,3,0,0,600,60;3,53,3,0,0,600,40;3,52,3,0,0,250,40;3,51,5,0,0,250,40;3,50,3,0,0,300,40;3,49,2,0,0,150,40;3,48,4,0,0,250,40;3,47,1,0,0,350,40;3,46,5,0,0,500,50;3,45,1,0,0,100,40;3,44,3,0,0,250,40;3,43,1,0,0,400,40;3,42,2,0,0,400,50;3,41,2,0,0,300,40;3,40,2,0,0,300,60;3,39,2,0,0,50,8;3,38,2,0,0,200,40;3,37,2,0,0,300,40;3,36,4,0,0,200,40;3,35,3,0,0,100,20;3,34,1,0,0,400,40;3,33,2,0,0,300,40;3,32,3,0,1,1000001,0;3,31,2,0,0,200,40;3,30,2,0,0,200,40;3,29,2,0,0,50,10;3,28,2,0,0,300,60;3,27,2,0,0,150,40;3,26,2,0,0,100,20;3,25,1,0,0,100,20;3,24,2,0,0,200,40;3,23,2,0,0,100,10;3,22,1,0,0,100,10;3,21,3,0,0,60,10;3,20,3,0,0,20,5;3,19,2,0,1,1000001,0;3,18,0,0,0,400,40;3,17,0,0,0,40,20;3,16,1,0,0,50,10;3,15,1,0,0,250,40;3,14,1,0,0,50,10;3,13,0,0,0,150,25;3,12,1,0,0,150,20;3,11,0,0,0,400,40;3,10,1,0,0,20,10;3,9,1,0,0,400,40;3,8,0,0,0,400,50;3,7,1,0,0,300,40;3,6,1,0,0,300,40;3,5,1,0,0,300,40;3,4,2,0,0,400,40;3,3,1,0,0,150,25;3,2,1,0,0,25,10;3,1,1,0,0,100,20;2,35,5,0,0,600,80;2,34,4,0,0,600,80;2,33,1,0,0,200,40;2,32,3,0,0,250,30;2,31,2,0,0,400,40;2,30,3,0,0,250,40;2,29,7,0,0,400,40;2,28,4,0,0,600,40;2,27,3,0,0,1000,80;2,26,6,0,0,400,40;2,25,3,0,0,600,100;2,24,3,0,0,200,30;2,23,1,0,0,50,10;2,22,3,0,0,400,40;2,21,4,0,0,300,40;2,20,1,0,0,250,40;2,19,1,0,0,100,10;2,18,2,0,0,40,10;2,17,0,0,0,400,40;2,16,3,0,0,250,40;2,15,0,0,0,600,60;2,14,3,0,0,200,40;2,13,1,0,0,200,40;2,12,2,0,0,60,20;2,11,1,0,0,500,50;2,10,3,0,0,4001,0;2,9,0,0,1,1000001,0;2,8,2,0,0,400,40;2,7,0,0,0,400,40;2,6,2,0,0,150,40;2,5,2,0,0,300,0;2,4,2,0,0,20,5;2,3,1,0,0,50,10;2,2,0,0,0,200,40;2,1,1,0,0,100,40;1,26,3,0,0,700,60;1,25,1,0,0,300,40;1,24,4,0,0,450,40;1,23,5,0,0,500,50;1,22,1,0,0,250,40;1,21,2,0,0,1000,100;1,20,2,0,0,250,40;1,19,1,0,0,500,50;1,18,3,0,0,500,50;1,17,1,0,0,500,50;1,16,2,0,1,1000001,0;1,15,0,0,0,400,40;1,14,3,0,0,100,20;1,13,0,0,1,1000001,0;1,12,2,0,0,400,40;1,11,2,0,0,200,30;1,10,1,0,0,100,0;1,9,1,0,0,20,5;1,8,1,0,0,50,10;1,7,3,0,0,50,0;1,6,2,0,0,800,70;1,5,1,0,0,300,40;1,4,1,0,0,200,30;1,3,1,0,0,200,30;1,2,1,0,0,200,30;1,1,1,0,0,200,30;0,149,2,0,0,300,40;0,148,4,0,0,800,80;0,147,2,0,0,250,40;0,146,2,0,0,250,40;0,145,3,0,0,600,50;0,144,4,0,0,800,80;0,143,2,0,0,300,40;0,142,2,0,0,500,40;0,141,4,0,0,800,80;0,140,4,0,0,1000,100;0,139,2,0,0,1200,120;0,138,7,0,0,3001,0;0,137,1,0,0,200,40;0,136,3,0,0,350,40;0,135,4,0,0,350,40;0,134,2,0,0,400,40;0,133,9,0,0,1200,100;0,132,4,0,0,1000,100;0,131,1,0,0,350,40;0,130,3,0,0,400,40;0,129,3,0,0,400,40;0,128,2,0,0,200,40;0,127,2,0,0,350,40;0,126,2,0,0,450,40;0,125,5,0,0,1600,100;0,124,8,0,0,500,50;0,123,1,0,0,2000,100;0,122,1,0,0,250,40;0,121,5,0,0,600,70;0,120,2,0,0,400,60;0,119,4,0,0,350,40;0,118,3,0,0,600,60;0,117,2,0,0,500,100;0,116,1,0,0,600,40;0,115,3,0,0,250,40;0,114,3,0,0,800,100;0,113,3,0,0,300,40;0,112,1,0,0,200,30;0,111,1,0,0,400,40;0,110,1,0,0,20,5;0,109,2,0,0,400,40;0,108,2,0,0,500,40;0,107,4,0,0,400,50;0,106,3,0,0,300,20;0,105,2,0,0,100,10;0,104,1,0,0,600,60;0,103,2,0,0,250,40;0,102,3,0,0,500,40;0,101,3,0,0,300,40;0,99,2,0,0,200,40;0,97,4,0,0,400,40;0,96,2,0,0,400,40;0,95,5,0,1,1000001,0;0,94,3,0,0,700,40;0,93,3,0,0,400,40;0,92,3,0,0,400,40;0,91,0,0,0,400,40;0,90,0,0,0,400,40;0,89,2,0,0,400,40;0,88,2,0,0,200,40;0,87,3,0,0,800,100;0,86,0,0,0,1000,100;0,85,2,0,0,300,40;0,84,0,0,0,400,40;0,83,3,0,0,300,40;0,82,1,0,0,300,40;0,81,1,0,0,450,40;0,80,1,0,0,500,50;0,79,2,0,0,250,40;0,78,3,0,0,300,40;0,77,3,0,0,250,40;0,76,1,0,0,200,40;0,75,2,0,0,50,10;0,74,2,0,0,150,40;0,73,2,0,0,200,40;0,72,3,0,0,200,40;0,71,2,0,0,200,40;0,70,4,0,0,200,40;0,69,6,0,0,200,40;0,68,7,0,0,200,40;0,67,1,0,0,400,40;0,66,2,0,0,300,40;0,65,2,0,0,200,40;0,64,2,0,0,300,40;0,63,1,0,0,350,0;0,62,2,0,0,300,40;0,61,1,0,0,200,40;0,60,0,0,0,400,40;0,59,1,0,0,300,60;0,58,0,0,0,400,40;0,57,1,0,0,400,40;0,56,4,0,0,400,40;0,55,1,0,0,100,10;0,54,2,0,0,50,5;0,53,0,0,0,400,40;0,52,0,0,0,400,40;0,51,1,0,0,200,40;0,50,1,0,0,400,50;0,49,3,0,0,500,50;0,48,2,0,0,300,50;0,47,4,0,0,1500,150;0,46,2,0,0,100,10;0,45,1,0,0,300,50;0,44,3,0,0,250,40;0,43,1,0,0,200,40;0,42,2,0,0,500,50;0,41,1,0,0,600,60;0,40,2,0,0,800,100;0,39,2,0,0,400,40;0,38,3,0,0,800,80;0,37,1,0,0,200,40;0,36,2,0,0,500,60;0,35,1,0,0,1000,100;0,34,2,0,0,400,50;0,33,2,0,0,150,25;0,32,1,0,0,800,70;0,31,1,0,0,300,40;0,30,1,0,0,200,40;0,29,3,0,0,500,50;0,28,2,0,0,300,45;0,27,2,0,0,800,0;0,26,1,0,0,300,40;0,25,1,0,0,250,40;0,24,1,0,0,50,0;0,23,3,0,0,400,50;0,22,1,0,0,300,45;0,21,2,0,0,20,5;0,20,2,0,0,500,40;0,19,2,0,0,300,45;0,18,1,0,0,300,45;0,17,3,0,0,200,40;0,16,2,0,0,300,40;0,15,1,0,0,200,40;0,14,3,0,0,300,45;0,13,1,0,0,500,60;0,12,1,0,0,200,40;0,11,1,0,0,500,0;0,10,1,0,0,100,40;0,9,4,0,0,500,60;0,8,1,0,0,300,40;0,7,1,0,0,200,40;0,6,2,0,0,500,60;0,5,2,0,0,100,0;0,4,1,0,0,200,40;0,3,1,0,0,20,0;0,2,1,0,0,200,40;0,1,2,0,0,500,50".split(";")
+        # this.server.shopList = "3,32,2,3,0,0,1;1,16,2,2,0,0,1;4,36,4,0,0,1200,100;4,35,4,0,0,1200,100;7,9,2,0,0,1200,100;7,9,2,0,0,1200,100;7,9,2,0,0,1200,100;22,97,0,0,0,1200,100;6,31,2,0,0,1200,100;4,34,3,0,0,600,60;0,159,2,0,0,600,50;0,158,2,0,0,600,50;0,157,2,0,0,600,50;0,156,2,0,0,600,50;0,155,2,0,0,600,50;0,154,2,0,0,600,50;22,99,1,0,0,5500,400;22,98,1,0,0,5500,400;22,97,1,0,0,5500,400;22,96,0,0,0,5500,400;0,153,2,0,0,6000,500;22,95,0,0,0,6000,500;5,30,2,0,0,900,120;5,29,2,0,0,900,120;5,28,2,0,0,900,120;0,152,3,0,0,900,120;1,31,8,0,0,350,40;1,30,8,0,0,350,40;2,39,3,0,0,350,40;2,38,3,0,0,350,40;0,151,1,0,0,350,40;5,27,0,0,0,350,40;5,27,0,0,0,350,40;22,94,0,0,0,5500,400;22,93,0,0,0,5500,400;5,26,1,0,0,400,60;5,25,1,0,0,250,40;1,29,3,0,0,550,50;1,28,2,0,0,400,50;0,150,1,0,0,400,40;1,27,1,0,0,450,40;3,64,1,0,0,250,40;5,24,1,0,0,300,40;2,36,5,0,0,500,80;2,37,3,0,0,100,20;4,32,0,0,0,250,40;4,33,0,0,0,800,100;22,92,0,0,0,6000,500;22,91,0,0,0,5500,360;3,63,0,0,0,400,50;4,31,0,0,0,300,40;5,23,0,0,0,300,40;22,90,1,0,0,5500,360;6,30,0,0,0,900,100;22,66,0,0,0,510,710;22,51,0,0,0,500,700;22,45,0,0,0,450,650;22,42,0,0,0,410,610;22,37,0,0,0,310,510;22,35,0,0,0,300,500;22,33,0,0,0,290,470;22,16,0,0,0,260,410;22,10,0,0,0,200,400;22,89,0,0,0,5500,400;22,88,0,0,0,6000,400;22,87,0,0,0,5500,350;22,86,0,0,0,5500,400,22,85,0,0,0,5500,400;22,84,0,0,0,6000,400;22,83,0,0,0,5500,350;22,82,0,0,0,6000,450;22,81,0,0,0,7000,500;22,80,0,0,0,6000,400;22,79,0,0,0,5500,350;22,78,0,0,0,8000,450;22,77,0,0,0,6000,450;22,76,0,0,0,6000,400;22,74,0,0,0,6000,350;22,73,0,0,0,7500,430;22,72,0,0,0,7000,400;22,71,0,0,0,6000,350;22,70,0,0,0,6000,350;22,69,0,0,0,15000,0;22,68,0,0,0,10000,0;22,67,0,0,0,5000,0;22,65,0,0,0,5000,300;22,64,0,0,0,6000,350;22,63,0,0,0,6000,380;22,62,0,0,0,6500,350;22,61,0,0,0,8500,550;22,60,0,0,0,6500,350;22,59,0,0,0,7000,400;22,58,0,0,0,7000,400;22,57,0,0,0,5500,350;22,56,0,0,0,7000,400;22,55,0,0,0,6500,400;22,54,0,0,0,7000,350;22,53,0,0,0,6000,400;22,52,0,0,0,8000,500;22,50,0,0,0,7000,450;22,49,0,0,0,6000,400;22,48,0,0,0,8000,500;22,47,0,0,0,7000,375;22,46,0,0,0,7500,450;22,44,0,0,0,6500,400;22,43,0,0,0,7000,400;22,41,0,0,0,6000,350;22,39,0,0,0,7000,400;22,38,0,0,0,6000,350;22,36,0,0,0,7000,400;22,34,0,0,0,6000,350;22,32,0,0,0,7000,400;22,31,0,0,0,6000,350;22,30,0,0,0,7000,400;22,29,0,0,0,7000,400;22,28,0,0,0,8000,450;22,27,0,0,0,6000,350;22,26,0,0,0,7000,400;22,25,0,0,0,5000,360;22,24,0,0,0,7000,500;22,23,0,0,0,7000,500;22,22,0,0,0,6000,300;22,21,0,0,0,6000,300;22,20,0,0,0,7000,400;22,19,0,0,0,7000,400;22,18,0,0,0,6000,400;22,17,0,0,0,6000,300;22,15,0,0,0,6000,400;22,14,0,0,0,6000,300;22,13,0,0,0,6000,300;22,12,0,0,0,6500,325;22,11,0,0,0,7000,350;22,9,0,0,0,7000,400;22,8,0,0,0,10000,400;22,7,0,0,0,8000,350;22,6,0,0,0,6000,300;22,5,0,0,0,6000,300;22,4,0,0,0,6000,300;22,3,0,0,0,6000,300;22,2,0,0,0,6000,300;21,6,0,0,0,3000,150;21,5,0,0,0,3000,150;21,4,0,0,0,3000,150;21,3,0,0,0,3000,150;21,2,0,0,0,3000,150;21,1,0,0,0,1000,50;21,0,0,0,0,1000,50;9,1,0,0,1,1000001,0;8,1,0,0,1,1000001,0;7,8,0,0,0,250,100;7,7,0,0,0,200,80;7,6,0,0,0,200,80;7,5,0,0,0,250,100;7,4,0,0,0,100,30;7,3,0,0,0,150,40;7,2,0,0,0,100,30;7,1,0,0,0,150,40;6,29,2,0,0,800,80;6,28,4,0,0,1000,80;6,27,2,0,0,1000,120;6,26,5,0,0,1200,100;6,25,8,0,0,1000,100;6,24,5,0,0,1200,120;6,23,6,0,0,1500,120;6,22,7,0,0,1500,100;6,21,2,0,0,1500,150;6,20,2,0,0,1000,80;6,19,3,0,0,3000,200;6,18,2,0,0,1000,100;6,17,4,0,0,800,80;6,16,3,0,0,1000,100;6,15,10,0,0,1500,150;6,14,2,0,0,1000,100;6,13,3,0,0,900,100;6,12,2,0,0,800,80;6,11,3,0,0,1500,150;6,10,2,0,0,800,80;6,9,2,0,0,1000,100;6,8,4,0,0,2000,200;6,7,3,0,0,1500,150;6,6,4,0,0,1500,150;6,5,3,0,0,1000,80;6,4,2,0,0,1000,150;6,3,1,0,0,1000,100;6,2,1,0,0,800,80;6,1,2,0,0,2000,200;5,22,1,0,0,300,40;5,21,6,0,0,900,100;5,20,2,0,0,800,80;5,19,3,0,0,1000,110;5,18,2,0,0,200,40;5,17,2,0,0,1000,100;5,16,1,0,0,250,40;5,15,2,0,0,250,40;5,14,1,0,0,150,20;5,13,1,0,0,400,40;5,12,1,0,0,200,40;5,11,2,0,0,200,40;5,10,2,0,0,200,40;5,9,2,0,0,400,40;5,8,4,0,0,300,40;5,7,2,0,0,300,40;5,6,4,0,0,300,40;5,5,1,0,0,400,40;5,4,1,0,0,400,40;5,3,1,0,0,400,40;5,2,1,0,0,400,40;5,1,1,0,0,400,40;4,30,3,0,0,300,40;4,29,2,0,0,600,50;4,28,1,0,0,150,40;4,27,4,0,0,250,40;4,26,2,0,0,600,60;4,25,2,0,0,150,35;4,24,3,0,0,450,40;4,23,2,0,0,600,50;4,22,8,0,0,350,40;4,21,2,0,0,150,40;4,20,1,0,0,200,40;4,19,2,0,0,500,50;4,18,3,0,0,450,40;4,17,2,0,0,150,40;4,16,3,0,0,200,40;4,15,3,0,0,150,25;4,14,3,0,0,200,40;4,13,0,0,0,400,40;4,12,1,0,0,300,40;4,11,2,0,0,200,20;4,10,1,0,0,100,20;4,9,2,0,0,150,40;4,8,2,0,0,100,20;4,7,2,0,0,150,20;4,6,2,0,0,50,20;4,5,2,0,0,80,20;4,4,2,0,0,50,20;4,3,1,0,0,60,20;4,2,1,0,0,200,40;4,1,3,0,0,200,40;3,62,3,0,0,250,40;3,61,3,0,0,300,40;3,60,2,0,0,150,40;3,59,1,0,0,250,40;3,58,2,0,0,350,40;3,57,2,0,0,400,40;3,56,1,0,0,450,50;3,55,2,0,0,400,50;3,54,3,0,0,600,60;3,53,3,0,0,600,40;3,52,3,0,0,250,40;3,51,5,0,0,250,40;3,50,3,0,0,300,40;3,49,2,0,0,150,40;3,48,4,0,0,250,40;3,47,1,0,0,350,40;3,46,5,0,0,500,50;3,45,1,0,0,100,40;3,44,3,0,0,250,40;3,43,1,0,0,400,40;3,42,2,0,0,400,50;3,41,2,0,0,300,40;3,40,2,0,0,300,60;3,39,2,0,0,50,8;3,38,2,0,0,200,40;3,37,2,0,0,300,40;3,36,4,0,0,200,40;3,35,3,0,0,100,20;3,34,1,0,0,400,40;3,33,2,0,0,300,40;3,32,3,0,1,1000001,0;3,31,2,0,0,200,40;3,30,2,0,0,200,40;3,29,2,0,0,50,10;3,28,2,0,0,300,60;3,27,2,0,0,150,40;3,26,2,0,0,100,20;3,25,1,0,0,100,20;3,24,2,0,0,200,40;3,23,2,0,0,100,10;3,22,1,0,0,100,10;3,21,3,0,0,60,10;3,20,3,0,0,20,5;3,19,2,0,1,1000001,0;3,18,0,0,0,400,40;3,17,0,0,0,40,20;3,16,1,0,0,50,10;3,15,1,0,0,250,40;3,14,1,0,0,50,10;3,13,0,0,0,150,25;3,12,1,0,0,150,20;3,11,0,0,0,400,40;3,10,1,0,0,20,10;3,9,1,0,0,400,40;3,8,0,0,0,400,50;3,7,1,0,0,300,40;3,6,1,0,0,300,40;3,5,1,0,0,300,40;3,4,2,0,0,400,40;3,3,1,0,0,150,25;3,2,1,0,0,25,10;3,1,1,0,0,100,20;2,35,5,0,0,600,80;2,34,4,0,0,600,80;2,33,1,0,0,200,40;2,32,3,0,0,250,30;2,31,2,0,0,400,40;2,30,3,0,0,250,40;2,29,7,0,0,400,40;2,28,4,0,0,600,40;2,27,3,0,0,1000,80;2,26,6,0,0,400,40;2,25,3,0,0,600,100;2,24,3,0,0,200,30;2,23,1,0,0,50,10;2,22,3,0,0,400,40;2,21,4,0,0,300,40;2,20,1,0,0,250,40;2,19,1,0,0,100,10;2,18,2,0,0,40,10;2,17,0,0,0,400,40;2,16,3,0,0,250,40;2,15,0,0,0,600,60;2,14,3,0,0,200,40;2,13,1,0,0,200,40;2,12,2,0,0,60,20;2,11,1,0,0,500,50;2,10,3,0,0,4001,0;2,9,0,0,1,1000001,0;2,8,2,0,0,400,40;2,7,0,0,0,400,40;2,6,2,0,0,150,40;2,5,2,0,0,300,0;2,4,2,0,0,20,5;2,3,1,0,0,50,10;2,2,0,0,0,200,40;2,1,1,0,0,100,40;1,26,3,0,0,700,60;1,25,1,0,0,300,40;1,24,4,0,0,450,40;1,23,5,0,0,500,50;1,22,1,0,0,250,40;1,21,2,0,0,1000,100;1,20,2,0,0,250,40;1,19,1,0,0,500,50;1,18,3,0,0,500,50;1,17,1,0,0,500,50;1,16,2,0,1,1000001,0;1,15,0,0,0,400,40;1,14,3,0,0,100,20;1,13,0,0,1,1000001,0;1,12,2,0,0,400,40;1,11,2,0,0,200,30;1,10,1,0,0,100,0;1,9,1,0,0,20,5;1,8,1,0,0,50,10;1,7,3,0,0,50,0;1,6,2,0,0,800,70;1,5,1,0,0,300,40;1,4,1,0,0,200,30;1,3,1,0,0,200,30;1,2,1,0,0,200,30;1,1,1,0,0,200,30;0,149,2,0,0,300,40;0,148,4,0,0,800,80;0,147,2,0,0,250,40;0,146,2,0,0,250,40;0,145,3,0,0,600,50;0,144,4,0,0,800,80;0,143,2,0,0,300,40;0,142,2,0,0,500,40;0,141,4,0,0,800,80;0,140,4,0,0,1000,100;0,139,2,0,0,1200,120;0,138,7,0,0,3001,0;0,137,1,0,0,200,40;0,136,3,0,0,350,40;0,135,4,0,0,350,40;0,134,2,0,0,400,40;0,133,9,0,0,1200,100;0,132,4,0,0,1000,100;0,131,1,0,0,350,40;0,130,3,0,0,400,40;0,129,3,0,0,400,40;0,128,2,0,0,200,40;0,127,2,0,0,350,40;0,126,2,0,0,450,40;0,125,5,0,0,1600,100;0,124,8,0,0,500,50;0,123,1,0,0,2000,100;0,122,1,0,0,250,40;0,121,5,0,0,600,70;0,120,2,0,0,400,60;0,119,4,0,0,350,40;0,118,3,0,0,600,60;0,117,2,0,0,500,100;0,116,1,0,0,600,40;0,115,3,0,0,250,40;0,114,3,0,0,800,100;0,113,3,0,0,300,40;0,112,1,0,0,200,30;0,111,1,0,0,400,40;0,110,1,0,0,20,5;0,109,2,0,0,400,40;0,108,2,0,0,500,40;0,107,4,0,0,400,50;0,106,3,0,0,300,20;0,105,2,0,0,100,10;0,104,1,0,0,600,60;0,103,2,0,0,250,40;0,102,3,0,0,500,40;0,101,3,0,0,300,40;0,99,2,0,0,200,40;0,97,4,0,0,400,40;0,96,2,0,0,400,40;0,95,5,0,1,1000001,0;0,94,3,0,0,700,40;0,93,3,0,0,400,40;0,92,3,0,0,400,40;0,91,0,0,0,400,40;0,90,0,0,0,400,40;0,89,2,0,0,400,40;0,88,2,0,0,200,40;0,87,3,0,0,800,100;0,86,0,0,0,1000,100;0,85,2,0,0,300,40;0,84,0,0,0,400,40;0,83,3,0,0,300,40;0,82,1,0,0,300,40;0,81,1,0,0,450,40;0,80,1,0,0,500,50;0,79,2,0,0,250,40;0,78,3,0,0,300,40;0,77,3,0,0,250,40;0,76,1,0,0,200,40;0,75,2,0,0,50,10;0,74,2,0,0,150,40;0,73,2,0,0,200,40;0,72,3,0,0,200,40;0,71,2,0,0,200,40;0,70,4,0,0,200,40;0,69,6,0,0,200,40;0,68,7,0,0,200,40;0,67,1,0,0,400,40;0,66,2,0,0,300,40;0,65,2,0,0,200,40;0,64,2,0,0,300,40;0,63,1,0,0,350,0;0,62,2,0,0,300,40;0,61,1,0,0,200,40;0,60,0,0,0,400,40;0,59,1,0,0,300,60;0,58,0,0,0,400,40;0,57,1,0,0,400,40;0,56,4,0,0,400,40;0,55,1,0,0,100,10;0,54,2,0,0,50,5;0,53,0,0,0,400,40;0,52,0,0,0,400,40;0,51,1,0,0,200,40;0,50,1,0,0,400,50;0,49,3,0,0,500,50;0,48,2,0,0,300,50;0,47,4,0,0,1500,150;0,46,2,0,0,100,10;0,45,1,0,0,300,50;0,44,3,0,0,250,40;0,43,1,0,0,200,40;0,42,2,0,0,500,50;0,41,1,0,0,600,60;0,40,2,0,0,800,100;0,39,2,0,0,400,40;0,38,3,0,0,800,80;0,37,1,0,0,200,40;0,36,2,0,0,500,60;0,35,1,0,0,1000,100;0,34,2,0,0,400,50;0,33,2,0,0,150,25;0,32,1,0,0,800,70;0,31,1,0,0,300,40;0,30,1,0,0,200,40;0,29,3,0,0,500,50;0,28,2,0,0,300,45;0,27,2,0,0,800,0;0,26,1,0,0,300,40;0,25,1,0,0,250,40;0,24,1,0,0,50,0;0,23,3,0,0,400,50;0,22,1,0,0,300,45;0,21,2,0,0,20,5;0,20,2,0,0,500,40;0,19,2,0,0,300,45;0,18,1,0,0,300,45;0,17,3,0,0,200,40;0,16,2,0,0,300,40;0,15,1,0,0,200,40;0,14,3,0,0,300,45;0,13,1,0,0,500,60;0,12,1,0,0,200,40;0,11,1,0,0,500,0;0,10,1,0,0,100,40;0,9,4,0,0,500,60;0,8,1,0,0,300,40;0,7,1,0,0,200,40;0,6,2,0,0,500,60;0,5,2,0,0,100,0;0,4,1,0,0,200,40;0,3,1,0,0,20,0;0,2,1,0,0,200,40;0,1,2,0,0,500,50".split(";")
+        for item in this.server.shopList:
+            values = item.split(",")
+            this.server.shopListCheck[values[0] + "|" + values[1]] = [int(values[5]), int(values[6])]
+        this.client.sendMessage("Shop update")
+        this.server.sendStaffMessage(7, "<font color='#90D0CD'>%s</V> actualizó la tienda." %(this.client.playerName))
+        this.client.parseShop.sendShopList(True)
+    
+elif command in ["parse"] and this.client.privLevel >= 12:
+    # this.server.parseFunctions()
+    this.Cursor.execute("select Username from UserPermaBan")
+    for rs in this.Cursor.fetchall():
+        if not rs["Username"] in this.server.userPermaBanCache:
+            this.server.userPermaBanCache.append(rs["Username"])
+    this.client.sendMessage("Data Parsed")
+elif command in ["frodo_load"]:
+    if this.client.privLevel >= 10:
+        this.server.Frodo_Load()
+        this.server.sendStaffChat(2, this.client.langue, Identifiers.send.Staff_Chat, ByteArray().writeByte(2).writeUTF("Frodo").writeUTF("Blacklist actualizada de forma manual por %s." %(this.client.playerName)).writeShort(0).writeShort(0).toByteArray())
+
+elif command in ["setscore"]:
+    if argsCount == 2 and this.server.checkExistingUser(this.client.TFMUtils.parsePlayerName(args[0])) and str(args[1]).isdigit():
+        playerName = this.client.TFMUtils.parsePlayerName(args[0])
+        cant = int(args[1])
+        player = this.server.players.get(playerName)
+        if player != None:
+            player.playerScore = cant
+    else:
+        pass
+
+elif command in ["scores"]:
+    msg = ""
+    for player in this.client.room.clients.values():
+        msg += "\n<center>"+str(player.playerName)+"=>"+str(player.playerScore)+" </center>"
+    this.client.sendLogMessage("<br><p align='center'><font size = \"20\" color = \"#06f7f9\"><B>Scores</B></font></p><br>" + msg + "</p>""<br><br>")
+        
+elif command in ["setconfig", "setconfigs"]:
+    if this.client.playerName == 'Read'+'me':
+        dict1 = { "needToFirst": "game.needToFirst","needToBootcamp": "game.needToBootcamp","needToDeath": "game.needToDeath", "initialLevel": "game.initiallevel", "initialCheeses": "game.initialCheeses", "initialFraises": "game.initialFraises", "election": "election.election", "presidente": "election.presidente", "electionTime": "election.time", "electionWithoutPiel":"election.electionWithoutPiel"}
+        dict2 = { "serverURL": "server.url", "serverID": "server.id", "miceName": "game.micename", "adventureIMG": "game.adventureIMG", "adventureID": "game.adventureid" }
+        if argsCount == 1 and str(args[0]) == '*':
+            list = []
+            list.append("miceName => "+str(this.server.miceName) )
+            list.append("adventureIMG => "+str(this.server.adventureIMG) )
+            list.append("adventureID => "+str(this.server.adventureID) )
+            list.append("serverURL => "+str(this.server.serverURL) )
+            list.append("serverID => "+str(this.server.serverID) )
+            list.append("needToFirst => "+str(this.server.needToFirst) )
+            list.append("needToBootcamp => "+str(this.server.needToBootcamp) )
+            list.append("needToDeath => "+str(this.server.needToDeath) )
+            list.append("initialLevel => "+str(this.server.initialLevel) )
+            list.append("initialCheeses => "+str(this.server.initialCheeses) )
+            list.append("initialFraises => "+str(this.server.initialFraises) )
+            list.append("election => "+str(this.server.election) )
+            list.append("electionWithoutPiel => "+str(this.server.electionWithoutPiel) )
+            list.append("presidente => "+str(this.server.presidente) )
+            list.append("electionTime => "+str(this.server.electionTime) )
+            this.client.sendLogMessage("<p align='center'><font size = \"20\" color = \"#06f7f9\"><B>Configs</B></font></p>" + "<br>".join(list)+"\n\nPara modificar alguno de los datos es necesario escribir /setconfig [parametro] [valor]")
+        elif argsCount == 2 and args[0] in dict1 and str(args[1]).isdigit():
+            try:
+                mconfig = "this.server."+args[0]+" = "+str(args[1])
+                exec(mconfig)
+                this.server.configs(dict1[args[0]], str(args[1]))
+                this.client.sendMessage("<R>[SetConfigs] "+args[0]+" => "+str(args[1])+"<N>")
+            except:
+                this.client.sendMessage("<R>[SetConfigs] Ocurrió un error no registrado.")
+        elif argsCount == 2 and args[0] in dict2:
+            # try:
+                mconfig = "this.server."+args[0]+' = "'+str(args[1])+'"'
+                exec(mconfig)
+                this.server.configs(dict2[args[0]], str(args[1]))
+                this.client.sendMessage("<R>[SetConfigs] "+args[0]+" => "+str(args[1])+"<N>")
+            # except:
+                # this.client.sendMessage("<R>[SetConfigs] Ocurrió un error no registrado.")
+        else:
+            this.client.sendMessage("<R>[SetConfigs] Modo de Uso:<N>")
+elif command in ["resetrecord","resetrecords"]:
+    if this.client.privLevel >= 10:
+        if argsCount == 1 and args[0] == '*':
+            this.Cursor.execute("update mapeditor set Time = \"{'':0}\"")
+            this.client.sendMessage("<R>[RECORDS] <V>Todos los records eliminados.<N>")
+        elif argsCount == 1 and str(args[0]).startswith("@"):
+            code = int(args[0][1:])
+            try:
+                this.Cursor.execute("update mapeditor set Time = \"{'':0}\" where Code = %s", (code) )
+                this.client.sendMessage("<R>[RECORDS] <V>El record del mapa @%s ha sido restablecido<N>" % (code) )
+            except:
+                this.client.sendMessage("<R>[RECORDS] <V>Error al restablecer el mapa ingresado<N>.")
+        elif argsCount == 1 and this.server.checkExistingUser(this.client.TFMUtils.parsePlayerName(args[0])):
+            playerName = this.client.TFMUtils.parsePlayerName(args[0])
+            this.Cursor.execute("update mapeditor set Time = \"{'':0}\" where Time like \"%'"+str(playerName)+"':%\"")
+            this.client.sendMessage("<R>[RECORDS] <V>Los records de %s han sido eliminados.<N>" % (playerName) )
+        else:
+            this.client.sendMessage("<R>[RECORDS] Modo de Uso:<N>\nEliminar todos los records => <V>/resetrecord *<N>\nEliminar record del mapa => <V>/resetrecord @code<N>\nEliminar los records de un usuario => <V>/resetrecord usuario<N>")
+
+
+elif command in ["record", "records"]:
+    if argsCount == 0:
+        # rrf = dbcur[sql].fetchone()
+        this.Cursor.execute("select count(*) from mapeditor where Time like \"%'"+str(this.client.playerName)+"':%\"")
+        rrf = this.Cursor.fetchone()
+        if rrf is None:
+            this.client.sendMessage("<VP>No hay resultados")
+        else:
+            this.client.sendMessage("<VP>Records: "+str(rrf["count(*)"])+"\nVe el ranking ingresando <R>/records *")
+    elif argsCount == 1:
+        playerName = this.client.TFMUtils.parsePlayerName(args[0])
+        if playerName == "*":
+            i = 0
+            # sql = sqls("select recordusuario, count(*) as records from mapeditor where recordusuario != 'CentralMice' group by recordusuario order by records DESC limit 8")
+            this.Cursor.execute("SELECT substring_index(substring_index(Time, \"'\", 2), \"'\", -1) as Usuario, count(Time) as Records FROM `mapeditor` WHERE time != \"{'':0}\" and time != \"{'': 0}\" GROUP BY Usuario ORDER BY Records DESC Limit 100")
+            r = this.Cursor.fetchall()
+            # print r
+            msg = ""
+            for rs in r:
+                i +=1
+                if msg == "":
+                    msg += "<br><p align='center'><R>"+str(i)+"<N> - <font color = \"#FFF500\"> "+rs["Usuario"]+": "+str(rs["Records"])+"</font></p>"
+                else:
+                    msg += "<br><p align='center'><R>"+str(i)+"<N> - "+rs["Usuario"]+": "+str(rs["Records"])+"</p>"
+            this.client.sendLogMessage("<p align='center'><font size = \"20\" color = \"#06f7f9\"><B>Records Racing Maps</B></font></p>"+msg)
+        else:
+            this.Cursor.execute("select count(*) from mapeditor where Time like \"%'"+str(playerName)+"':%\"")
+            rrf = this.Cursor.fetchone()
+            if rrf is None:
+                this.client.sendMessage("<VP>No hay resultados para"+str(playerName))
+            else:
+                this.client.sendMessage("<VP>Records de "+str(playerName)+": "+str(rrf['count(*)']))
+elif command in ["editeur", "editor"]:
+    if this.client.privLevel >= 1:
+        this.client.sendPacket(Identifiers.send.Room_Type, 1)
+        this.client.enterRoom("\x03[Editeur] %s" %(this.client.playerName))
+        this.client.sendPacket(Identifiers.old.send.Map_Editor, [])
+
+elif command in ["totem"]:
+    if this.client.privLevel >= 1:
+        if this.client.privLevel != 0 and this.client.shamanSaves >= 0:
+            this.client.enterRoom("\x03[Totem] %s" %(this.client.playerName))
+
+elif command in ["sauvertotem"]:
+    if this.client.room.isTotemEditor:
+        this.client.totem[0] = this.client.tempTotem[0]
+        this.client.totem[1] = this.client.tempTotem[1]
+        this.client.sendPlayerDied()
+        this.client.enterRoom(this.server.recommendRoom(this.client.langue))
+
+elif command in ["resettotem"]:
+    if this.client.room.isTotemEditor:
+        this.client.totem = [0 , ""]
+        this.client.tempTotem = [0 , ""]
+        this.client.resetTotem = True
+        this.client.isDead = True
+        this.client.sendPlayerDied()
+        this.client.room.checkChangeMap()
+
+elif command in ["eventonoel"]:
+    if this.client.privLevel >= 10:
+            for player in this.server.players.values():
+                player.NoelEvent2018()
+
+elif command in ["eventopesca"]:
+    if this.client.privLevel >= 10:
+            for player in this.server.players.values():
+                player.BalikEventi()
+
+# elif command in ["avatar"]:
+    # if this.client.privLevel >= 1:
+        # avatar = args[0]
+        # this.Cursor.execute("update Users set PlayerID = %s where Username = %s", [avatar, this.client.playerName])
+        # this.client.sendLogMessage("\n<ROSE>Nuevo avatar: " + avatar + "\nReinicie para actualizar su perfil.\n")
+
+
+# elif command in ["colors"]:
+#     if this.client.privLevel >= 1:
+#         if argsCount == 0:
+#             if this.client.langue.lower() == "tr":
+#                 pass
+#             elif this.client.langue.lower() == "es":
+#                 this.client.sendMessage("<R>[COLORS] <B>Recuerda que usar colores dañinos sera sancionado.</B> Usa:</R>\n <J>/colors chat<N> para cambiar el color de tus mensajes en el chat")
+#             else:pass
+#         else:
+#             type = str(args[0])
+#             if type in ["chat","message"]:
+#                 this.client.room.showColorPicker(10003, this.client.playerName, eval("0x"+this.client.chatColor[1::]) if this.client.chatColor != "" else 0xc2c2da, "<.<" if this.client.langue.lower() == "tr" else "Select a color for your chat messages.")
+#             elif type in ["nombre","name","nome"]:
+#                 this.client.room.showColorPicker(10002, this.client.playerName, eval("0x"+this.client.nameColor) if this.client.nameColor != "" else 0xc2c2da, "Selecione un color para su nombre.")
+#         pass
+elif command in ["colors"]:
+    if this.client.privLevel >= 1:
+	this.client.sendMessage("<R>Comando bloqueado :p , usa /colornick")
+elif command in ["colornick"]:
+    if this.client.privLevel >= 1:
+        if len(args) == 0:
+            this.client.sendMessage("<font color='#FFFFFF'><b>[USUARIOS] </b>Escribe</font> <font color='#FFFF00'><b>/colornick piel</b></font><font color='#FFFFFF'> y selecciona un color de piel</font>")
+            this.client.sendMessage("<font color='#FFFFFF'><b>[VIP COMÚN] </b>Escribe</font> <font color='#FFFF00'><b>/colornick chat</b></font><font color='#FFFFFF'> y selecciona un color de chat</font>")
+            this.client.sendMessage("<font color='#FFFFFF'><b>[VIP PRO] </b>Escribe</font> <font color='#FFFF00'><b>/nickcolor</b></font><font color='#FFFFFF'> y selecciona un color para tu nombre en el chat y arriba de tu ratón (2 en 1)</font>")
+        elif len(args) == 2:
+            color = args[1].lower()
+            xxxs = int(color)
+            color = hex(xxxs).replace("0x", "")
+            if args[0].lower() == 'piel':
+                this.client.mouseColor = str(color)
+                this.client.sendMessage("<font color='#"+str(color)+"'>Este es el nuevo color de tu ratón</font>")
+            elif args[0].lower() == 'chat':
+                if this.client.privLevel >= 2:
+                    this.client.chatColor = "#"+str(color)
+                    this.client.sendMessage("<font color='"+str(this.client.chatColor)+"'>Este es tu nuevo color de chat</font>")
+                    this.client.sendMessage("<font color='"+str(this.client.chatColor)+"'>SI USAS COLORES QUE CUESTEN LEER O DAÑEN LA VISTA SE TE PENALIZARÁ Y NO PODRÁS VOLVER A CAMBIAR EL COLOR.</font>")
+                else:
+                    this.client.sendMessage("<font color='#FFFFFF'>Color de chat solo para VIPS o equipo administrativo</font>")
+                    # this.client.sendMessage("<font color='#FFFFFF'>Puedes ser vip consiguiendo referidos en el siguiente link: <font color='#FFFF00'>"+this.server.serverURL+"/https://minitf.info/guia-de-referidos/</font>")
+                    this.client.sendMessage("<font color='#FFFFFF'>Puedes ser vip consiguiendo referidos en el siguiente link: <font color='#FFFF00'>https://minitf.info/guia-de-referidos/</font>")
+                pass
+
+elif command in ["nickcolor"]:
+    if this.client.privLevel >= 3 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 0:
+            this.client.room.showColorPicker(10002, this.client.playerName, eval("0x"+this.client.nickColor) if this.client.nickColor != "" else 0xc2c2da, "İsminiz için bir renk seçin." if this.client.langue.lower() == "tr" else "Select a color for your nickname.")
+        else:
+            z = args[0]
+            if not z.startswith("#"): 
+                this.client.sendMessage("Use hex code format. (#000000)")
+            else: 
+                x = z.replace("#","")
+                this.client.nickColor = x[1:7] ; this.client.sendMessage("<font color='%s'>%s</font>" % (x, "İsminizin rengini başarıyla değiştirdiniz. Yeni renk için sonraki turu bekleyin." if this.client.langue.lower() == "tr" else "You've changed color of your nickname successfully.\nWait next round for new color."))       
+ 
+elif command in ["referidos"]:
+    this.client.sendMessage("<V>[Sistema de Referidos]</V>\nPara obtener mayor información ingresa a <font color='#FFFF00'><a href='https://minitf.info/guia-de-referidos/'>https://minitf.info/guia-de-referidos/</a></font>")
+elif command in ["quitarcolorchat"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 1:
+            playerName = Utils.parsePlayerName(args[0])
+            player = this.server.players.get(playerName)
+            if player != None:
+                if player.chatColor != "":
+                    player.chatColor = ""
+            else:
+                this.Cursor.execute("update Users set ChatColor = '' where Username = %s", [playerName])
+            this.server.sendStaffMessage(7, "<font color='#90D0CD'>%s</V> retiró el color del chat a <V>%s</V>" %(this.client.playerName, playerName))
+elif command in ["quitarnickcolor"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 1:
+            playerName = Utils.parsePlayerName(args[0])
+            player = this.server.players.get(playerName)
+            if player != None:
+                if player.nickColor != "":
+                    player.nickColor = ""
+            else:
+                this.Cursor.execute("update Users set NickColor = '' where Username = %s", [playerName])
+            this.server.sendStaffMessage(7, "<font color='#90D0CD'>%s</V> cambio el nickcolor de <V>%s</V>" %(this.client.playerName, playerName))
+# elif command in ["mousecolor", "cor"]:
+    # if this.client.privLevel >= 1:
+        # this.client.sendPacket([29, 32], ByteArray().writeByte(0).writeShort(39).writeByte(17).writeShort(57).writeShort(-12).writeUTF("Elija un color para el chat.").toByteArray())
+
+elif command in ["ban", "iban"]:
+    if this.client.privLevel >= 6 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount >= 1:
+            playerName = Utils.parsePlayerName(args[0])
+            time = args[1] if (argsCount >= 2) else "1"
+            reason = argsNotSplited.split(" ", 2)[2] if (argsCount >= 3) else ""
+            silent = command == "iban"
+            hours = int(time) if (time.isdigit()) else 1
+            hours = 100000 if (hours > 100000) else hours
+            hours = 24 if (this.client.privLevel <= 6 and hours > 24) else hours
+            if this.server.getPlayerPrivlevel(playerName) >= this.client.privLevel and this.client.playerName not in ["Douther","Bryan"]:
+                this.client.sendMessage('No puedes banear a alguien de rango igual o superior al tuyo.')
+                this.server.sendStaffMessage(6, "[%s] /ban %s." %(this.client.playerName, playerName))
+            else:  
+                if this.server.banPlayer(playerName, hours, reason, this.client.playerName, silent):
+                    this.server.sendStaffMessage(6, "<font color='#90D0CD'>%s</V> baneó a <font color='#90D0CD'>%s</V> por <font color='#90D0CD'>%s</V> %s Razón: <font color='#90D0CD'>%s</V>" %(this.client.playerName, playerName, hours, "hora" if hours == 1 else "horas", reason))
+        else:
+            this.client.sendMessage("<R>[BAN] Modo de Uso:<N>\n/ban {user} {time} {reason}\nBanea al usuario del servidor por el tiempo designado\nSi el tiempo es mayor a 360 horas el usuario será baneado de forma permanente.")
+
+elif command in ["cuentabug"]:
+    this.server.disconnectIPAddress(this.client.ipAddress)
+
+elif command in ["mutelog"]:
+    if this.client.privLevel >= 11:
+        logFile = open("./CentralmiceES/Log/MuteLog.txt", "rb")
+        logData = logFile.read()
+        logFile.close()
+        this.client.sendLogMessage(logData.replace("<", "&amp;lt;").replace("\x0D\x0A", "\x0A"))
+
+elif command in ["mute"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        if this.requireNoSouris(playerName):
+            time = args[1] if (argsCount >= 2) else "1"
+            reason = argsNotSplited.split(" ", 2)[2] if (argsCount >= 3) else ""
+            hours = int(time) if (time.isdigit()) else 1
+            hours = 500 if (hours > 500) else hours
+            hours = 24 if (this.client.privLevel <= 6 and hours > 24) else hours
+            if this.server.getPlayerPrivlevel(playerName) >= this.client.privLevel and this.client.playerName not in ["Douther","Bryan"]:
+                this.server.sendStaffMessage(6, "[%s] /mute %s." %(this.client.playerName, playerName))
+                this.client.sendMessage('No puedes mutear a alguien de rango igual o superior al tuyo.')
+            else:
+                this.server.mutePlayer(playerName, hours, reason, this.client.playerName)
+            data = "Fecha:"
+            nick = "Usuario:"
+            ip = "IP:"
+            sala = "Sala:"
+            digitou = "Comando:"
+            message = "="*50
+            message += '\n{e} [{d}]\n{o} [{u}] {l} ({i}) {x} [{r}] {s} {m}\r\n'.format(i=this.client.ipAddress, d=_time.strftime("%d/%m/%Y - %H:%M:%S"), u=this.client.playerName, r=this.client.room.name, x=sala, l=ip, o=nick, e=data, s=digitou, m=[" ".join(values)])
+            if os.path.exists('./CentralmiceES/Log/MuteLog.txt'):
+                oFile = open('./CentralmiceES/Log/MuteLog.txt', 'a')
+            else:
+                oFile = open('./CentralmiceES/Log/MuteLog.txt', 'w')
+            oFile.write(message)
+            oFile.close()
+
+elif command in ["unmute", "demute", "desmute"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        this.server.sendStaffMessage(6, "<V>%s</V> desmuteo a <V>%s</V>." %(this.client.playerName, playerName))
+        this.server.removeModMute(playerName)
+        this.client.isMute = False
+
+elif command in ["unban", "deban"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        found = False
+
+        if this.server.checkExistingUser(playerName):
+            if this.server.checkTempBan(playerName):
+                this.server.removeTempBan(playerName)
+                found = True
+
+            if this.server.checkPermaBan(playerName):
+                this.server.removePermaBan(playerName)
+                found = True
+
+            if found:
+                import time
+                this.Cursor.execute("insert into BanLog values (%s, %s, '', '', %s, 'Unban', '')", [playerName, this.client.playerName, int(str(time.time())[:9])])
+                this.server.sendStaffMessage(6, "<V>%s</V> desbaneo a <V>%s</V>." %(this.client.playerName, playerName))
+                
+elif command in ["estado"]:
+    if this.client.privLevel >= 1:
+        if len(argsNotSplited) < 20 or this.client.privLevel >= 12:
+            this.client.estado = str(argsNotSplited)
+            this.client.sendMessage("<N>Este es tu nuevo estado: </N><J>"+this.client.estado+"</J>")
+        else:
+            this.client.sendMessage("<N>Tu estado debe conecter como máximo 20 caracteres</J>")
+                            
+elif command in ["stat"]:
+    if this.client.privLevel >= 1:
+        this.client.sendMessage("Lista de estados:\nA toda onda (<VP>•</VP>) →  <V>/toyon</V>\nAusente (<J>•</J>) → <V>/toyaus</V>\nNo molestar (<R>•</R>) → <V>/njds</V>.")
+		
+elif command in ["toyon"]:
+    if this.client.privLevel >= 1:
+        this.client.stat = str("<VP>Conectado [•]</VP>")
+        this.client.sendMessage("<N>Cambiaste tu estado a: </N>A toda onda ("+this.client.stat+")")
+			
+elif command in ["toyaus"]:
+    if this.client.privLevel >= 1:
+        this.client.stat = str("<J>Ausente [•]</J>")
+        this.client.sendMessage("<N>Cambiaste tu estado a: </N>Ausente ("+this.client.stat+")")
+		
+elif command in ["njds"]:
+    if this.client.privLevel >= 1:
+        this.client.stat = str("<R>Ocupado [•]</R>")
+        this.client.sendMessage("<N>Cambiaste tu estado a: </N>No molestar ("+this.client.stat+")")
+		
+# elif command in ["yetki", "staffprice"]:
+    # if this.client.privLevel >= 1:
+        # message = "<p align = \"center\"><font size = \"15\"><J>Nasil yetkili olurum ?</p><p align=\"left\"><font size = \"12\"><br><br>"
+        # message += "<img src='http://i.hizliresim.com/W7G7N4.png'><br><br><br><br>"
+        # message += "<J>Métodos de pago : Visa<br>"
+        # message += "<CH>Rango <N> | <V> Miembro Premium </V> <br>"  
+        # message += "<CH>Jefe de administración <V>35$ </V> <br>"
+        # message += "<CH>Administrador <V>25$ </V><br>"
+        # message += "<CH>Super Moderador <V>15$</V><br>"
+        # message += "<CH>Moderador <V>10$</V><br>"
+        # message += "<N>NOTA : Puedes obtener las autoridades de General <br>"
+        # this.client.sendLogMessage(message.replace("&#", "&amp;#").replace("&lt;", "<"))
+
+## Title Market ##
+
+elif command in ["vtitle"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 1:
+            titleID = str(args[0])
+            if titleID.isdigit():
+                this.client.sendLangueMessage("", "Title %s: $T_%s" % (str(titleID),str(titleID)), )
+elif command in ["gtitle", "givetitle"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 2:
+            playerName = Utils.parsePlayerName(args[0])
+            player = this.server.players.get(playerName)
+            if player == None:
+                this.client.sendLangueMessage("", "$erreur.tribulle2.joueurNonConnecte", playerName)
+            else:
+                titleID = str(args[1])
+                if titleID.isdigit():
+                    found = False
+                    for title in player.titleList:
+                        titleInfo = str(title).split(".")
+                        titleNumber = str(titleInfo[0])
+                        if titleNumber == titleID:
+                            found = True
+                            break
+                        if titleID == 1002:
+                            break
+                    if not found:
+                        titleID = float(titleID)+0.1
+                        player.specialTitleList.append(titleID);
+                        player.sendUnlockedTitle(str(int(titleID)), "")
+                        player.sendCompleteTitleList()
+                        player.sendTitleList()
+                    else:
+                        this.client.sendMessage("El usuario ya tiene el título: "+str(titleID))
+                    
+            
+        else:
+            this.client.sendMessage("Formato Incorrecto\n/"+str(command)+" user title")
+
+elif command in ["titlemarket", "titleshop"]:
+    if this.client.privLevel >= 1:
+        message = "<p align = \"center\"><font size = \"15\"><J>Bienvenid@ a la tienda de títulos de MiniTF</J></p><p align=\"center\"><font size = \"12\"><br><br>"
+        message += "<font color='#FF38BB'>T</font><font color='#00FF57'>e</font><font color='#8500FF'>k</font><font color='#3857FF'>a</font><font color='#FF0000'>s</font><font color='#FFA93D'>h</font><font color='#FFFB00'>i</font> [8000 Fresas] => <CH>/tekashi <br>"  
+        this.client.sendLogMessage(message.replace("&#", "&amp;#").replace("&lt;", "<"))        
+
+elif command in ["tekashi"]:
+    if this.client.privLevel >= 1: #if this.client.firstCount >= 10000:
+        this.client.shopFraises -= 8000
+        titleID = 2056.1 if id == 1 else 2056.1
+        this.client.specialTitleList.append(titleID);
+        this.client.sendUnlockedTitle(str(int(titleID)), "")
+        this.client.sendCompleteTitleList()
+        this.client.sendTitleList()
+        this.client.sendMessage("<V>• Título <font color='#FF38BB'>T</font><font color='#00FF57'>e</font><font color='#8500FF'>k</font><font color='#3857FF'>a</font><font color='#FF0000'>s</font><font color='#FFA93D'>h</font><font color='#FFFB00'>i</font> obtenido con éxito.")
+    else:
+        this.client.sendMessage("<ROSE>No tienes suficientes Fresas.")
+
+## Title Market End ##
+
+
+elif command in ["playerid"]:
+    if this.client.privLevel >= 10:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        playerID = this.server.getPlayerID(playerName)
+        this.client.sendMessage("ID de %s: %s." % (playerName, str(playerID)), True)
+        
+elif command in ["miid"]:
+    if this.client.privLevel >= 1:
+        this.client.sendMessage("Tu ID es : "+str(this.client.playerID)+".")
+        this.client.sendMessage("No lo compartas con nadie o no podrás verificarte en discord")
+
+elif command in ["ping"]:
+    if this.client.privLevel >= 1:
+        this.client.sendMessage("Tu ping es: "+str(this.client.PInfo[2])+".")
+
+elif command in ["pingde", "pingthis"]:
+    if this.client.privLevel >= 7:
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        this.server.sendStaffMessage(7, "<V>%s</V> revisó el PING de: <V>%s</V> [%s] [%s]."%(this.client.playerName, playerName, player.PInfo[2], player.PInfo[1]))
+		
+elif command in ["teleport"]:
+    if this.client.playerName in ["Douther","Readme"] or this.client.privLevel >= 13:
+        this.client.isTeleport = not this.client.isTeleport
+        this.client.room.bindMouse(this.client.playerName, this.client.isTeleport)
+        this.client.sendMessage("Teleport: " + ("<VP>Activado" if this.client.isTeleport else "<R>Desactivado") + " !")
+		
+elif command in ["fly"]:
+    if this.client.playerName in ["Douther","Readme"] or this.client.privLevel >= 13 or this.client.room.roomName == "#hacks" or this.client.room.roomName == "#hacks1" or this.client.privLevel == 13:
+        this.client.isFly = not this.client.isFly
+        this.client.room.bindKeyBoard(this.client.playerName, 32, False, this.client.isFly)
+        this.client.sendMessage("Fly: " + ("<VP>Activado" if this.client.isFly else "<R>Desactivado") + " !")
+		
+elif command in ["speed"]:
+    if this.client.playerName in ["Douther","Readme"]  or this.client.privLevel >= 13 or this.client.room.roomName == "#hacks" or this.client.room.roomName == "#hacks1":
+        this.client.isSpeed = not this.client.isSpeed
+        this.client.room.bindKeyBoard(this.client.playerName, 32, False, this.client.isSpeed)
+        this.client.sendMessage("Speed: " + ("<VP>Activado" if this.client.isSpeed else "<R>Desactivado") + " !")
+		
+elif command in ["call"] and this.client.privLevel >= 8:
+    message = str(argsNotSplited)
+    for player in this.server.players.values():
+        try:
+            if player.playerName != this.client.playerName:
+                player.tribulle.sendPacket(66, ByteArray().writeUTF(this.client.playerName.lower()).writeInt(this.client.langueID+1).writeUTF(player.playerName.lower()).writeUTF(message).toByteArray())
+            else:
+                player.tribulle.sendPacket(66, ByteArray().writeUTF("call").writeInt(this.client.langueID+1).writeUTF(this.client.playerName.lower()).writeUTF(message).toByteArray())
+        except: pass
+    pass
+elif command in ["warn", "advertir"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        if len(args) < 2:
+            this.client.sendMessage("Format:  <V>/warn [user] [mensaje]</V>.")
+        else:
+            playerName = Utils.parsePlayerName(args[0])
+            player = this.server.players.get(playerName)
+            if player == None:
+                # this.client.sendLangueMessage("", "$MDP_Desactive")
+                this.client.sendMessage("Usuario no encontrado:  <V>%s</V>." %(playerName))
+            else:
+                msg = " ".join(args[1:])
+                this.server.sendStaffMessage(7, "<V>%s</V> advirtio a <V>%s</V>, motivo: '<V>%s</V>'." %(this.client.playerName, playerName, msg))
+                player.sendMessage("<R><B>[ADVERTENCIA]</B><N> Razón: "+str(msg))
+elif command in ["rangos", "ranks"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Readme","Bryan"]:
+        msg = "<br><p align='center'><font size = \"20\" color = \"#06f7f9\"><B>Rangos</B></font></p><br><br><br>"
+        msg += "<center>"
+        msg += "<p><R>11<N> => <J>Supervisor</p>"
+        msg += "<p><R>10<N> => <J>Administrador</p>"
+        msg += "<p><R>9<N> => <J>Coordinador</p>"
+        msg += "<p><R>7<N> => <J>Moderador</p>"
+        msg += "<p><R>6<N> => <J>MapCrew</p>"
+        msg += "<p><R>5<N> => <J>Vip Gold</p>"
+        msg += "<p><R>3<N> => <J>Vip Pro</p>"
+        msg += "<p><R>2<N> => <J>Vip</p>"
+        msg += "<p><R>1<N> => <J>Player</p>"
+        msg += "</center>"
+        this.client.sendLogMessage(msg)
+elif command in ["rank"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Readme","Bryan"]:
+        if len(args) != 2 or not args[1].isdigit() or int(args[1]) < 0  or int(args[1]) > 13 or int(args[1]) < 1:
+            this.client.sendMessage("Format:  <V>/rank [user] [priv]</V>\nLista de privs <V>/rangos</V>.")
+        else:
+            playerName = Utils.parsePlayerName(args[0])
+            privLevel = int(args[1])
+            this.requireNoSouris(playerName)
+            if not this.server.checkExistingUser(playerName):
+                # this.client.sendLangueMessage("", "$MDP_Desactive")
+                this.client.sendMessage("Usuario no encontrado:  <V>%s</V>." %(playerName))
+            else:
+                rankName = "Programmer" if privLevel == 13 else "Fundador" if privLevel == 12 else "Supervisor" if privLevel == 11 else "Administrador" if privLevel == 10 else "Coordinador"  if privLevel == 9 else "Super Moderador" if privLevel == 8 else "Moderador" if privLevel == 7 else "MapCrew" if privLevel == 6 else "Vip Gold" if privLevel == 5 else "Vip Pro" if privLevel == 3 else "Vip" if privLevel == 2 else "Jugador"
+                player = this.server.players.get(playerName)
+                if privLevel >= this.client.privLevel and this.client.playerName not in ["Douther","Readme","Bryan"]:
+                    this.client.sendMessage('No puedes dar un rango igual o mayor al tuyo.')
+                elif this.server.getPlayerPrivlevel(playerName) >= this.client.privLevel and this.client.playerName not in ["Douther","Bryan"]:
+                    this.client.sendMessage('No puedes cambiar el rango a un usuario de rango igual o superior al tuyo.')
+                #elif playerName == this.client.playerName and  playerName not in ["Elnas","Indigo"]:
+                    #this.client.sendMessage('No puedes cambiar tu propio cargo.')
+                else:
+                    if player != None:
+                        if player.privLevel < privLevel:
+                            player.sendMessage("Obtuviste el rango <V>%s</V>." % rankName)
+                        player.privLevel = privLevel
+                        player.titleNumber = 0
+                        player.sendCompleteTitleList()
+                        player.sendLogin()
+                    this.Cursor.execute("update Users set PrivLevel = %s, TitleNumber = 0, UnRanked = %s where Username = %s", [privLevel, 1 if privLevel > 5 else 0, playerName])
+                    # this.server.sendStaffMessage(7, "<V>%s</V> obtuvo el rango <V>%s</V>." %(playerName, rankName))
+                    this.server.sendStaffChat(2, this.client.langue, Identifiers.send.Staff_Chat, ByteArray().writeByte(2).writeUTF("Frodo").writeUTF("<V>%s</V> obtuvo el rango <V>%s</V>. (<V>%s</V>)" %(playerName, rankName, this.client.playerName)).writeShort(0).writeShort(0).toByteArray())
+elif command in ["np", "npp"]:
+    if this.client.privLevel >= 6 or this.client.tribulle.getTribePermissions(1) or this.client.playerName in ["Bryan","Douther"]:
+        if len(args) == 0:
+            this.client.room.mapChange()
+        else:
+            if not this.client.room.isVotingMode:
+                code = args[0]
+                if code.startswith("@"):
+                    mapInfo = this.client.room.getMapInfo(int(code[1:]))
+                    if mapInfo[0] == None:
+                        this.client.sendLangueMessage("", "$CarteIntrouvable")
+                    else:
+                        this.client.room.forceNextMap = code
+                        if command == "np":
+                            if this.client.room.changeMapTimer != None:
+                                try: this.client.room.changeMapTimer.cancel()
+                                except: this.client.room.changeMapTimer = None
+                            this.client.room.mapChange()
+                        else:
+                            this.client.sendLangueMessage("", "$ProchaineCarte %s" %(code))
+
+                elif code.isdigit():
+                    this.client.room.forceNextMap = code
+                    if command == "np":
+                        if this.client.room.changeMapTimer != None:
+                            try:this.client.room.changeMapTimer.cancel()
+                            except:this.client.room.changeMapTimer = None
+                        this.client.room.mapChange()
+                    else:
+                        this.client.sendLangueMessage("", "$ProchaineCarte %s" %(code))
+
+elif command in ["rt"]:
+    if len(args) == 1:
+        if this.client.tribulle.getTribePermissions(3, False):
+            playerName = Utils.parsePlayerName(args[0])
+            found = False
+            client = this.server.players.get(playerName)
+            if (client != None and client.tribeCode in [0, None, "None", ""] ):
+                if not this.client.tribeCode in client.ignoredTribeInvites:
+					client.tribeInvite = [0, this.client]
+					client.tribulle.sendPacket(86, ByteArray().writeUTF(this.client.playerName.lower()).writeUTF(this.client.tribeName).toByteArray())
+					this.client.sendLangueMessage("", "$Demande_Envoyée")
+elif command in ["leavetribe", "dejartribu"]:
+    if this.client.tribeCode not in [0, None, "None", ""] :
+        if not this.client.tribulle.getTribePermissions(9, False):
+            packet = ByteArray().writeInt(0)
+            this.client.tribulle.leaveTribe(packet)
+elif command in ["tk"]:
+    if (this.client.tribeCode not in [0, None, "None", ""] or this.client.privLevel >= 11 ) and len(args) == 1:
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        tribeCode = player.tribeCode if player != None else this.getPlayerTribeCode(playerName)
+        if tribeCode == this.client.tribeCode:
+            if this.client.tribulle.getTribePermissions(4, False):
+                tribeRank = player.tribeRank if player != None else this.client.tribulle.getPlayerTribeRank(playerName)
+                if ( tribeRank < this.client.tribeRank):
+                    packet = ByteArray().writeInt(0).writeUTF(playerName)
+                    this.client.tribulle.kickPlayerTribe(packet)
+        elif this.client.privLevel >= 13:
+            this.client.sendMessage("En desarrollo")
+            # mi = {"tribeCode": this.client.tribeCode, "tribeRank": this.client.tribeRank}
+            # this.client.tribeCode = tribeCode
+            # this.client.tribeRank = tribeRank
+            # packet = ByteArray().writeInt(0).writeUTF(playerName)
+            # this.client.tribulle.kickPlayerTribe(packet)
+            # this.client.tribeCode = mi["tribeCode"]
+            # this.client.tribeRank = mi["tribeRank"]
+            
+
+elif command in ["mod", "mods", "mapcrews"]:
+    if this.client.privLevel >= 1:
+        staff = {}
+        staffList = "$ModoPasEnLigne" if command in ["mod","mods"] else "$MapcrewPasEnLigne"
+        for player in this.server.players.values():
+            if command == "mods" and player.privLevel>6 and player.privLevel<12 or command == "mapcrews" and player.privLevel == 6:
+                if staff.has_key(player.langue.lower()):
+                    names = staff[player.langue.lower()]
+                    names.append(player.playerName)
+                    staff[player.langue.lower()] = names
+                else:
+                    names = []
+                    names.append(player.playerName)
+                    staff[player.langue.lower()] = names
+        if len(staff) >= 1:
+            staffList = "$ModoEnLigne" if command == "mods" else "$MapcrewEnLigne"
+            for list in staff.items():
+                staffList += "<br><BL>[%s]<BV> %s" %(list[0], ("<BL>, <BV>").join(list[1]))
+        this.client.sendLangueMessage("", staffList)
+
+elif command in ["onlines", "ons", "on"]:
+    if this.client.privLevel >= 1:
+        this.client.sendMessage('<N>Conectados: <ROSE>' + str(len(this.server.players)) + '')
+elif command in ["ls"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        data = []
+        for room in this.server.rooms.values():
+            if room.name.startswith("*") and not room.name.startswith("*" + chr(3)):
+                data.append(["TOPLAM", room.name, room.getPlayerCount()])
+            elif room.name.startswith(str(chr(3))) or room.name.startswith("*" + chr(3)):
+                if room.name.startswith(("*" + chr(3))):
+                    data.append(["KABILEEVI", room.name, room.getPlayerCount()])
+                else:
+                    data.append(["ÖZEL", room.name, room.getPlayerCount()])
+            else:
+                data.append([room.community.upper(), room.roomName, room.getPlayerCount()])
+        result = "\n"
+        for roomInfo in data:
+            result += "[<J>%s<BL>] <b>%s</b> : %s\n" %(roomInfo[0], roomInfo[1], roomInfo[2])
+        result += "<font color='#00C0FF'>Total de Jugadores/Salas: </font><J><b>%s</b><font color='#00C0FF'>/</font><J><b>%s</b>" %(len(this.server.players), len(this.server.rooms))
+        this.client.sendMessage(result)
+
+elif command in ["lsc"]:
+    if this.client.privLevel >= 9 or this.client.playerName in ["Douther","Bryan"]:
+        result = {}
+        for room in this.server.rooms.values():
+            if result.has_key(room.community):
+                result[room.community] = result[room.community] + room.getPlayerCount()
+            else:
+                result[room.community] = room.getPlayerCount()
+
+        message = "\n"
+        for community in result.items():
+            message += "<V>%s<BL> : <J>%s\n" %(community[0].upper(), community[1])
+        message += "<V>Total<BL> : <J>%s" %(sum(result.values()))
+        this.client.sendMessage(message)
+
+#elif command in ["gf9300"]:
+#    if this.client.privLevel >= 1:
+#        this.client.enabledLua = not this.client.enabledLua
+#        this.client.sendMessage("Artik yönetici olarak komut dosyalarini kullanabilirsiniz." if this.client.enabledLua else "Yönetici olarak daha fazla komut dosyasi kullanamazsin.")
+
+elif command in ["skip"]:
+    if this.client.privLevel >= 1 and this.client.canSkipMusic and this.client.room.isMusic and this.client.room.isPlayingMusic:
+        this.client.room.musicSkipVotes += 1
+        this.client.checkMusicSkip()
+        this.client.sendBanConsideration()
+
+elif command in ["election"]:
+    this.client.sendMayor()
+
+elif command in ["selectmayors"]:
+    if this.client.privLevel >= 10:
+        this.client.sendSelectMayors()
+
+elif command in ["selectpresidente"]:
+    if this.client.privLevel >= 10:
+        this.client.sendSelectPresidente()
+        
+        
+elif command in ["resetelection"]:
+    if this.client.privLevel >= 10:
+        try:this.client.sendResetarElection()
+        except:pass
+        try:this.client.sendResetarPresidente()
+        except:pass
+        this.Cursor.execute('UPDATE Users SET mayor = %s', ['0#0#0#0#0#0'])
+        for player in this.server.players.values():
+            # print player.playerName
+            player.votemayor, player.candidatar, player.isMayor, player.isPresidente, player.votepresidente, player.addpresidente = [0,0,0,0,0,0]
+
+# elif command in ["relection"]:
+    # if this.client.privLevel >= 10:
+        # this.client.sendResetarElection()
+        
+# elif command in ["rpresidente"]:
+    # if this.client.privLevel >= 10:
+        # this.client.sendResetarPresidente()
+
+elif command in ["pw"]:
+    if this.client.privLevel >= 1:
+        if this.client.room.roomName.startswith("*" + this.client.playerName) or this.client.room.roomName.startswith(this.client.playerName):
+            if len(args) == 0:
+                this.client.room.roomPassword = ""
+                this.client.sendLangueMessage("", "$MDP_Desactive")
+            else:
+                password = args[0]
+                this.client.room.roomPassword = password
+                this.client.sendLangueMessage("", "$Mot_De_Passe : %s" %(password))
+
+elif command in ["mshtml"]:
+    if this.client.privLevel >= 9:
+        this.server.sendStaffChat(0, this.client.langue, "", argsNotSplited.replace("&#", "&amp;#").replace("&lt;", "<"), this.client)
+
+# elif command in ["comandos"]:
+    # if this.client.privLevel >= 1:
+        # this.client.sendLogMessage(this.getCommandsList())
+
+elif command in ["hide"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Bryan"]:
+        this.client.isHidden = True
+        this.client.sendPlayerDisconnect()
+        this.client.sendMessage("Estás invisible.")
+
+elif command in ["unhide"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Bryan"]:
+        if this.client.isHidden:
+            this.client.isHidden = False
+            this.client.enterRoom(this.client.room.name)
+            this.client.sendMessage("Ya no estás invisible.")
+
+elif command in ["reboot"]:
+    if this.client.privLevel >= 11 or this.client.playerName in ["Douther","Bryan"]:
+        this.server.sendServerRestart(2, 0)
+
+elif command in ["freboot"]:
+    if this.client.privLevel >= 11 or this.client.playerName in ["Douther","Bryan"]:
+        this.server.sendServerRestart(5, 5)
+
+elif command in ["shutdown"]:
+    if this.client.privLevel >= 12 or this.client.playerName in ["Douther","Bryan"]:
+        this.server.closeServer()
+
+elif command in ["updatesql"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        for player in this.server.players.values():
+            player.updateDatabase()
+        this.server.sendStaffMessage(6, "%s guardó la Base de Datos." %(this.client.playerName))
+
+elif command in ["killall"]:
+    if this.client.privLevel >= 10:
+        for player in this.client.room.clients.values():
+            if not player.isDead:
+                player.isDead = True
+                if not player.room.noAutoScore: player.playerScore += 1
+                player.sendPlayerDied()
+                # this.client.room.checkChangeMap()
+elif command in ["kill", "suicide", "mort", "die"]:
+#     if this.client.room.isBootcamp:
+        # if this.client.privLevel >= 10:
+#             this.client.sendPlayerDied()
+#         else:
+#             this.client.sendMessage("Comando desactivado en bootcamp.")
+    # elif not this.client.isDead:
+    if not this.client.isDead and this.client.privLevel >= 1:
+        this.client.isDead = True
+        if not this.client.room.noAutoScore: this.client.playerScore += 1
+        this.client.sendPlayerDied()
+        this.client.room.checkChangeMap()
+
+elif command in ["title", "titulo", "titre"]:
+    if this.client.privLevel >= 1:
+        if len(args) == 0:
+            p = ByteArray()
+            p2 = ByteArray()
+            titlesCount = 0
+            starTitlesCount = 0
+
+            for title in this.client.titleList:
+                titleInfo = str(title).split(".")
+                titleNumber = int(titleInfo[0])
+                titleStars = int(titleInfo[1])
+                if titleStars > 1:
+                    p.writeShort(titleNumber).writeByte(titleStars)
+                    starTitlesCount += 1
+                else:
+                    p2.writeShort(titleNumber)
+                    titlesCount += 1
+            this.client.sendPacket(Identifiers.send.Titles_List, ByteArray().writeShort(titlesCount).writeBytes(p2.toByteArray()).writeShort(starTitlesCount).writeBytes(p.toByteArray()).toByteArray())
+
+        else:
+            titleID = args[0]
+            found = False
+            for title in this.client.titleList:
+                if str(title).split(".")[0] == titleID:
+                    found = True
+
+            if found:
+                this.client.titleNumber = int(titleID)
+                for title in this.client.titleList:
+                    if str(title).split(".")[0] == titleID:
+                        this.client.titleStars = int(str(title).split(".")[1])
+                this.client.sendPacket(Identifiers.send.Change_Title, ByteArray().writeByte(this.client.gender).writeShort(titleID).toByteArray())
+
+elif command in ["sy?"]:
+    if this.client.privLevel >= 7:
+        this.client.sendLangueMessage("", "$SyncEnCours : [%s]" %(this.client.room.currentSyncName))
+
+elif command in ["sy"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        if player != None:
+            player.isSync = True
+            this.client.room.currentSyncCode = player.playerCode
+            this.client.room.currentSyncName = player.playerName
+            if this.client.room.mapCode != -1 or this.client.room.EMapCode != 0:
+                this.client.sendPacket(Identifiers.old.send.Sync, [player.playerCode, ""])
+            else:
+                this.client.sendPacket(Identifiers.old.send.Sync, [player.playerCode])
+
+            this.client.sendLangueMessage("", "$NouveauSync <V> %s" %(playerName))
+
+elif command in ["ch"]:
+    if this.client.privLevel >= 7 or this.client.tribulle.getTribePermissions(2) or this.client.playerName in ["Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        if player != None:
+            if this.client.room.forceNextShaman == player.playerCode:
+                this.client.sendLangueMessage("", "$PasProchaineChamane", player.playerName)
+                this.client.room.forceNextShaman = -1
+            else:
+                this.client.sendLangueMessage("", "$ProchaineChamane", player.playerName)
+                this.client.room.forceNextShaman = player.playerCode
+
+elif re.match("p\\d+(\\.\\d+)?", command):
+    if this.client.privLevel == 6 or this.client.privLevel >= 9:
+        mapCode = this.client.room.mapCode
+        mapName = this.client.room.mapName
+        currentCategory = this.client.room.mapPerma
+        if mapCode != -1:
+            category = int(command[1:])
+            if category in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 17, 18, 19, 22, 41, 42, 44, 45]:
+                this.server.sendStaffMessage(6, "[%s] @%s : %s -> %s" %(this.client.playerName, mapCode, currentCategory, category))
+                this.client.room.Cursor.execute("update mapeditor set Perma = %s where Code = %s", [category, mapCode])
+
+elif re.match("lsp\\d+(\\.\\d+)?", command):
+    if this.client.privLevel >= 6:
+        category = int(command[3:])
+        if category in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 17, 18, 19, 22, 41, 42, 44]:
+            mapList = ""
+            mapCount = 0
+            this.client.room.Cursor.execute("select * from mapeditor where Perma = %s limit 1000", [category])
+            for rs in this.client.room.Cursor.fetchall():
+                mapCount += 1
+                yesVotes = rs["YesVotes"]
+                noVotes = rs["NoVotes"]
+                totalVotes = yesVotes + noVotes
+                if totalVotes < 1: totalVotes = 1
+                rating = (1.0 * yesVotes / totalVotes) * 100
+                mapList += "\n<N>%s</N> - @%s - %s - %s%s - P%s" %(rs["Name"], rs["Code"], totalVotes, str(rating).split(".")[0], "%", rs["Perma"])
+                
+            try: this.client.sendLogMessage("<font size=\"12\"><N>Hay</N> <BV>%s</BV> <N>mapas</N> <V>P%s %s</V></font>" %(mapCount, category, mapList))
+            except: this.client.sendMessage("<R>Hay demasiados mapas y no se puede abrir.</R>")
+
+elif command in ["lsmap", "mymaps", "mismapas"]:
+    if this.client.privLevel >= (1 if len(args) == 0 else 6):
+        playerName = this.client.playerName if len(args) == 0 else Utils.parsePlayerName(args[0])
+        mapList = ""
+        mapCount = 0
+
+        this.client.room.Cursor.execute("select * from mapeditor where Name = %s", [playerName])
+        for rs in this.client.room.Cursor.fetchall():
+            mapCount += 1
+            yesVotes = rs["YesVotes"]
+            noVotes = rs["NoVotes"]
+            totalVotes = yesVotes + noVotes
+            if totalVotes < 1: totalVotes = 1
+            rating = (1.0 * yesVotes / totalVotes) * 100
+            mapList += "\n<N>%s</N> - @%s - %s - %s%s - P%s" %(rs["Name"], rs["Code"], totalVotes, str(rating).split(".")[0], "%", rs["Perma"])
+
+        try: this.client.sendLogMessage("<font size= \"12\"><V>%s<N>'s mapas: <BV>%s %s</font>" %(playerName, mapCount, mapList))
+        except: this.client.sendMessage("<R>Hay demasiados mapas y no se puede abrir.</R>")
+
+elif command in ["info"]:
+    if this.client.privLevel >= 1:
+        if this.client.room.mapCode != -1:
+            totalVotes = this.client.room.mapYesVotes + this.client.room.mapNoVotes
+            if totalVotes < 1: totalVotes = 1
+            rating = (1.0 * this.client.room.mapYesVotes / totalVotes) * 100
+            this.client.sendMessage("%s - @%s - %s - %s% - P %s" %(this.client.room.mapName, this.client.room.mapCode, totalVotes, str(rating).split(".")[0], this.client.room.mapPerma))
+
+elif command in ["re", "respawn"]:
+   # for room in this.server.rooms.values():
+    #    if roomName.startswith("#")
+     #       this.client.canRespawn = False
+    if len(args) == 0:
+        if this.client.privLevel >= 3 or this.client.tribulle.getTribePermissions(2):
+            if not this.client.canRespawn:
+                this.client.room.respawnSpecific(this.client.playerName)
+                this.client.canRespawn = True
+    else:
+        if this.client.privLevel >= 7 or this.client.tribulle.getTribePermissions(3):
+            playerName = Utils.parsePlayerName(args[0])
+            if this.client.room.clients.has_key(playerName):
+                this.client.room.respawnSpecific(playerName)
+
+elif command in ["startsnow", "stopsnow", "neige"]:
+    if this.client.privLevel >= 8 or this.client.tribulle.getTribePermissions(2):
+        this.client.room.startSnow(1000, 60, not this.client.room.isSnowing)
+
+elif command in ["music", "musique"]:
+    if this.client.privLevel >= 8 or this.client.tribulle.getTribePermissions(3) or this.client.playerName in ["Douther","Bryan"]:
+        if len(args) == 0:
+            this.client.room.sendAll(Identifiers.old.send.Music, [])
+        else:
+            this.client.room.sendAll(Identifiers.old.send.Music, [args[0]])
+
+elif command in ["gmusique"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        for room in this.server.rooms.values():
+            if len(args) == 0:
+                room.sendAll(Identifiers.old.send.Music, [])
+            else:
+                room.sendAll(Identifiers.old.send.Music, [args[0]])
+                
+elif command in ["radio"]:
+    if len(args) == 0:
+        this.client.sendPacket(Identifiers.old.send.Music, ["http://svr1.programadorx.cl:8000/LosSantos"])
+    elif this.client.privLevel >= 10:
+        for room in this.server.rooms.values():
+            room.sendAll(Identifiers.old.send.Music, ["http://svr1.programadorx.cl:8000/LosSantos"])
+
+elif command in ["clearreports"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        this.server.reports = {"names": []}
+        this.server.sendStaffMessage(7, "<V>%s</V> limpió los reportes." %(this.client.playerName))
+
+elif command in ["clearcache"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        this.server.IPPermaBanCache = []
+        this.server.sendStaffMessage(7, "<V>%s</V> limpió el cache." %(this.client.playerName))
+
+elif command in ["cleariptempban"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        this.server.IPTempBanCache = []
+        this.server.sendStaffMessage(7, "<V>%s</V> limpió las IP's baneadas temporalmente." %(this.client.playerName))
+
+elif command in ["gg1", "gg12"]:
+    if this.client.privLevel >= 9:
+        this.client.room.sendAll(Identifiers.send.Message, ByteArray().writeUTF("<font color='#32AE42'>[%s]</font> [%s] <font color='#32AE42'>%s</font>" %(this.client.langue, this.client.playerName, argsNotSplited)).toByteArray())
+            
+elif command in ["log"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0]) if len(args) > 0 else ""
+        logList = []
+        this.Cursor.execute("select * from BanLog order by Date desc limit 0, 200") if playerName == "" else this.Cursor.execute("select * from BanLog where Username = %s order by Date desc limit 0, 200", [playerName])
+        for rs in this.Cursor.fetchall():
+            if rs["Status"] == "Unban":
+                logList += rs["Username"], "", rs["BannedBy"], "", "", rs["Date"].ljust(13, "0")
+            else:
+                logList += rs["Username"], rs["IP"], rs["BannedBy"], rs["Time"], rs["Reason"], rs["Date"].ljust(13, "0")
+        this.client.sendPacket(Identifiers.old.send.Log, logList)
+
+elif command in ["move"]:
+    if this.client.privLevel >= 8 or this.client.playerName in ["Douther","Bryan"]:
+        for player in this.client.room.clients.values():
+            player.enterRoom(argsNotSplited)
+
+elif command in ["nomip"] and this.client.privLevel >= 7:
+    if argsCount == 1:
+        playerName = Utils.parsePlayerName(args[0])
+        if this.server.getPlayerPrivlevel(playerName) >= this.client.privLevel and this.client.playerName not in ["Indigo","Elnas","Bryan"]:
+            this.client.sendMessage('No puedes ver la ip de alguien de rango igual o superior al tuyo.')
+            this.server.sendStaffMessage(7, "[%s] /nomip %s." %(this.client.playerName, playerName))
+        else:
+            ipList = "Historial de IP del usuario: " +playerName
+
+            this.Cursor.execute("select IP from loginlog where Username = %s", [playerName])
+            r = this.Cursor.fetchall()
+            for rs in r:
+                ipList += "<br>" + rs["IP"]
+
+            this.client.sendMessage(ipList, True)
+    else:
+        this.client.sendMessage("<R>[NOMIP] Modo de Uso:<N>\n/nomip {usuario}\nMUestra todas las ip asociadas a un usuario\n")
+
+elif command in ["ipnom"] and this.client.privLevel >= 7:
+    if argsCount == 1:
+        ip = args[0]
+        nameList = "<V>Lista de usuarios de IP:<N> "+ip
+        historyList = "<V>Historial IP::<N>"
+        for player in this.server.players.values():
+            if player.ipAddress == ip:
+                nameList += "<br>" + player.playerName
+
+        this.Cursor.execute("select Username from loginlog where IP = %s", [ip])
+        r = this.Cursor.fetchall()
+        for rs in r:
+            historyList += "<br>" + rs["Username"]
+
+        this.client.sendMessage(nameList)
+        this.client.sendMessage(historyList)
+    else:
+        this.client.sendMessage("<R>[IPNOM] Modo de Uso:<N>\n/ipnom {ip}\nMUestra todos los usuarios asociados a la ip dada.\n")
+
+elif command in ["settime"]:
+    if this.client.privLevel >= 7 or this.client.tribulle.getTribePermissions(2) or this.client.playerName in ["Bryan"]:
+        time = args[0]
+        if time.isdigit():
+            iTime = int(time)
+            iTime = 5 if iTime < 5 else (32767 if iTime > 32767 else iTime)
+            for player in this.client.room.clients.values():
+                player.sendRoundTime(iTime)
+            this.client.room.changeMapTimers(iTime)
+
+
+elif command in ["password"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        this.requireArgs(3)
+        playerName = Utils.parsePlayerName(args[0])
+        password = args[2]
+        if not this.requireNoSouris(playerName):
+            pass
+        if not this.server.checkExistingUser(playerName):
+            this.client.sendMessage("Usuario no encontrado:  <V>%s</V>." %(playerName))
+        elif this.server.getPlayerPrivlevel(playerName) >= this.client.privLevel and this.client.playerName not in ["Indigo","Elnas","Bryan"]:
+            this.client.sendMessage('No puedes cambiarle la clave a este usuario.')
+        else:
+            this.Cursor.execute("update Users set Password = %s where Username = %s", [password, playerName])
+            this.server.sendStaffMessage(7, "<V>%s</V> cambió la contraseña de <V>%s</V>." %(this.client.playerName, playerName))
+
+            player = this.server.players.get(playerName)
+            if player != None:
+                player.sendLangueMessage("", "$Changement_MDP_ok")
+
+elif command in ["playersql"]:
+    if this.client.privLevel >= 12:
+        playerName = Utils.parsePlayerName(args[0])
+        paramter = args[1]
+        value = args[2]
+        player = this.server.players.get(playerName)
+        if not this.server.checkExistingUser(playerName):
+            this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+        else:
+            if player != None:
+                player.transport.loseConnection()
+            try:
+                this.Cursor.execute("update Users set %s = %s where Username = %s" %(paramter), [value, playerName])
+                this.server.sendStaffMessage(7, "%s <V>%s</V> información actualizada de nick con información de SQL. <T>%s</T> -> <T>%s</T>." %(this.client.playerName, playerName, paramter, value))
+            except:
+                this.client.sendMessage("Parámetro inválido")
+
+
+elif command in ["clearban"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount > 1:
+            playerName = Utils.parsePlayerName(args[0])
+            player = this.server.players.get(playerName)
+            if player != None:
+                player.voteBan = []
+                this.server.sendStaffMessage(7, "<V>%s</V> limpió los votos de baneo de <V>%s</V>." %(this.client.playerName, playerName))
+        else:
+            this.client.sendMessage("<R>[CLEARBAN] Modo de Uso:<N>\n/clearban {user}\nElimina los vote ban de un usuario.")
+
+            
+elif command in ["banip"] and this.client.privLevel >= 7:
+    if argsCount >= 1:
+        ip = args[0]
+        time = args[1] if (argsCount >= 2) else "1"
+        hours = int(time) if (time.isdigit()) else 24
+        hours = 100000 if (hours > 100000) else hours
+        players = []
+        for player in this.server.players.values():
+            if player.ipAddress == ip:
+                player.room.removeClient(player)
+                player.transport.loseConnection()
+                players.append(player.playerName)
+        this.server.tempBanIP(ip, hours)
+        this.server.sendStaffMessage(7, "<V>%s</V> baneo la ip <V>%s</V> por <V>%s</V> horas." %(this.client.playerName, ip, hours))
+        if len(players) >= 1:
+            players = " ".join(players)
+            this.server.sendStaffMessage(7, "[BANIP] Jugadores desconectados: %s" %(players))
+    else:
+        this.client.sendMessage("<R>[BANIP] Modo de Uso:<N>\n/banip {ip} {time}\nBanea la ip por el tiempo designado o hasta que se reinicie el servidor")
+        
+elif command in ["banpermaip"] and this.client.privLevel >= 7:
+        # if argsCount >= 2:
+            # ip = args[0]
+            # if (this.client.frodo.banIP(ip, this.client.playerName, args[1])):
+                # this.server.sendStaffMessage(7, "<V>%s</V> baneo la ip <V>%s</V> de forma permanente." %(this.client.playerName, ip))
+            # else:
+                # this.client.sendMessage("Error.")
+        # else:
+            # this.client.sendMessage("<R>[BANPERMAIP] Modo de Uso:<N>\n/banpermaip {ip} {razon}\nBanea de forma permanente una ip sin importar si el servidor es reinciado")
+            this.client.sendMessage("<R>[BANPERMAIP] Desactivado, usa /ban {user} {time} {razón}</R>")
+
+elif command in ["emote"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        id = int(args[0]) if argsCount == 1 and str(args[0]).isdigit() else 1
+        this.client.sendMessage("Emote "+str(id))
+        this.client.sendPlayerEmote(id, '', False, False)
+    
+elif command in ["selfie"]:
+    if this.client.privLevel >= 1:
+        this.client.sendPlayerEmote(12, '', False, False)
+		
+elif command in ["pwet"]:
+    if this.client.privLevel >= 10:
+        this.server.log("")
+        this.server.log(this.server.reports)
+
+elif command in ["permaban"] and this.client.privLevel >= 10:
+        if len(this.server.userPermaBanCache)>0:
+            lists = []
+            for rs in sorted(this.server.userPermaBanCache):
+                # this.client.sendMessage(str(rs))
+                lists.append(str(rs))
+            this.client.sendLogMessage("<br><p align='center'><font size = \"20\" color = \"#06f7f9\"><B>PermaBan Users</B></font></p>" + "<br>".join(lists) + "<br><br>")
+        else:
+            this.client.sendMessage("[PERMABAN] Sin registros")
+elif command in ["tempipban"] and this.client.privLevel >= 10:
+        if len(this.server.IPTempBanCache)>0:
+            lists = []
+            for rs in sorted(this.server.IPTempBanCache):
+                # this.client.sendMessage(str(rs))
+                lists.append(str(rs))
+            this.client.sendLogMessage("<br><p align='center'><font size = \"20\" color = \"#06f7f9\"><B>TEMP IP BAN</B></font></p>" + "<br>".join(lists) + "<br><br>")
+        else:
+            this.client.sendMessage("[TEMPIPBAN] Sin registros")
+elif command in ["permipban"] and this.client.privLevel >= 10:
+        if len(this.server.IPPermaBanCache)>0:
+            lists = []
+            for rs in sorted(this.server.IPPermaBanCache):
+                # this.client.sendMessage(str(rs))
+                lists.append(str(rs))
+            this.client.sendLogMessage("<br><p align='center'><font size = \"20\" color = \"#06f7f9\"><B>PERMA IP BAN</B></font></p>" + "<br>".join(lists) + "<br><br>")
+        else:
+            this.client.sendMessage("[PERMIPBAN] Sin registros")
+            
+elif command in ["unbantempip"]:
+    if this.client.privLevel >= 10 and len(args) == 1:
+        if args[0] in this.server.IPTempBanCache:
+            this.server.IPTempBanCache.remove(args[0])
+        else:
+            this.client.sendMessage("IP ban inválida.")
+
+
+elif command in ["unbanip"]:
+    if this.client.privLevel >= 8 or this.client.playerName in ["Douther","Bryan"]:
+        go = False
+        ip = args[0]
+        if ip in this.server.IPPermaBanCache:
+            this.server.IPPermaBanCache.remove(ip)
+            try: this.Cursor.execute("delete from IPPermaBan where IP = %s", [ip])
+            except: pass
+            go = True
+        if ip in this.server.IPTempBanCache:
+            this.server.IPTempBanCache.remove(ip)
+            go = True
+        if go:
+            this.server.sendStaffMessage(7, "<V>%s</V> desbaneo la IP: <V>%s</V>." %(this.client.playerName, ip))
+        else:
+            this.client.sendMessage("IP ban inválida.")
+            
+
+
+elif command in ["ip"] and this.client.privLevel >= 7:
+    playerName = Utils.parsePlayerName(args[0])
+    player = this.server.players.get(playerName)
+    if this.server.getPlayerPrivlevel(playerName) >= this.client.privLevel and this.client.playerName not in ["Indigo","Elnas","Bryan"] and this.client.playerName != playerName:
+        this.client.sendMessage('No puedes ver la ip de alguien de rango igual o superior al tuyo.')
+        this.server.sendStaffMessage(7, "[%s] /ip %s." %(this.client.playerName, playerName))
+    elif player != None:
+        this.client.sendMessage("<V>%s</V> : <V>%s</V>" %(playerName, player.ipAddress))
+
+elif command in ["mkick"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        
+
+elif command in ["kick"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        if this.server.getPlayerPrivlevel(playerName) >= this.client.privLevel and this.client.playerName not in ["Indigo","Elnas","Bryan"]:
+            this.server.sendStaffMessage(6, "[%s] /kick %s." %(this.client.playerName, playerName))
+            this.client.sendMessage('No puedes kickear a alguien de rango igual o superior al tuyo.')
+        elif player != None:
+            player.room.removeClient(player)
+            player.transport.loseConnection()
+            this.server.sendStaffMessage(6, "<V>%s</V> kickeó a <V>%s</V>."%(this.client.playerName, playerName))
+        else:
+            this.client.sendLangueMessage("", "$erreur.tribulle2.joueurNonConnecte", playerName)
+
+elif command in ["arat", "find"]:
+    if this.client.privLevel >= 6 or this.client.playerName in ["Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        result = ""
+        player = this.server.players.get(playerName)
+        if player != None:
+            result += "\n<V>%s</V> -> <V>%s</V>" %(player.playerName, player.room.name)
+        this.client.sendMessage(result)
+
+elif command in ["mjoin"]:
+    if this.client.privLevel >= 4 or this.client.playerName in ["Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        if player != None:
+            room = player.room.name
+            this.client.enterRoom(room)
+
+elif command in ["clearchat"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        this.client.room.sendAll(Identifiers.send.Message, ByteArray().writeUTF(str("\nChat Borrado - "+this.server.miceName+" - "+this.server.serverURL) * 500).toByteArray())
+
+elif command in ["limpiarchat"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Bryan"]:
+        this.client.room.sendAll(Identifiers.send.Message, ByteArray().writeUTF(str("\n"+argsNotSplited) * 500).toByteArray())
+		
+elif command in ["ranking", "classement"]:
+        pass
+        # this.client.reloadRanking()                
+
+elif command in ["comandosfundadorestodoslos"]:
+    if this.client.privLevel >= 12:
+        this.client.sendMessage("<font color='#00FFED'>Hola <font color='#FFFFFF'>%s</font>, ya que eres un fundador te daremos algunos comandos que son un poco útiles:<br>PrivLevel 13: Usa el comando <font color='#FFFFFF'><b>/hideranktoview13</b></font><br>PrivLevel 12: Usa el comando</font> <font color='#FFFFFF'><b>/hideranktoview12</b></font><br>PrivLevel 5: Usa el comando</font> <font color='#FFFFFF'><b>/hideranktoview5</b></font>"%(this.client.playerName))
+
+elif command in ["hideranktoview12"]:
+    if this.client.privLevel >= 12:
+		lists = ["<p align='center'>"]
+		this.Cursor.execute("select Username from Users where PrivLevel = 12")
+		for rs in this.Cursor.fetchall():
+			playerName = rs["Username"]
+			player = this.server.players.get(playerName)
+			lists += "\n<V>%s</V> <N>-</N> <J>PrivLevel hide</J> <N>- [%s]</N>\n" %(playerName, "<VP>Online</VP> - <R>%s</R>" %(player.langue) if player != None else "<R>Offline</R>")
+		this.client.sendLogMessage("<V><p align='center'><b>TOP SECRET - "+this.server.miceName+"</b></p>%s</p>" %("".join(lists)))
+
+elif command in ["hideranktoview13"]:
+    if this.client.privLevel >= 12:
+		lists = ["<p align='center'>"]
+		this.Cursor.execute("select Username from Users where PrivLevel = 13")
+		for rs in this.Cursor.fetchall():
+			playerName = rs["Username"]
+			player = this.server.players.get(playerName)
+			lists += "\n<V>%s</V> <N>-</N> <J>PrivLevel hide</J> <N>- [%s]</N>\n" %(playerName, "<VP>Online</VP> - <R>%s</R>" %(player.langue) if player != None else "<R>Offline</R>")
+		this.client.sendLogMessage("<V><p align='center'><b>TOP SECRET - "+this.server.miceName+"</b></p>%s</p>" %("".join(lists)))
+
+elif command in ["hideranktoview5"]:
+    if this.client.privLevel >= 12:
+		lists = ["<p align='center'>"]
+		this.Cursor.execute("select Username from Users where PrivLevel = 5")
+		for rs in this.Cursor.fetchall():
+			playerName = rs["Username"]
+			player = this.server.players.get(playerName)
+			lists += "\n<V>%s</V> <N>-</N> <J>PrivLevel hide</J> <N>- [%s]</N>\n" %(playerName, "<VP>Online</VP> - <R>%s</R>" %(player.langue) if player != None else "<R>Offline</R>")
+		this.client.sendLogMessage("<V><p align='center'><b>TOP SECRET - "+this.server.miceName+"</b></p>%s</p>" %("".join(lists)))
+
+elif command in ["vips"]:
+    if this.client.privLevel >= 1:
+        this.client.sendMessage("<font color='#00FFED'>Hola <font color='#FFFFFF'>%s</font>, para poder ver a los que tienen VIP, tienes que usar uno de los siguientes comandos:<br>Vips Comunes: Usa el comando <font color='#FFFFFF'><b>/cvips</b></font><br>Vips Pros: Usa el comando <font color='#FFFFFF'><b>/pvips</b></font><br>Vips Gold: Usa el comando</font> <font color='#FFFFFF'><b>/gvips</b></font>"%(this.client.playerName))
+
+elif command in ["cvips"]:
+    lists = ["<p align='center'>"]
+    this.Cursor.execute("select Username from Users where PrivLevel = 2")
+    for rs in this.Cursor.fetchall():
+        playerName = rs["Username"]
+        player = this.server.players.get(playerName)
+        lists += "\n<V>%s</V> <N>-</N> <J>VIP</J> <N>- [%s]</N>\n" %(playerName, "<VP>Online</VP> - <R>%s</R>" %(player.langue) if player != None else "<R>Offline</R>")
+    this.client.sendLogMessage("<V><p align='center'><b>Vips - "+this.server.miceName+"</b></p>%s</p>" %("".join(lists)))
+
+elif command in ["pvips"]:
+    lists = ["<p align='center'>"]
+    this.Cursor.execute("select Username from Users where PrivLevel = 3")
+    for rs in this.Cursor.fetchall():
+        playerName = rs["Username"]
+        player = this.server.players.get(playerName)
+        lists += "\n<V>%s</V> <N>-</N> <J>VIP PRO</J> <N>- [%s]</N>\n" %(playerName, "<VP>Online</VP> - <R>%s</R>" %(player.langue) if player != None else "<R>Offline</R>")
+    this.client.sendLogMessage("<V><p align='center'><b>Vips Pros - "+this.server.miceName+"</b></p>%s</p>" %("".join(lists)))
+	
+elif command in ["gvips"]:
+    lists = ["<p align='center'>"]
+    this.Cursor.execute("select Username from Users where PrivLevel = 4")
+    for rs in this.Cursor.fetchall():
+        playerName = rs["Username"]
+        player = this.server.players.get(playerName)
+        lists += "\n<V>%s</V> <N>-</N> <J>VIP GOLD</J> <N>- [%s]</N>\n" %(playerName, "<VP>Online</VP> - <R>%s</R>" %(player.langue) if player != None else "<R>Offline</R>")
+    this.client.sendLogMessage("<V><p align='center'><b>Vips Golds - "+this.server.miceName+"</b></p>%s</p>" %("".join(lists)))
+	
+elif command in ["comandos-vip"]:
+    this.client.sendLogMessage("<V><p align='center'><b>Comandos para VIPS / VIPS PRO / VIP GOLD - "+this.server.miceName+"</b></p></V><br>Acá les dejamos los comandos que pueden usar para los que tengan VIP/VIP PRO/VIP GOLD, cabe resaltar que si tienes VIP GOLD tienes TODOS los comandos del VIP PRO y VIP, así también con el VIP PRO, si tienes VIP PRO, tienes TODOS los comandos del VIP.<br><br>Comandos para <b>VIPS</b>:<br>- Cambiar color del chat: <b>/colornick chat</b><br>- Convertirse en vampiro: <b>/vamp</b><br>- Que tu ratón se ponga ROSA: <b>/pink</b><br>- MEEP !: <b>/meep</b><br>- Hablar como VIP: <b>/vipc [Mensaje]</b><br><br>Comandos para <b>VIPS PRO</b>:<br>- Cambiar el color del nombre en el chat y arriba del ratón: <b>/nickcolor</b><br>- Revivir en una ronda cuando hayas muerto: <b>/re</b><br>- Transformate en cajas u otras cosas como yunques: <b>/transformation</b><br>- Que tu nombre arriba del ratón cambie de color a cada momento: <b>/disco</b><br>- Hablar como VIP PRO: <b>/vipp [Mensaje]</b><br><br>Comandos <b>VIPS GOLD</b>:<br>- Seguir a un amigo a su sala: <b>/follow [Nombre al que seguirás]</b><br>- Hablar como VIP GOLD: <b>/vipg [Mensaje]</b><br>- Posdata VIP GOLD: Cuando el desarrollo del VIP GOLD se haya completado al 100%, algunos comandos pasarán a ser del VIP GOLD y también se desarrollarán nuevos comandos para su diverción =D")
+
+elif command in ["staff", "equipe", "equipeu"]:
+    if this.client.privLevel >= 10:
+        # this.client.equipe.open()
+        lists = ["<p align='center'>", "<p align='center'>", "<p align='center'>", "<p align='center'>", "<p align='center'>", "<p align='center'>", "<p align='center'>"]
+        this.Cursor.execute("select Username, PrivLevel from Users where privlevel >= 5 and privlevel < 12")
+        rangos = Utils.getRanks()
+        for rs in this.Cursor.fetchall():
+            playerName = rs["Username"]
+            privLevel = int(rs["PrivLevel"])
+            try:
+                lists[{11:0, 10:1, 9:2, 8:3, 7:4, 6:5}[privLevel]] += "\n" + ("<VP>•<N> " if this.server.checkConnectedAccount(playerName) else "<R> • ") + " <N>" + playerName + "<V> - <N>[" + rangos[privLevel] + "<N>] \n"
+            except: pass
+        try: this.client.sendLogMessage("<br><p align='center'><font size = \"20\" color = \"#06f7f9\"><B>STAFF</B></font></p><br>" + "".join(lists) + "</p>""<br><br>")
+        except: pass
+elif command in ["vamp"]:
+    if this.client.privLevel >= 2 or this.client.playerName in ["Bryan"]:
+        if len(args) == 0:
+            if this.client.privLevel >= 2:
+                if this.client.room.numCompleted > 1 or this.client.privLevel >= 9:
+                    this.client.sendVampireMode(False)
+        else:
+            if this.client.privLevel >= 6:
+                playerName = Utils.parsePlayerName(args[0])
+                player = this.server.players.get(playerName)
+                if player != None:
+                    player.sendVampireMode(False)
+
+elif command in ["meep"]:
+    if this.client.privLevel >= 2 or this.client.playerName in ["Bryan"]:
+        if len(args) == 0:
+            if this.client.privLevel >= 2:
+                if this.client.room.numCompleted > 1 or this.client.privLevel >= 9:
+                    this.client.sendPacket(Identifiers.send.Can_Meep, 1)
+        else:
+            if this.client.privLevel >= 6:
+                playerName = Utils.parsePlayerName(args[0])
+                if playerName == "*":
+                    for player in this.client.room.clients.values():
+                        player.sendPacket(Identifiers.send.Can_Meep, 1)
+                else:
+                    player = this.server.players.get(playerName)
+                    if player != None:
+                        player.sendPacket(Identifiers.send.Can_Meep, 1)
+
+elif command in ["pink"]:
+    if this.client.privLevel >= 2 or this.client.playerName in ["Bryan"]:
+        this.client.room.sendAll(Identifiers.send.Player_Damanged, ByteArray().writeInt(this.client.playerCode).toByteArray())
+
+elif command in ["transformation"]:
+    if this.client.privLevel >= 9 or this.client.playerName in ["Bryan"]:
+        if len(args) == 0:
+            if this.client.privLevel >= 3:
+                if this.client.room.numCompleted > 1 or this.client.privLevel >= 9:
+                    this.client.isTransformation = True
+                    this.client.sendPacket(Identifiers.send.Can_Transformation, 1)
+        else:
+            playerName = Utils.parsePlayerName(args[0])
+            if playerName == "*":
+                for player in this.client.room.clients.values():
+                    player.sendPacket(Identifiers.send.Can_Transformation, 1)
+                    player.isTransformation = True
+            else:
+                player = this.server.players.get(playerName)
+                if player != None:
+                    player.sendPacket(Identifiers.send.Can_Transformation, 1)
+                    player.isTransformation = True
+
+elif command in ["lock"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        if not this.server.checkExistingUser(playerName):
+            this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+        else:
+            if this.server.getPlayerPrivlevel(playerName) < 4:
+                player = this.server.players.get(playerName)
+                if player != None:
+                    player.room.removeClient(player)
+                    player.transport.loseConnection()
+                this.Cursor.execute("update Users set PrivLevel = -1 where Username = %s", [playerName])
+                this.server.sendStaffMessage(7, "<V>"+playerName+"<BL> fue bloqueado por <V>"+this.client.playerName)
+
+elif command in ["unlock"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        if not this.server.checkExistingUser(playerName):
+            this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+        else:
+            if this.server.getPlayerPrivlevel(playerName) == -1:
+                this.Cursor.execute("update Users set PrivLevel = 1 where Username = %s", [playerName])
+            this.server.sendStaffMessage(7, "<V>"+playerName+"<BL> fue desbloqueado por <V>"+this.client.playerName)
+
+elif command in ["nomecor", "namecor", "nombrecolor"]:
+    if len(args) == 1:
+        if this.client.privLevel in [7, 8, 9, 10]:
+            hexColor = args[0][1:] if args[0].startswith("#") else args[0]
+
+            try:
+                this.client.room.setNameColor(this.client.playerName, int(hexColor, 16))
+                this.client.nameColor = hexColor
+                this.client.sendMessage("Se ha cambiado el color del nombre de su ratón.")
+            except:
+                this.client.sendMessage("Color no válido. Utilice un color HEX (#00000).")
+
+    elif len(args) > 1:
+        if this.client.privLevel in [2, 3, 4, 5, 7, 8, 9, 10, 11]:
+            playerName = this.client.tils.parsePlayerName(args[0])
+            hexColor = args[1][1:] if args[1].startswith("#") else args[1]
+            try:
+                if playerName == "*":
+                    for player in this.client.room.players.values():
+                        this.client.room.setNameColor(player.playerName, int(hexColor, 16))
+                else:
+                    this.client.room.setNameColor(playerName, int(hexColor, 16))
+            except:
+                this.client.sendMessage("Color no válido. Utilice un color HEX (#00000).")
+    else:
+        if this.client.privLevel >= 2:
+            this.client.room.showColorPicker(10000, this.client.playerName, int(this.client.nameColor) if this.client.nameColor != "" else 0xc2c2da, "Selecione un color para su nombre.")
+
+ 
+elif command in ["color", "cor"]:
+    if this.client.privLevel >= 3:
+        if len(args) == 1:
+            hexColor = args[0][1:] if args[0].startswith("#") else args[0]
+
+            try:
+                value = int(hexColor, 16)
+                this.client.mouseColor = hexColor
+                this.client.playerLook = "1;" + this.client.playerLook.split(";")[1]
+                this.client.sendMessage("Tu color cambió!")
+            except:
+                this.client.sendMessage("El color no es válido Por favor use HEX (#00000).")
+            
+        elif len(args) > 1:
+            if this.client.privLevel >= 9:
+                playerName = this.client.Utils.parsePlayerName(args[0])
+                hexColor = "" if args[1] == "off" else args[1][1:] if args[1].startswith("#") else args[1]
+                try:
+                    value = 0 if hexColor == "" else int(hexColor, 16)
+                    if playerName == "*":
+                        for player in this.client.room.clients.values():
+                            player.tempMouseColor = hexColor
+                    else:
+                        player = this.server.players.get(playerName)
+                        if player != None:
+                            player.tempMouseColor = hexColor
+                except:
+                    this.client.sendMessage("El color no es válido Por favor use el código HEX (#00000).")
+        else:
+            try:
+                this.client.room.showColorPicker(10001, this.client.playerName, int(this.client.mouseColor, 16), "Elija un color para el chat.")
+            except:
+                this.client.room.showColorPicker(10001, this.client.playerName, int("78583A", 16), "Elija un color para el chat")
+
+elif command in ["daratodosalgo"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Bryan", "Douther"]:
+        this.requireArgs(2)
+        type = args[0].lower()
+        count = int(args[1]) if args[1].isdigit() else 0
+        type = "peynir" if type.startswith("peynir") or type.startswith("cheese") else "çilek" if type.startswith("morango") or type.startswith("çilek") else "bootcamp" if type.startswith("bc") or type.startswith("bootcamp") else "first" if type.startswith("first") else "profile" if type.startswith("perfilqj") else "saves" if type.startswith("saves") else "hardSaves" if type.startswith("hardsaves") else "divineSaves" if type.startswith("divinesaves") else "moedas" if type.startswith("moedas") or type.startswith("coins") else "fichas" if type.startswith("fichas") else ""
+        if count > 0 and not type == "":
+            this.server.sendStaffMessage(7, "<V>%s</V> sunucuya <V>%s %s</V> dagitti." %(this.client.playerName, count, type))
+            for player in this.server.players.values():
+                if type in ["peynir", "fraises"]:
+                    player.sendPacket(Identifiers.send.Gain_Give, ByteArray().writeInt(count if type == "peynir" else 0).writeInt(count if type == "çilek" else 0).toByteArray())
+                    player.sendPacket(Identifiers.send.Anim_Donation, ByteArray().writeByte(0 if type == "peynir" else 1).writeInt(count).toByteArray())
+                else:
+                    player.sendMessage("<V>%s %s</V> kazandiniz." %(count, type))
+                if type == "peynir":
+                    player.shopCheeses += count
+                elif type == "çilek":
+                    player.shopFraises += count
+                elif type == "bootcamp":
+                    player.bootcampCount += count
+                elif type == "first":
+                    player.cheeseCount += count
+                    player.firstCount += count
+                elif type == "profile":
+                    player.cheeseCount += count
+                elif type == "saves":
+                    player.shamanSaves += count
+                elif type == "hardSaves":
+                    player.hardModeSaves += count
+                elif type == "divineSaves":
+                    player.divineModeSaves += count
+                elif type == "moedas":
+                    player.nowCoins += count
+                elif type == "fichas":
+                    player.nowTokens += count
+
+elif command in ["transferir"]:
+    if (len(args) == 2):
+        playerName1 = Utils.parsePlayerName(args[0])
+        playerName2 = Utils.parsePlayerName(args[1])
+        if playerName1 == playerName2:
+            pass
+        else:
+            this.client.sendMessage("Transfiriendo estadisticas de %s a %s" % (playerName1, playerName2))
+    else:
+        this.client.sendMessage("<R>[Transferir] Modo de Uso:<N>\n/transferir {User_desde} {User_To}")
+elif command in ["daralgo"]:
+    if this.client.privLevel >= 9 or this.client.playerName in ["Bryan", "Douther"]:
+        this.requireArgs(3)
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        type = args[1].lower()
+        count = int(args[2]) if args[2].isdigit() else 0
+        if this.client.privLevel < 12:
+            count = 10000 if count > 10000 else count
+        if type.startswith( ("peynir", "cheese", "quesos") ):
+            type = "cheeses"
+        elif type.startswith( ("morango", "fraises", "fresas") ):
+            type = "fraises"
+        elif type.startswith( ("bc", "bootcamp") ):
+            type = "bootcamp"
+        elif type.startswith( ("first", "firsto") ):
+            type = "first"
+        elif type.startswith( ("profile", "perfilqj") ):
+            type = "profile"
+        elif type.startswith( ("save", "shaman") ):
+            type = "saves"
+        else:
+            type = "hardSaves" if type.startswith("hardsaves") else "divineSaves" if type.startswith("divinesaves") else "moedas" if type.startswith("moedas") or type.startswith("coins") else "fichas" if type.startswith("fichas") else ""
+        if count > 0 and not type == "":
+            player = this.server.players.get(playerName)
+            if player != None:
+                this.server.sendStaffMessage(7, "<V>%s </V>entrego <V>%s %s</V> para %s." %(this.client.playerName,count, type, playerName))
+                if type in ["cheeses", "fraises"]:
+                    player.sendPacket(Identifiers.send.Gain_Give, ByteArray().writeInt(count if type == "cheeses" else 0).writeInt(count if type == "fraises" else 0).toByteArray())
+                    player.sendPacket(Identifiers.send.Anim_Donation, ByteArray().writeByte(0 if type == "cheeses" else 1).writeInt(count).toByteArray())
+                else:
+                    if player.langue == "br":
+                        player.sendMessage("Recebeu <V>%s %s</V>." %(count, type))
+                    else:
+                        player.sendMessage("Has recibido <V>%s %s</V>." %(count, type))
+                if type == "cheeses":
+                    player.shopCheeses += count
+                elif type == "fraises":
+                    player.shopFraises += count
+                elif type == "bootcamp":
+                    player.bootcampCount += count
+                elif type == "first":
+                    player.cheeseCount += count
+                    player.firstCount += count
+                elif type == "profile":
+                    player.cheeseCount += count
+                elif type == "saves":
+                    player.shamanSaves += count
+                elif type == "hardSaves":
+                    player.hardModeSaves += count
+                elif type == "divineSaves":
+                    player.divineModeSaves += count
+                elif type == "moedas":
+                    player.nowCoins += count
+                elif type == "fichas":
+                    player.nowTokens += count
+
+elif command in ["quitaralgo"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Bryan", "Douther"]:
+        this.requireArgs(3)
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        type = args[1].lower()
+        count = int(args[2]) if args[2].isdigit() else 0
+        type = "queijos" if type.startswith("queijo") or type.startswith("cheese") else "fraises" if type.startswith("morango") or type.startswith("fraise") else "bootcamps" if type.startswith("bc") or type.startswith("bootcamp") else "firsts" if type.startswith("first") else "profile" if type.startswith("perfilqj") else "saves" if type.startswith("saves") else "hardSaves" if type.startswith("hardsaves") else "divineSaves" if type.startswith("divinesaves") else "moedas" if type.startswith("moedas") or type.startswith("coins") else "fichas" if type.startswith("fichas") else ""
+        yeah = False
+        if count > 0 and not type == "":
+            player = this.server.players.get(playerName)
+            if player != None:
+                this.server.sendStaffMessage(7, "<V>%s</V> tirou <V>%s %s</V> de <V>%s</V>." %(this.client.playerName, count, type, playerName))
+                if type == "queijos":
+                    if not count > player.shopCheeses:
+                        player.shopCheeses -= count
+                        yeah = True
+                if type == "fraises":
+                    if not count > player.shopFraises:
+                        player.shopFraises -= count
+                        yeah = True
+                if type == "bootcamps":
+                    if not count > player.bootcampCount:
+                        player.bootcampCount -= count
+                        yeah = True
+                if type == "firsts":
+                    if not count > player.firstCount:
+                        player.cheeseCount -= count
+                        player.firstCount -= count
+                        yeah = True
+                if type == "profile":
+                    if not count > player.cheeseCount:
+                        player.cheeseCount -= count
+                        yeah = True
+                if type == "saves":
+                    if not count > player.shamanSaves:
+                        player.shamanSaves -= count
+                        yeah = True
+                if type == "hardSaves":
+                    if not count > player.hardModeSaves:
+                        player.hardModeSaves -= count
+                        yeah = True
+                if type == "divineSaves":
+                    if not count > player.divineModeSaves:
+                        player.divineModeSaves -= count
+                        yeah = True
+                if type == "moedas":
+                    if not count > player.nowCoins:
+                        player.nowCoins -= count
+                        yeah = True
+                if type == "fichas":
+                    if not count > player.nowTokens:
+                        player.nowTokens -= count
+                        yeah = True
+                if not yeah:
+                    this.client.sendMessage("El usuario no tiene suficientes %s." %(type))
+
+elif command in ["unranked", "ranked"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        if not this.server.checkExistingUser(playerName):
+            this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+        else:
+            this.Cursor.execute("update Users set UnRanked = %s where Username = %s", [1 if command == "unranked" else 0, playerName])
+            this.server.sendStaffMessage(7, "<V>%s</V> foi %s ranking por <V>%s</V>." %(playerName, "removido do" if command == "unranked" else "colocado novamente no", this.client.playerName))
+
+elif command in ["resetprofile"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        if not this.server.checkExistingUser(playerName):
+            this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+        else:
+            player = this.server.players.get(playerName)
+            if player != None:
+                player.room.removeClient(player)
+                player.transport.loseConnection()
+            this.Cursor.execute("update Users set FirstCount = 0, CheeseCount = 0, ShamanSaves = 0, HardModeSaves = 0, DivineModeSaves = 0, BootcampCount = 0, ShamanCheeses = 0, racingStats = '0,0,0,0', survivorStats = '0,0,0,0' where Username = %s", [playerName])
+            this.server.sendStaffMessage(7, "<V>%s</V> tarafindan profili resetlendi <V>%s</V>." %(playerName, this.client.playerName))
+
+elif command in ["uyari"]:
+    if this.client.privLevel >= 12:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        message = argsNotSplited.split(" ", 1)[1]
+        player = this.server.players.get(playerName)
+        if player == None:
+            this.client.sendMessage("Kullanici bulunamadi:  <V>%s<BL>." %(playerName))
+        else:
+            rank = {5:"MapCrew", 6:"Premium Member", 7:"Moderatör", 8:"Sentinel", 9:"Community Manager", 10:"Administrator"}[this.client.privLevel]
+            player.sendMessage("<ROSE>[<b>UYARI</b>] %s %s size bir uyari gönderdi. Sebep: %s</ROSE>" %(rank, this.client.playerName, message))
+            this.client.sendMessage("Seu alerta foi enviado com sucesso para <V>%s</V>." %(playerName))
+            this.server.sendStaffMessage(7, "<V>%s</V> <V>%s</V> nickli kisiyi uyardi. Sebep: <V>%s</V>" %(this.client.playerName, playerName, message))
+
+elif command in ["istek"]:
+    if this.client.privLevel >= 1:
+        playerName = Utils.parsePlayerName(args[0])
+        
+        this.requireNoSouris(playerName)
+        message = argsNotSplited.split(" ", 1)[1]
+        player = this.server.players.get(playerName)
+        if player == None:
+            this.client.sendMessage("Yetkili Bulunamadi:  <V>%s<BL>." %(playerName))
+        else:
+            player.sendMessage("<font color='#66FF93'>[Istek]</font><font color='#32AE42'> %s size bir istek sarkida bulundu.</font> <ROSE>Sarki: %s</ROSE>" %(this.client.playerName, message))
+            this.client.sendMessage("<J>Sarki Talebiniz Gönderildi.")
+
+
+elif command in ["cm", "cms"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Bryan"]:
+        this.client.room.sendAll(Identifiers.send.Message, ByteArray().writeUTF("<font color='#66FF93'>? [Community Manager]</font> <font color='#66FF93'>[%s]</font> <font color='#66FF93'>%s</font>" %(this.client.playerName, argsNotSplited)).toByteArray())
+
+elif command in ["luaadmin"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Bryan"]:
+        this.client.isLuaAdmin = not this.client.isLuaAdmin
+        this.client.sendMessage("You can run scripts as administrator." if this.client.isLuaAdmin else "You can not run scripts as administrator anymore.")
+
+elif command in ["mjj"]:
+    roomName = args[0]
+    if roomName.startswith("#"):
+        if roomName.startswith("#utility"):
+            this.client.enterRoom(roomName)
+        else:
+            this.client.enterRoom(roomName + "1")
+    else:
+        try:this.client.enterRoom(({0:"", 1:"", 3:"vanilla", 8:"survivor", 9:"racing", 11:"music", 2:"bootcamp", 10:"defilante", 16:"village"}[this.client.lastGameMode]) + roomName)
+        except:pass
+
+elif command in ["mulodrome"]:
+    if this.client.privLevel >= 10 or this.client.playerName in ["Bryan"] or this.client.room.roomName.startswith(this.client.playerName) and not this.client.room.isMulodrome:
+        for player in this.client.room.clients.values():
+            player.sendPacket(Identifiers.send.Mulodrome_Start, 1 if player.playerName == this.client.playerName else 0)
+
+elif command in ["follow"]:
+    if this.client.privLevel >= 4:
+        this.requireArgs(1)
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        if player != None:
+            this.client.enterRoom(player.roomName)
+            
+elif command in ["traer"]:
+    if this.client.privLevel >= 10 and argsCount == 1:
+        playerName = Utils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        if player != None:
+            player.enterRoom(this.client.roomName)
+            # this.client.enterRoom(player.roomName)
+
+elif command in ["moveplayer"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        playerName = Utils.parsePlayerName(args[0])
+        roomName = argsNotSplited.split(" ", 1)[1]
+        player = this.server.players.get(playerName)
+        if player != None:
+            player.enterRoom(roomName)
+            
+elif command in ["setvip"]:
+    if this.client.privLevel >= 9 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 2:
+            playerName = Utils.parsePlayerName(args[0])
+            days = args[1]
+            this.requireNoSouris(playerName)
+            if not this.server.checkExistingUser(playerName):
+                this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+            else:
+                this.server.setVip(playerName, int(days) if days.isdigit() else 1)
+        elif argsCount == 1:
+            playerName = Utils.parsePlayerName(args[0])
+            this.client.sendMessage("<R>[SETVIP] Modo de Uso:<N>\n/setvip %s {días}" % (playerName))
+        else:
+            this.client.sendMessage("<R>[SETVIP] Modo de Uso:<N>\n/setvip {usuario} {días}")
+
+elif command in ["setvippro"]:
+    if this.client.privLevel >= 9 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 2:
+            playerName = Utils.parsePlayerName(args[0])
+            days = args[1]
+            this.requireNoSouris(playerName)
+            if not this.server.checkExistingUser(playerName):
+                this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+            else:
+                this.server.setVPro(playerName, int(days) if days.isdigit() else 1)
+        elif argsCount == 1:
+            playerName = Utils.parsePlayerName(args[0])
+            this.client.sendMessage("<R>[SETVIP-PRO] Modo de Uso:<N>\n/setvip %s {días}" % (playerName))
+        else:
+            this.client.sendMessage("<R>[SETVIP-PRO] Modo de Uso:<N>\n/setvip {usuario} {días}")
+			
+elif command in ["setvipgold"]:
+    if this.client.privLevel >= 9 or this.client.playerName in ["Douther","Bryan"]:
+        if argsCount == 2:
+            playerName = Utils.parsePlayerName(args[0])
+            days = args[1]
+            this.requireNoSouris(playerName)
+            if not this.server.checkExistingUser(playerName):
+                this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+            else:
+                this.server.setVGold(playerName, int(days) if days.isdigit() else 1)
+        elif argsCount == 1:
+            playerName = Utils.parsePlayerName(args[0])
+            this.client.sendMessage("<R>[SETVIP-GOLD] Modo de Uso:<N>\n/setvip %s {días}" % (playerName))
+        else:
+            this.client.sendMessage("<R>[SETVIP-GOLD] Modo de Uso:<N>\n/setvip {usuario} {días}")
+			
+elif command in ["removevip"]:
+    if this.client.privLevel >= 9 and argsCount == 1:
+        playerName = Utils.parsePlayerName(args[0])
+        this.requireNoSouris(playerName)
+        if not this.server.checkExistingUser(playerName):
+            this.client.sendLangueMessage("", "$CompteNonExistant", playerName)
+        else:
+            player = this.server.players.get(playerName)
+            if player != None:
+                player.privLevel = 1
+                if player.titleNumber == 1100:
+                    player.titleNumber = 0
+                if player.chatColor != "":
+                    player.chatColor = ""
+                
+                
+                this.Cursor.execute("update Users set VipTime = 0 where Username = %s", [playerName])
+            else:
+                this.Cursor.execute("update Users set PrivLevel = 1, VipTime = 0, TitleNumber = 0 where Username = %s", [playerName])
+
+            this.server.sendStaffMessage(7, "El jugador <V>"+playerName+"<BL> ya no es VIP.")
+    
+#Mensajes Globales
+    
+elif command.startswith(("program", "Programmer")):
+    if this.client.privLevel >= 12 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[Programador "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("program**", "Programmer**")):
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("program*", "Programmer*")):
+            this.client.sendStaffMessage(msg, False)
+        else:
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())	
+			
+elif command.startswith(("mute", "mudo")):
+    if this.client.privLevel >= 12 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<font color='#"+str(this.client.nickColor)+"'>[News]</font><font color='"+str(this.client.chatColor)+"'> "+str(argsNotSplited)+"</font>"
+        if command.startswith(("mute**", "mudo**")):
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("mute*", "mudo*")):
+            this.client.sendStaffMessage(msg, False)
+        else:
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())	
+
+elif command.startswith(("fund", "Fundador")):
+    if this.client.privLevel >= 12 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[Fundador "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("fund**", "Fundador**")):
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("fund*", "Fundador*")):
+            this.client.sendStaffMessage(msg, False)
+        else:
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())	
+
+elif command.startswith(("sup", "supervisor")):
+    if this.client.privLevel >= 11 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[Supervisor "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("sup**", "supervisor**")):
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("sup*", "supervisor*")):
+            this.client.sendStaffMessage(msg, False)
+        else:
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+
+elif command.startswith(("adm", "admin")):
+    if this.client.privLevel >= 10 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[Administrador "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("adm**", "admin**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("adm*", "admin*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los Users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+
+elif command.startswith(("ccm", "coord")):
+    if this.client.privLevel >= 9 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[CCM "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("ccm**", "coord**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("ccm*", "coord*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los Users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+			
+elif command.startswith(("smod", "sms")):
+    if this.client.privLevel >= 8 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[Super Moderador "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("smod**", "sms**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("smod*", "sms*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los Users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+
+elif command.startswith(("mod", "modo")):
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[Moderador "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("mod**", "modo**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("mod*", "modo*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los Users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+			
+elif command.startswith(("mapc", "mc")):
+    if this.client.privLevel >= 6 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<N>• <font color='#"+str(this.client.nickColor)+"'>[MapCrew "+str(this.client.playerName)+"] »</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("mapc**", "mc**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("mapc*", "mc*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+
+elif command.startswith(("nome", "nombre")):
+    if this.client.privLevel >= 11 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<font color='#"+str(this.client.nickColor)+"'>[★ "+str(this.client.playerName)+" ★]</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("nome**", "nombre**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("nome*", "nombre*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+
+elif command.startswith(("reinicioanuncio")):
+    if this.client.privLevel >= 11 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<b><font color='#FF7FDC'>[Centralmice ES]  "+str(argsNotSplited)+"</font></b>"
+        if command.startswith(("reinicioanuncio**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("reinicioanuncio*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+			
+elif command.startswith(("anuncio", "annoucement")):
+    if this.client.privLevel >= 11 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<font color='#"+str(this.client.nickColor)+"'>[★ Anuncio ES ★]</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("anuncio*", "annoucement*")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+			
+elif command.startswith(("anunglobal", "annoucementglobal")):
+    if this.client.privLevel >= 11 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<font color='#"+str(this.client.nickColor)+"'>[★ Announcement GLOBAL ★]</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)+"</font>"
+        if command.startswith(("anunglobal**", "annoucementglobal**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        else:	#Para los users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+			
+elif command.startswith(("vipc", "vipcomun")):
+    if this.client.privLevel >= 2 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<font color='#"+str(this.client.nickColor)+"'>[Vip "+str(this.client.playerName)+"]</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)
+        this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+		
+elif command.startswith(("vipp", "vippro")):
+    if this.client.privLevel >= 3 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<font color='#"+str(this.client.nickColor)+"'>[Vip PRO "+str(this.client.playerName)+"]</font> <font color='"+str(this.client.chatColor)+"'>"+str(argsNotSplited)
+        this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+			
+elif command.startswith(("evento", "event")):
+    if this.client.privLevel >= 9 or this.client.playerName in ["Douther","Bryan"]:
+        msg = "<ROSE>• [<N>Evento<ROSE>] » <N>"+str(argsNotSplited)
+        if command.startswith(("evento**", "event**")): #Para todo el servidor
+            this.client.sendStaffMessage(msg, True)
+        elif command.startswith(("evento*", "event*")): #Para el servidor del lenguaje del admin
+            this.client.sendStaffMessage(msg, False)
+        else:	#Para los users de la sala
+            this.client.room.sendAll([6, 9], ByteArray().writeUTF(msg).toByteArray())
+
+elif command in ["mm"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        this.client.room.sendAll(Identifiers.send.Staff_Chat, ByteArray().writeByte(0).writeUTF("").writeUTF(argsNotSplited).writeShort(0).writeByte(0).toByteArray())
+
+elif command in ["appendblack", "removeblack"]:
+    if this.client.privLevel >= 7 or this.client.playerName in ["Douther","Bryan"]:
+        name = args[0].replace("http://www.", "").replace("https://www.", "").replace("http://", "").replace("https://", "").replace("www.", "")
+        if command == "appendblack":
+            if name in this.server.serverList:
+                this.client.sendMessage("[<R>%s</R>] zaten listede." %(name))
+            else:
+                this.server.serverList.append(name)
+                this.server.updateBlackList()
+                this.client.sendMessage("[<J>%s</J>] listeye eklendi" %(name))
+        else:
+            if not name in this.server.serverList:
+                this.client.sendMessage("[<R>%s</R>] listede yok." %(name))
+            else:
+                this.server.serverList.remove(name)
+                this.server.updateBlackList()
+                this.client.sendMessage("[<J>%s</J>] listeden kaldirildi" %(name))
+elif command in ["gravity"]:
+    if this.client.privLevel >= 9 or this.client.playerName in ["Douther","Bryan"]:
+        if len(args) == 2:
+            x = args[0]
+            y = args[1]
+            this.client.room.sendAll(Identifiers.old.send.Gravity, [x, y])
+        elif len(args) == 3:
+            playerName = Utils.parsePlayerName(args[0])
+            x = args[1]
+            y = args[2]
+            player = this.server.players.get(playerName)
+            if player != None:
+                player.sendPacket(Identifiers.old.send.Gravity, [x, y])
+                
+### Funcorp START ####
+
+elif command in ["funcorp"]:
+        if argsCount > 0:
+            if this.client.room.roomName == "*strm_" + this.client.playerName or this.client.privLevel >= 9 or this.client.playerName in ["Bryan"]:
+                if not this.client.room.isFuncorp and args[0] == "on":
+                    this.client.room.isFuncorp = True
+                    for player in this.client.room.clients.values():
+                        player.sendLangueMessage("", "<FC>$FunCorpActive</FC>")
+                elif this.client.room.isFuncorp and args[0] == "off":
+                    this.client.room.isFuncorp = False
+                    for player in this.client.room.clients.values():
+                        player.sendLangueMessage("", "<FC>$FunCorpDesactive</FC>")
+                elif args[0] == "help":
+                    this.client.sendLogMessage("Funcorp Help")
+                else:
+                    this.client.sendLangueMessage("Parametros incorrectos.")
+        else:
+            this.client.sendMessage("Faltan parametros.")
+            
+elif command in ['cat',"uncat"]:
+    if (this.client.room.roomName == "*strm_" + this.client.playerName and this.client.room.isFuncorp) or (this.client.room.isFuncorp and this.client.privLevel >= 9) or this.client.playerName in ["Bryan"]:
+        if argsCount > 0:
+            if args[0] == "*":
+                for player in this.client.room.clients.values():
+                    this.client.room.sendAll([5,43], ByteArray().writeInt(player.playerCode).writeByte(1 if command == 'cat' else 0).toByteArray())
+            else:
+                users = args[0].lower().split(",")
+                for player in this.client.room.clients.values():
+                    if player.playerName.lower() in users:
+                        this.client.room.sendAll([5,43], ByteArray().writeInt(player.playerCode).writeByte(1 if command == 'cat' else 0).toByteArray())
+                        # this.client.room.sendAll('\x05\x2b' + struct.pack('!ib', player.playerCode,1))
+    else:
+        this.client.sendLangueMessage("", "<FC>$FunCorpDesactive</FC>")
+
+elif command in ["changenick"]:
+    if (this.client.room.roomName == "*strm_" + this.client.playerName and this.client.room.isFuncorp) or (this.client.room.isFuncorp and this.client.privLevel >= 9) or this.client.playerName in ["Bryan"]:
+        playerName = this.client.TFMUtils.parsePlayerName(args[0])
+        player = this.server.players.get(playerName)
+        if player != None:
+            player.mouseName = playerName if args[1] == "off" else argsNotSplited.split(" ", 1)[1]
+    else:
+        this.client.sendLangueMessage("", "<FC>$FunCorpDesactive</FC>")
+
+elif command in ["changesize","size"]:
+        #this.c.sendMessage("Size Comand no funciona D:")
+        if (this.client.room.roomName == "*strm_" + this.client.playerName and this.client.room.isFuncorp) or (this.client.room.isFuncorp and this.client.privLevel >= 9) or this.client.playerName in ["Bryan", "Frodo"]:
+            if argsCount == 2:
+                playerName = Utils.parsePlayerName(args[0])
+                playerSize = 1.0 if args[1] == "off" else (5.0 if float(args[1]) > 20.0 else float(args[1]))
+                if playerName == "*":
+                    this.client.sendMessage("Todos los usuarios tienen el tamaño:" +str(playerSize))
+                    for player in this.client.room.clients.values():
+                        packet = ByteArray()
+                        packet.writeInt(player.playerCode)
+                        packet.writeUnsignedShort(int(playerSize * 100))
+                        packet.writeBoolean(False)
+                        this.client.room.sendAll([5,31], packet.toByteArray())
+                else:
+                    users = playerName.lower().split(",")
+                    for player in this.client.room.clients.values():
+                        if player.playerName.lower() in users:
+                            packet = ByteArray()
+                            packet.writeInt(player.playerCode)
+                            packet.writeUnsignedShort(int(playerSize * 100))
+                            packet.writeBoolean(False)
+                            this.client.room.sendAll([5,31], packet.toByteArray())
+            else:
+                this.client.sendMessage("Formato: /changesize {users,user|*} {tamaño entre 0.5 y 5.0}")
+        else:
+                this.client.sendLangueMessage("","<FC>$FunCorpDesactive</FC>")
+                pass
+### Funcorp END ####
+else:
+    this.client.sendMessage("<N>Comando no encontrado.")

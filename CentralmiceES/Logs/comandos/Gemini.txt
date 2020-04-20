@@ -1,0 +1,120 @@
+==================================================
+Fecha: [18/04/2020 - 17:26:40]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['staff']
+==================================================
+Fecha: [18/04/2020 - 17:27:25]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['title']
+==================================================
+Fecha: [18/04/2020 - 17:27:51]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 17:32:45]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['editeur']
+==================================================
+Fecha: [18/04/2020 - 17:35:31]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['editeur']
+==================================================
+Fecha: [18/04/2020 - 17:35:36]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['editeur']
+==================================================
+Fecha: [18/04/2020 - 17:35:39]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['editeur']
+==================================================
+Fecha: [18/04/2020 - 17:35:46]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['racing']
+==================================================
+Fecha: [18/04/2020 - 17:37:23]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['racing']
+==================================================
+Fecha: [18/04/2020 - 17:47:13]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['racing']
+==================================================
+Fecha: [18/04/2020 - 17:54:53]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['racing']
+==================================================
+Fecha: [18/04/2020 - 17:56:28]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 17:56:54]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['racing']
+==================================================
+Fecha: [18/04/2020 - 18:02:17]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['racing']
+==================================================
+Fecha: [18/04/2020 - 18:12:02]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 18:19:58]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 18:22:13]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 18:22:16]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 18:30:47]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 18:35:40]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['staff']
+==================================================
+Fecha: [18/04/2020 - 18:41:17]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 19:18:26]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['colornick piel 3026478']
+==================================================
+Fecha: [18/04/2020 - 19:18:38]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 19:18:43]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 19:19:02]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['colornick piel 4473924']
+==================================================
+Fecha: [18/04/2020 - 19:19:09]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['re']
+==================================================
+Fecha: [18/04/2020 - 19:19:35]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 19:20:59]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 19:21:15]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['stat (:']
+==================================================
+Fecha: [18/04/2020 - 19:22:08]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['toyon']
+==================================================
+Fecha: [18/04/2020 - 19:22:11]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 19:23:00]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['mort']
+==================================================
+Fecha: [18/04/2020 - 19:24:08]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 19:24:28]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Keko']
+==================================================
+Fecha: [18/04/2020 - 19:24:34]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 19:24:47]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Lovs']
+==================================================
+Fecha: [18/04/2020 - 19:24:53]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']
+==================================================
+Fecha: [18/04/2020 - 19:26:23]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['stad']
+==================================================
+Fecha: [18/04/2020 - 19:46:15]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Readme']
+==================================================
+Fecha: [18/04/2020 - 20:13:54]
+Usuario: [Gemini] IP: (190.42.49.234) Sala: [es-racing1] Comando: ['profil Gemini']

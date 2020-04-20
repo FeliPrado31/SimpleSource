@@ -1,0 +1,120 @@
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 1124, in parsePacket
+    this.client.sendDeathInventory()
+AttributeError: Client instance has no attribute 'sendDeathInventory'
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 1126, in parsePacket
+    this.client.sendDeathProfile()
+AttributeError: Client instance has no attribute 'sendDeathProfile'
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 772, in parsePacket
+    if this.client.checkTimeAccount():
+  File "Source.py", line 1024, in checkTimeAccount
+    this.Cursor.execute('SELECT Time FROM Account WHERE IP = %s', [this.ipAddress])
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2013, 'Lost connection to MySQL server during query')
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 1683, in parsePacket
+    this.client.tribulle.parseTribulleCode(code, packet)
+  File "/home/Habito/Source/Modulos/Tribulle.py", line 54, in parseTribulleCode
+    this.sendFriendsList(packet)
+  File "/home/Habito/Source/Modulos/Tribulle.py", line 144, in sendFriendsList
+    this.Cursor.execute("select Username, PlayerID, FriendsList, Marriage, Gender, LastOn from Users where Username in (%s)" %(Utils.joinWithQuotes(this.client.friendsList)))
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2006, 'MySQL server has gone away')
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 862, in parsePacket
+    this.client.loginPlayer(playerName, password, startRoom)
+  File "Source.py", line 489, in loginPlayer
+    Cursor.execute("select * from Users where Username = %s and Password = %s", [playerName, password])
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2006, 'MySQL server has gone away')
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 862, in parsePacket
+    this.client.loginPlayer(playerName, password, startRoom)
+  File "Source.py", line 489, in loginPlayer
+    Cursor.execute("select * from Users where Username = %s and Password = %s", [playerName, password])
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2006, 'MySQL server has gone away')
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 772, in parsePacket
+    if this.client.checkTimeAccount():
+  File "Source.py", line 1024, in checkTimeAccount
+    this.Cursor.execute('SELECT Time FROM Account WHERE IP = %s', [this.ipAddress])
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2006, 'MySQL server has gone away')
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 862, in parsePacket
+    this.client.loginPlayer(playerName, password, startRoom)
+  File "Source.py", line 489, in loginPlayer
+    Cursor.execute("select * from Users where Username = %s and Password = %s", [playerName, password])
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2006, 'MySQL server has gone away')
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 862, in parsePacket
+    this.client.loginPlayer(playerName, password, startRoom)
+  File "Source.py", line 489, in loginPlayer
+    Cursor.execute("select * from Users where Username = %s and Password = %s", [playerName, password])
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2006, 'MySQL server has gone away')
+
+Traceback (most recent call last):
+  File "Source.py", line 450, in parseString
+    this.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "/home/Habito/Source/Modulos/ParsePackets.py", line 862, in parsePacket
+    this.client.loginPlayer(playerName, password, startRoom)
+  File "Source.py", line 489, in loginPlayer
+    Cursor.execute("select * from Users where Username = %s and Password = %s", [playerName, password])
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/cursors.py", line 250, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+    raise errorvalue
+OperationalError: (2006, 'MySQL server has gone away')
+

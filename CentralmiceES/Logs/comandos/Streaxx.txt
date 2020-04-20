@@ -1,0 +1,282 @@
+==================================================
+Fecha: [12/04/2020 - 23:52:02]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['sup Test...']
+==================================================
+Fecha: [12/04/2020 - 23:52:09]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['sup* Test...']
+==================================================
+Fecha: [13/04/2020 - 00:01:09]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['sup* Dudas/Quejas/Sugerencias para MiniTF BETA al correo -- streaxx@minitf.net']
+==================================================
+Fecha: [13/04/2020 - 00:01:24]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['mods']
+==================================================
+Fecha: [13/04/2020 - 00:01:28]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['mod']
+==================================================
+Fecha: [13/04/2020 - 00:02:14]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['sup* Pronto reclutaremos para staff, atentos abajo en la web, y si alguien logra ingresar usar /staff o /mods']
+==================================================
+Fecha: [13/04/2020 - 00:03:16]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['clearchat']
+==================================================
+Fecha: [13/04/2020 - 00:03:23]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['clearchat*']
+==================================================
+Fecha: [13/04/2020 - 00:04:19]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['mute readme 1 Testing...']
+==================================================
+Fecha: [13/04/2020 - 00:04:40]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['ban readme 1 test']
+==================================================
+Fecha: [13/04/2020 - 00:06:48]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:06:54]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['p20']
+==================================================
+Fecha: [13/04/2020 - 00:06:58]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:07:03]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['p22']
+==================================================
+Fecha: [13/04/2020 - 00:07:05]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:07:11]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['p1']
+==================================================
+Fecha: [13/04/2020 - 00:07:15]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:07:20]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['p2']
+==================================================
+Fecha: [13/04/2020 - 00:07:21]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:07:24]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @3']
+==================================================
+Fecha: [13/04/2020 - 00:07:29]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:07:32]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['p3']
+==================================================
+Fecha: [13/04/2020 - 00:07:34]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:08:33]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-survivor1] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:08:36]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-survivor1] Comando: ['p10']
+==================================================
+Fecha: [13/04/2020 - 00:08:39]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-survivor1] Comando: ['np @2']
+==================================================
+Fecha: [13/04/2020 - 00:10:13]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-survivor1] Comando: ['editeur']
+==================================================
+Fecha: [13/04/2020 - 00:10:41]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['np @3']
+==================================================
+Fecha: [13/04/2020 - 01:31:10]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 12:12:12]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 12:12:28]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['hide']
+==================================================
+Fecha: [13/04/2020 - 12:13:10]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['ip zkce']
+==================================================
+Fecha: [13/04/2020 - 12:13:18]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['ipnom 191.96.43.236']
+==================================================
+Fecha: [13/04/2020 - 12:13:27]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['nomip 191.96.43.236']
+==================================================
+Fecha: [13/04/2020 - 12:13:35]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['nomip Zkce']
+==================================================
+Fecha: [13/04/2020 - 12:13:48]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['ip legitprosito']
+==================================================
+Fecha: [13/04/2020 - 12:14:01]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['ipnom 179.13.120.115']
+==================================================
+Fecha: [13/04/2020 - 12:17:53]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['ban Rafaxyz 2 Hack fly/Empezar antes de tiempo.']
+==================================================
+Fecha: [13/04/2020 - 12:18:08]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['log']
+==================================================
+Fecha: [13/04/2020 - 12:18:49]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['resetrecords *']
+==================================================
+Fecha: [13/04/2020 - 12:21:35]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [*racing29138219312] Comando: ['move racing1']
+==================================================
+Fecha: [13/04/2020 - 12:21:38]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-racing1] Comando: ['np']
+==================================================
+Fecha: [13/04/2020 - 12:21:42]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['unhide']
+==================================================
+Fecha: [13/04/2020 - 12:21:48]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 12:50:20]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 12:53:24]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 13:02:24]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 13:03:17]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 13:20:47]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ipnom 190.181.69.20']
+==================================================
+Fecha: [13/04/2020 - 13:20:51]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['find renzoo']
+==================================================
+Fecha: [13/04/2020 - 13:20:54]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 13:21:55]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['mymaps fenfen']
+==================================================
+Fecha: [13/04/2020 - 13:22:46]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ping']
+==================================================
+Fecha: [13/04/2020 - 13:43:12]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 13:47:29]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['profil Douther']
+==================================================
+Fecha: [13/04/2020 - 13:49:41]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['np']
+==================================================
+Fecha: [13/04/2020 - 13:49:44]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['changesize douther 5']
+==================================================
+Fecha: [13/04/2020 - 13:50:00]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['changesize douther 0']
+==================================================
+Fecha: [13/04/2020 - 13:51:21]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['eventodisco']
+==================================================
+Fecha: [13/04/2020 - 13:55:53]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 16:16:10]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 16:17:16]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-racing1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 16:35:01]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-racing1] Comando: ['ipnom 190.198.218.208']
+==================================================
+Fecha: [13/04/2020 - 18:22:43]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 18:22:46]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 18:22:49]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['playerid']
+==================================================
+Fecha: [13/04/2020 - 18:22:52]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['playerid']
+==================================================
+Fecha: [13/04/2020 - 18:22:55]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['playerid 1']
+==================================================
+Fecha: [13/04/2020 - 18:23:00]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['playerid Streaxx']
+==================================================
+Fecha: [13/04/2020 - 18:23:02]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['profil Streaxx']
+==================================================
+Fecha: [13/04/2020 - 20:28:52]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['tutorial']
+==================================================
+Fecha: [13/04/2020 - 20:37:18]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['rank lesslie 2']
+==================================================
+Fecha: [13/04/2020 - 20:37:23]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['rank lesslie 1']
+==================================================
+Fecha: [13/04/2020 - 20:37:35]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [13/04/2020 - 20:37:48]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [13/04/2020 - 20:37:57]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['tutorial']
+==================================================
+Fecha: [13/04/2020 - 20:38:00]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['staff']
+==================================================
+Fecha: [13/04/2020 - 20:38:02]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['equipo']
+==================================================
+Fecha: [13/04/2020 - 20:38:05]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['equipe']
+==================================================
+Fecha: [13/04/2020 - 20:38:07]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['mods']
+==================================================
+Fecha: [13/04/2020 - 20:38:32]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['rank lesslie 10']
+==================================================
+Fecha: [13/04/2020 - 20:38:36]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['staff']
+==================================================
+Fecha: [13/04/2020 - 20:38:39]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-[Tutorial] Streaxx] Comando: ['rank lesslie 1']
+==================================================
+Fecha: [13/04/2020 - 21:47:23]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [13/04/2020 - 21:47:26]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['cuentabug']
+==================================================
+Fecha: [13/04/2020 - 21:49:59]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['id']
+==================================================
+Fecha: [13/04/2020 - 21:50:02]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['miid']
+==================================================
+Fecha: [13/04/2020 - 21:50:49]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 21:50:58]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['mudo* Testing...']
+==================================================
+Fecha: [13/04/2020 - 22:46:09]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['rank lesslie 10']
+==================================================
+Fecha: [13/04/2020 - 22:46:15]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['staff']
+==================================================
+Fecha: [13/04/2020 - 22:46:23]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['find lesslie']
+==================================================
+Fecha: [13/04/2020 - 22:47:06]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['ls']
+==================================================
+Fecha: [13/04/2020 - 22:48:26]
+Usuario: [Streaxx] IP: (181.66.195.231) Sala: [es-1] Comando: ['hiderank']
